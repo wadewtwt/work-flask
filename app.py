@@ -1,6 +1,7 @@
 import os, sys
 from config.setting import SERVER_PORT
 from api.user import app
+from api.film import app
 
 # 项目根路径
 BASE_PATH = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
