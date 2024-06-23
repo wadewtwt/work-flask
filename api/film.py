@@ -7,6 +7,9 @@ from common.md5_operate import get_md5
 import re, time
 import requests
 import json
+import random
+import threading
+
 
 
 app = Flask(__name__)
@@ -50,13 +53,16 @@ def filmAdd():
 
 @app.route("/collect", methods=['GET'])
 def collect():
-    for i in range(2641, 10000, 20):
+    for i in range(2701, 10000, 20):
         print("now start is:" + str(i))
         remoteCollect(i)
 
     return jsonify({"code": 200, "msg": "collect ok!"})
 
 def remoteCollect(start):
+    random_number = random.randint(1, 5)
+    time.sleep(random_number)
+
     url = 'https://movie.douban.com/j/new_search_subjects?sort=T&tags=&start=' + str(start)
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
@@ -99,3 +105,53 @@ def addFilmSql(title, cover, url, rating, casts, star, directors, cover_x, cover
     # print("新增用户信息SQL ==>> '{}', '{}', '{}', '{}', '{}', '{}', '{}', '{}', '{}', '{}'".format(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id))
     db.execute_db_params(sql3, (title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id))
 
+
+def getProxysFromFile():
+    with open("proxy.txt", "r") as f:
+        l = f.readlines()
+    return l
+
+
+def run(proxy, start):
+    try:
+        print("proxy:{}".format(proxy))
+        s = requests.Session()
+        proxies = {
+            "http": "http://{}".format(proxy.strip()), "https": "https://{}".format(proxy.strip())
+        }
+        # header = {
+        #     "Host": "www.baidu.com",
+        #     "Referer": "http://www.baidu.com/xxx.html?199",
+        #     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36"
+        #
+        # }
+        header = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+        }
+
+        ret = s.get(url='https://movie.douban.com/j/new_search_subjects?sort=T&tags=&start=' + str(start),
+                    headers=header, proxies=proxies, timeout=4, verify=False)
+        rc = ret.content.decode("utf-8")
+        print("远程结果：")
+        print(rc)
+        exit()
+        if "成功" in rc:
+            global count
+            count += 1
+            print(count)
+    except Exception as e:
+        print("发生异常：", e)
+        pass
+
+
+if __name__ == '__main__':
+    count=1
+    l=getProxysFromFile()
+    # while True:
+    for i in range(2701, 2750, 20):
+        print("now start is:" + str(i))
+        try:
+            t=threading.Thread(target=run,args=(l.pop(), i))
+            t.start()
+        except:
+            pass
