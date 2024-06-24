@@ -1,0 +1,2643 @@
+
+错误：(1062, "Duplicate entry '转山-5318669' for key 'a_film.udx_title'")
+错误：(1062, "Duplicate entry '王子变青蛙-2043283' for key 'a_film.udx_title'")
+错误：(1062, "Duplicate entry '丧尸乐园-3259993' for key 'a_film.udx_title'")
+错误：(1062, "Duplicate entry '海尔兄弟-2148391' for key 'a_film.udx_title'")
+错误：(1062, "Duplicate entry '玻璃樽-1306541' for key 'a_film.udx_title'")
+错误：(1062, "Duplicate entry '心动-1292289' for key 'a_film.udx_title'")
+错误：(1062, "Duplicate entry '赏金猎人-21941770' for key 'a_film.udx_title'")
+错误：(1062, "Duplicate entry '月满轩尼诗-3777800' for key 'a_film.udx_title'")
+错误：(1062, "Duplicate entry '云的彼端，约定的地方-1381964' for key 'a_film.udx_title'")
+错误：(1062, "Duplicate entry '家有儿女2-5318129' for key 'a_film.udx_title'")
+错误：(1062, "Duplicate entry '神笔-1431718' for key 'a_film.udx_title'")
+错误：(1062, "Duplicate entry '魔法满屋-35134724' for key 'a_film.udx_title'")
+错误：(1062, "Duplicate entry '陀枪师姐-2190934' for key 'a_film.udx_title'")
+错误：(1062, "Duplicate entry '走到尽头-25766529' for key 'a_film.udx_title'")
+错误：(1062, "Duplicate entry '朋友也上床-4826330' for key 'a_film.udx_title'")
+错误：(1062, "Duplicate entry '天龙特攻队-2174535' for key 'a_film.udx_title'")
+错误：(1062, "Duplicate entry '胜者即是正义SP-21332518' for key 'a_film.udx_title'")
+错误：(1062, "Duplicate entry '铁线虫入侵-6839145' for key 'a_film.udx_title'")
+错误：(1062, "Duplicate entry '奥林匹斯的陷落-10743974' for key 'a_film.udx_title'")
+错误：(1062, "Duplicate entry '枪王-1306692' for key 'a_film.udx_title'")
+
+
+错误：(1062, "Duplicate entry '一直游到海水变蓝-33440244' for key 'a_film.udx_title'")
+错误：'NoneType' object has no attribute 'read'
+错误：(1062, "Duplicate entry '亡命驾驶-2010972' for key 'a_film.udx_title'")
+错误：(1062, "Duplicate entry '天道-2347485' for key 'a_film.udx_title'")
+错误：(1062, "Duplicate entry '伴你高飞-1292642' for key 'a_film.udx_title'")
+错误：(1062, "Duplicate entry '暗黑 第一季-26992330' for key 'a_film.udx_title'")
+错误：(1062, "Duplicate entry '闺蜜2-25856453' for key 'a_film.udx_title'")
+错误：(1062, "Duplicate entry '一把青-26461145' for key 'a_film.udx_title'")
+错误：(1062, "Duplicate entry '中国合伙人2-30293828' for key 'a_film.udx_title'")
+错误：'NoneType' object has no attribute 'read'
+错误：Packet sequence number wrong - got 2 expected 3
+错误：'NoneType' object has no attribute 'settimeout'
+【2024-06-24 12:06:17】
+错误：(1062, "Duplicate entry '摩纳哥王妃-10450713' for key 'a_film.udx_title'")
+【2024-06-24 12:06:17】
+错误：(1062, "Duplicate entry '万万没想到 第一季-24904361' for key 'a_film.udx_title'")
+【2024-06-24 12:06:17】
+错误：(1062, "Duplicate entry '苏乞儿-3736637' for key 'a_film.udx_title'")
+【2024-06-24 12:06:17】
+错误：(1062, "Duplicate entry '外公芳龄38-26415200' for key 'a_film.udx_title'")
+【2024-06-24 12:06:17】
+错误：(1062, "Duplicate entry '我的小小新娘-1390021' for key 'a_film.udx_title'")
+【2024-06-24 12:06:17】
+错误：(1062, "Duplicate entry '异度侵入-34456027' for key 'a_film.udx_title'")
+【2024-06-24 12:06:17】
+错误：(1062, "Duplicate entry '一把青-26461145' for key 'a_film.udx_title'")
+【2024-06-24 12:06:17】
+错误：(1062, "Duplicate entry '中国合伙人2-30293828' for key 'a_film.udx_title'")
+【2024-06-24 12:06:17】
+错误：(1062, "Duplicate entry '妈妈再爱我一次-1432972' for key 'a_film.udx_title'")
+【2024-06-24 12:06:17】
+错误：(1062, "Duplicate entry '准备好了没-27594938' for key 'a_film.udx_title'")
+【2024-06-24 12:06:17】
+错误：(1062, "Duplicate entry '棒！少年-34930862' for key 'a_film.udx_title'")
+【2024-06-24 12:06:17】
+错误：(1062, "Duplicate entry '坂本龙一：终曲-26984189' for key 'a_film.udx_title'")
+【2024-06-24 12:06:17】
+错误：(1062, "Duplicate entry '鼹鼠的故事-2994961' for key 'a_film.udx_title'")
+【2024-06-24 12:06:17】
+错误：(1062, "Duplicate entry '群鸟-1310175' for key 'a_film.udx_title'")
+【2024-06-24 12:06:17】
+错误：(1062, "Duplicate entry '天才捕手-5262339' for key 'a_film.udx_title'")
+【2024-06-24 12:06:17】
+错误：(1062, "Duplicate entry '汉武大帝-2411184' for key 'a_film.udx_title'")
+【2024-06-24 12:06:17】
+错误：(1062, "Duplicate entry '语义错误-35741365' for key 'a_film.udx_title'")
+【2024-06-24 12:06:17】
+错误：(1062, "Duplicate entry '虎胆龙威2-1300537' for key 'a_film.udx_title'")
+【2024-06-24 12:06:17】
+错误：(1062, "Duplicate entry '金色梦乡-3660428' for key 'a_film.udx_title'")
+【2024-06-24 12:06:17】
+错误：(1062, "Duplicate entry '在劫难逃-33426097' for key 'a_film.udx_title'")
+【2024-06-24 12:06:20】
+错误：(1062, "Duplicate entry '小谢尔顿 第二季-27623506' for key 'a_film.udx_title'")
+【2024-06-24 12:06:20】
+错误：(1062, "Duplicate entry '军舰岛-26445216' for key 'a_film.udx_title'")
+【2024-06-24 12:06:20】
+错误：(1062, "Duplicate entry '影武者-1303067' for key 'a_film.udx_title'")
+【2024-06-24 12:06:20】
+错误：(1062, "Duplicate entry '钢琴教师-1306730' for key 'a_film.udx_title'")
+【2024-06-24 12:06:20】
+错误：(1062, "Duplicate entry '极寒之城-26386034' for key 'a_film.udx_title'")
+【2024-06-24 12:06:20】
+错误：(1062, "Duplicate entry '封神榜-2154743' for key 'a_film.udx_title'")
+【2024-06-24 12:13:49】
+错误：(1062, "Duplicate entry '魔法奇缘-1971111' for key 'a_film.udx_title'")
+【2024-06-24 12:13:49】
+错误：(1062, "Duplicate entry '痛苦与荣耀-30198539' for key 'a_film.udx_title'")
+【2024-06-24 12:13:49】
+错误：(1062, "Duplicate entry '老友记重聚特辑-34908189' for key 'a_film.udx_title'")
+【2024-06-24 12:13:49】
+错误：(1062, "Duplicate entry '小鬼当街-1299952' for key 'a_film.udx_title'")
+【2024-06-24 12:13:49】
+错误：(1062, "Duplicate entry '阿黛拉的非凡冒险-3628370' for key 'a_film.udx_title'")
+【2024-06-24 12:13:49】
+错误：(1062, "Duplicate entry '大武生-5355187' for key 'a_film.udx_title'")
+【2024-06-24 12:13:49】
+错误：(1062, "Duplicate entry '你和我的倾城时光-26386688' for key 'a_film.udx_title'")
+【2024-06-24 12:13:49】
+错误：(1062, "Duplicate entry '一个购物狂的自白-2338058' for key 'a_film.udx_title'")
+【2024-06-24 12:13:49】
+错误：(1062, "Duplicate entry '狂蟒之灾-1300830' for key 'a_film.udx_title'")
+【2024-06-24 12:13:49】
+错误：(1062, "Duplicate entry '你是凶手-26762744' for key 'a_film.udx_title'")
+【2024-06-24 12:13:49】
+错误：(1062, "Duplicate entry '大时代-1878605' for key 'a_film.udx_title'")
+【2024-06-24 12:13:49】
+错误：(1062, "Duplicate entry '欢乐喜剧人-26850326' for key 'a_film.udx_title'")
+【2024-06-24 12:13:49】
+错误：(1062, "Duplicate entry '康熙微服私访记1-2252733' for key 'a_film.udx_title'")
+【2024-06-24 12:13:49】
+错误：(1062, "Duplicate entry '和声-4861627' for key 'a_film.udx_title'")
+【2024-06-24 12:13:49】
+错误：(1062, "Duplicate entry '生吃-26653833' for key 'a_film.udx_title'")
+【2024-06-24 12:13:49】
+错误：(1062, "Duplicate entry '剑鱼行动-1304608' for key 'a_film.udx_title'")
+【2024-06-24 12:13:49】
+错误：(1062, "Duplicate entry '摩纳哥王妃-10450713' for key 'a_film.udx_title'")
+【2024-06-24 12:13:49】
+错误：(1062, "Duplicate entry '万万没想到 第一季-24904361' for key 'a_film.udx_title'")
+【2024-06-24 12:13:55】
+错误：(1062, "Duplicate entry '小谢尔顿 第二季-27623506' for key 'a_film.udx_title'")
+【2024-06-24 12:13:55】
+错误：(1062, "Duplicate entry '军舰岛-26445216' for key 'a_film.udx_title'")
+【2024-06-24 12:13:55】
+错误：(1062, "Duplicate entry '影武者-1303067' for key 'a_film.udx_title'")
+【2024-06-24 12:13:55】
+错误：(1062, "Duplicate entry '钢琴教师-1306730' for key 'a_film.udx_title'")
+【2024-06-24 12:13:55】
+错误：(1062, "Duplicate entry '极寒之城-26386034' for key 'a_film.udx_title'")
+【2024-06-24 12:13:55】
+错误：(1062, "Duplicate entry '封神榜-2154743' for key 'a_film.udx_title'")
+【2024-06-24 12:13:55】
+错误：(1062, "Duplicate entry '刀锋战士2-1306894' for key 'a_film.udx_title'")
+【2024-06-24 12:13:55】
+错误：(1062, "Duplicate entry '密战-26316956' for key 'a_film.udx_title'")
+【2024-06-24 12:13:55】
+错误：(1062, "Duplicate entry '春天的故事-1293632' for key 'a_film.udx_title'")
+【2024-06-24 12:13:55】
+错误：(1062, "Duplicate entry '走向共和-1441794' for key 'a_film.udx_title'")
+【2024-06-24 12:13:55】
+错误：(1062, "Duplicate entry '最后的决斗-34658290' for key 'a_film.udx_title'")
+【2024-06-24 12:13:55】
+错误：(1062, "Duplicate entry '科洛弗道10号-2977957' for key 'a_film.udx_title'")
+【2024-06-24 12:13:55】
+错误：(1062, "Duplicate entry '超星星学园-26765418' for key 'a_film.udx_title'")
+【2024-06-24 12:13:55】
+错误：(1062, "Duplicate entry '致命感应-25909236' for key 'a_film.udx_title'")
+【2024-06-24 12:13:55】
+错误：(1062, "Duplicate entry '时间-1763132' for key 'a_film.udx_title'")
+【2024-06-24 12:13:55】
+错误：(1062, "Duplicate entry '黑皮书-1858802' for key 'a_film.udx_title'")
+【2024-06-24 12:13:55】
+错误：(1062, "Duplicate entry '弥留之国的爱丽丝 第二季-35300122' for key 'a_film.udx_title'")
+【2024-06-24 12:13:55】
+错误：(1062, "Duplicate entry '五亿探长雷洛传1：雷老虎-1297248' for key 'a_film.udx_title'")
+【2024-06-24 12:13:55】
+错误：(1062, "Duplicate entry '面子-1421278' for key 'a_film.udx_title'")
+【2024-06-24 12:14:01】
+错误：(1062, "Duplicate entry '卡拉是条狗-1308573' for key 'a_film.udx_title'")
+【2024-06-24 12:14:08】
+错误：(1062, "Duplicate entry '胜者为王-1298252' for key 'a_film.udx_title'")
+【2024-06-24 12:14:08】
+错误：(1062, "Duplicate entry '第8号当铺-2326686' for key 'a_film.udx_title'")
+【2024-06-24 12:14:08】
+错误：(1062, "Duplicate entry '亲密敌人-6062731' for key 'a_film.udx_title'")
+【2024-06-24 12:14:08】
+错误：(1062, "Duplicate entry '机动搜查队404-34969016' for key 'a_film.udx_title'")
+【2024-06-24 12:14:08】
+错误：index out of range
+【2024-06-24 12:14:08】
+错误：(0, '')
+【2024-06-24 12:15:06】
+错误：'NoneType' object has no attribute 'read'
+【2024-06-24 12:15:06】
+错误：(1062, "Duplicate entry '月神-6313765' for key 'a_film.udx_title'")
+【2024-06-24 12:15:06】
+错误：(1062, "Duplicate entry '醉打金枝-2295809' for key 'a_film.udx_title'")
+【2024-06-24 12:15:06】
+错误：(1062, "Duplicate entry '新世界-30329906' for key 'a_film.udx_title'")
+【2024-06-24 12:15:08】
+错误：(0, '')
+【2024-06-24 12:31:03】
+错误：(1062, "Duplicate entry '谢谢你医生-34454212' for key 'a_film.udx_title'")
+【2024-06-24 12:31:03】
+错误：(1062, "Duplicate entry '夏至未至-26734684' for key 'a_film.udx_title'")
+【2024-06-24 12:31:03】
+错误：(1062, "Duplicate entry '密阳-1853770' for key 'a_film.udx_title'")
+【2024-06-24 12:31:03】
+错误：(1062, "Duplicate entry '绝美之城-10760030' for key 'a_film.udx_title'")
+【2024-06-24 12:31:03】
+错误：(1062, "Duplicate entry '玛丽与魔女之花-26935777' for key 'a_film.udx_title'")
+【2024-06-24 12:31:03】
+错误：(1062, "Duplicate entry '凯尔经的秘密-3212221' for key 'a_film.udx_title'")
+【2024-06-24 12:31:03】
+错误：(1062, "Duplicate entry '法证先锋3-5247088' for key 'a_film.udx_title'")
+【2024-06-24 12:31:03】
+错误：(1062, "Duplicate entry '初恋红豆冰-3745292' for key 'a_film.udx_title'")
+【2024-06-24 12:31:03】
+错误：(1062, "Duplicate entry '追光的日子-35539600' for key 'a_film.udx_title'")
+【2024-06-24 12:31:03】
+错误：(1062, "Duplicate entry '迷雾-27097811' for key 'a_film.udx_title'")
+【2024-06-24 12:31:03】
+错误：(1062, "Duplicate entry '成瘾剂量-35101436' for key 'a_film.udx_title'")
+【2024-06-24 12:31:03】
+错误：(1062, "Duplicate entry '功勋-34951103' for key 'a_film.udx_title'")
+【2024-06-24 12:31:03】
+错误：(1062, "Duplicate entry '偷偷爱着你-2147121' for key 'a_film.udx_title'")
+【2024-06-24 12:31:03】
+错误：(1062, "Duplicate entry '野良神-24752306' for key 'a_film.udx_title'")
+【2024-06-24 12:31:03】
+错误：(1062, "Duplicate entry '暴疯语-25742299' for key 'a_film.udx_title'")
+【2024-06-24 12:31:03】
+错误：(1062, "Duplicate entry '世界尽头-3026572' for key 'a_film.udx_title'")
+【2024-06-24 12:44:51】
+错误：(1062, "Duplicate entry '鲸-35312421' for key 'a_film.udx_title'")
+【2024-06-24 12:44:51】
+错误：(1062, "Duplicate entry '潘多拉-26169607' for key 'a_film.udx_title'")
+【2024-06-24 12:44:51】
+错误：(1062, "Duplicate entry '狐妖小红娘-26435736' for key 'a_film.udx_title'")
+【2024-06-24 12:44:51】
+错误：(1062, "Duplicate entry '我的青春谁做主-3873960' for key 'a_film.udx_title'")
+【2024-06-24 12:44:51】
+错误：(1062, "Duplicate entry '玩命速递：重启之战-24718797' for key 'a_film.udx_title'")
+【2024-06-24 12:44:51】
+错误：(1062, "Duplicate entry '寻找梦幻岛-1308831' for key 'a_film.udx_title'")
+【2024-06-24 12:44:51】
+错误：(1062, "Duplicate entry '他来了，请闭眼-26088457' for key 'a_film.udx_title'")
+【2024-06-24 12:44:51】
+错误：(1062, "Duplicate entry '奔跑吧兄弟 第一季-25899362' for key 'a_film.udx_title'")
+【2024-06-24 12:44:51】
+错误：(1062, "Duplicate entry '21克-1308599' for key 'a_film.udx_title'")
+【2024-06-24 12:44:51】
+错误：(1062, "Duplicate entry '没事偷着乐-1300678' for key 'a_film.udx_title'")
+【2024-06-24 12:44:51】
+错误：(1062, "Duplicate entry '守护解放西-34800399' for key 'a_film.udx_title'")
+【2024-06-24 12:44:51】
+错误：(1062, "Duplicate entry '肆式青春-30156898' for key 'a_film.udx_title'")
+【2024-06-24 12:44:51】
+错误：(1062, "Duplicate entry '遇见你真好-26967920' for key 'a_film.udx_title'")
+【2024-06-24 12:44:51】
+错误：(1062, "Duplicate entry '近距离恋爱-25853073' for key 'a_film.udx_title'")
+【2024-06-24 12:44:52】
+错误：(1062, "Duplicate entry '哈尔滨一九四四-35391108' for key 'a_film.udx_title'")
+【2024-06-24 12:44:52】
+错误：(1062, "Duplicate entry '阳光之下-30217666' for key 'a_film.udx_title'")
+【2024-06-24 12:44:52】
+错误：(1062, "Duplicate entry '伍六七之玄武国篇-35161255' for key 'a_film.udx_title'")
+【2024-06-24 12:45:01】
+错误：(1062, "Duplicate entry '鹰眼-2264715' for key 'a_film.udx_title'")
+【2024-06-24 12:52:48】
+错误：(1062, "Duplicate entry '愤怒的公牛-1293155' for key 'a_film.udx_title'")
+【2024-06-24 12:52:48】
+错误：(1062, "Duplicate entry '这就是命-27037539' for key 'a_film.udx_title'")
+【2024-06-24 12:52:48】
+错误：(1062, "Duplicate entry '史蒂夫·乔布斯-25850443' for key 'a_film.udx_title'")
+【2024-06-24 12:52:53】
+错误：(1062, "Duplicate entry '吸血鬼日记 第三季-6714078' for key 'a_film.udx_title'")
+【2024-06-24 12:52:53】
+错误：(1062, "Duplicate entry '鲸-35312421' for key 'a_film.udx_title'")
+【2024-06-24 12:52:53】
+错误：(1062, "Duplicate entry '潘多拉-26169607' for key 'a_film.udx_title'")
+【2024-06-24 12:52:53】
+错误：(1062, "Duplicate entry '狐妖小红娘-26435736' for key 'a_film.udx_title'")
+【2024-06-24 12:52:53】
+错误：(1062, "Duplicate entry '我的青春谁做主-3873960' for key 'a_film.udx_title'")
+【2024-06-24 12:52:53】
+错误：(1062, "Duplicate entry '玩命速递：重启之战-24718797' for key 'a_film.udx_title'")
+【2024-06-24 12:52:53】
+错误：(1062, "Duplicate entry '寻找梦幻岛-1308831' for key 'a_film.udx_title'")
+【2024-06-24 12:52:53】
+错误：(1062, "Duplicate entry '他来了，请闭眼-26088457' for key 'a_film.udx_title'")
+【2024-06-24 12:52:53】
+错误：(1062, "Duplicate entry '奔跑吧兄弟 第一季-25899362' for key 'a_film.udx_title'")
+【2024-06-24 12:52:53】
+错误：(1062, "Duplicate entry '21克-1308599' for key 'a_film.udx_title'")
+【2024-06-24 12:52:53】
+错误：(1062, "Duplicate entry '没事偷着乐-1300678' for key 'a_film.udx_title'")
+【2024-06-24 12:52:53】
+错误：(1062, "Duplicate entry '守护解放西-34800399' for key 'a_film.udx_title'")
+【2024-06-24 12:52:53】
+错误：(1062, "Duplicate entry '肆式青春-30156898' for key 'a_film.udx_title'")
+【2024-06-24 12:52:53】
+错误：(1062, "Duplicate entry '遇见你真好-26967920' for key 'a_film.udx_title'")
+【2024-06-24 12:52:53】
+错误：(1062, "Duplicate entry '近距离恋爱-25853073' for key 'a_film.udx_title'")
+【2024-06-24 12:52:53】
+错误：(1062, "Duplicate entry '哈尔滨一九四四-35391108' for key 'a_film.udx_title'")
+【2024-06-24 12:52:53】
+错误：(1062, "Duplicate entry '阳光之下-30217666' for key 'a_film.udx_title'")
+【2024-06-24 12:52:53】
+错误：(1062, "Duplicate entry '克洛伊-3418187' for key 'a_film.udx_title'")
+【2024-06-24 12:52:53】
+错误：(1062, "Duplicate entry '娑婆诃-27109171' for key 'a_film.udx_title'")
+【2024-06-24 12:52:53】
+错误：(1062, "Duplicate entry '智齿-27124695' for key 'a_film.udx_title'")
+【2024-06-24 12:52:59】
+错误：(1062, "Duplicate entry '蝙蝠侠与罗宾-1294519' for key 'a_film.udx_title'")
+【2024-06-24 12:52:59】
+错误：(1062, "Duplicate entry '青春期猪头少年不做兔女郎学姐的梦-30166978' for key 'a_film.udx_title'")
+【2024-06-24 12:52:59】
+错误：(1062, "Duplicate entry '极品基老伴 第一季-20278812' for key 'a_film.udx_title'")
+【2024-06-24 12:52:59】
+错误：(1062, "Duplicate entry '放大-1310176' for key 'a_film.udx_title'")
+【2024-06-24 12:52:59】
+错误：(1062, "Duplicate entry '欢天喜地七仙女-2997317' for key 'a_film.udx_title'")
+【2024-06-24 12:52:59】
+错误：(1062, "Duplicate entry '天赋异禀 第一季-26908002' for key 'a_film.udx_title'")
+【2024-06-24 12:52:59】
+错误：(1062, "Duplicate entry '异物志-26889177' for key 'a_film.udx_title'")
+【2024-06-24 12:52:59】
+错误：(1062, "Duplicate entry '亢奋 第二季-34463874' for key 'a_film.udx_title'")
+【2024-06-24 12:52:59】
+错误：(1062, "Duplicate entry '打，打个大西瓜-4057312' for key 'a_film.udx_title'")
+【2024-06-24 12:52:59】
+错误：(1062, "Duplicate entry '好想告诉你-3838279' for key 'a_film.udx_title'")
+【2024-06-24 12:52:59】
+错误：(1062, "Duplicate entry '比得兔2：逃跑计划-30213339' for key 'a_film.udx_title'")
+【2024-06-24 12:52:59】
+错误：(1062, "Duplicate entry '素人特工-27155276' for key 'a_film.udx_title'")
+【2024-06-24 12:53:00】
+错误：(1062, "Duplicate entry '祝卿好-35332993' for key 'a_film.udx_title'")
+【2024-06-24 12:53:00】
+错误：(1062, "Duplicate entry '诈欺游戏-2018076' for key 'a_film.udx_title'")
+【2024-06-24 12:53:00】
+错误：(1062, "Duplicate entry '奇幻精灵事件簿-2155676' for key 'a_film.udx_title'")
+【2024-06-24 12:53:00】
+错误：(1062, "Duplicate entry '破产姐妹 第六季-26758799' for key 'a_film.udx_title'")
+【2024-06-24 12:53:00】
+错误：(1062, "Duplicate entry '九州·海上牧云记-26322999' for key 'a_film.udx_title'")
+【2024-06-24 12:53:00】
+错误：(1062, "Duplicate entry '侠探杰克：永不回头-25789402' for key 'a_film.udx_title'")
+【2024-06-24 12:53:00】
+错误：(1062, "Duplicate entry '心灵传输者-1949328' for key 'a_film.udx_title'")
+【2024-06-24 12:53:01】
+错误：(1062, "Duplicate entry '鹰眼-2264715' for key 'a_film.udx_title'")
+【2024-06-24 12:53:01】
+错误：(1062, "Duplicate entry '猎狐-26984534' for key 'a_film.udx_title'")
+【2024-06-24 12:53:02】
+错误：(1062, "Duplicate entry '战国-4707585' for key 'a_film.udx_title'")
+【2024-06-24 12:53:02】
+错误：(1062, "Duplicate entry '李卫当官-2310046' for key 'a_film.udx_title'")
+【2024-06-24 12:53:02】
+错误：(1062, "Duplicate entry '下一站，说爱你-4022090' for key 'a_film.udx_title'")
+【2024-06-24 12:53:02】
+错误：(1062, "Duplicate entry '小谢尔顿 第三季-30467485' for key 'a_film.udx_title'")
+【2024-06-24 12:53:02】
+错误：(1062, "Duplicate entry '夏目友人帐 第五季-26754896' for key 'a_film.udx_title'")
+【2024-06-24 12:53:02】
+错误：(1062, "Duplicate entry '一声叹息-1305703' for key 'a_film.udx_title'")
+【2024-06-24 12:53:02】
+错误：(1062, "Duplicate entry '恶老板-4004715' for key 'a_film.udx_title'")
+【2024-06-24 12:53:02】
+错误：(1062, "Duplicate entry '八美图-1299292' for key 'a_film.udx_title'")
+【2024-06-24 12:53:02】
+错误：(1062, "Duplicate entry '天堂回信-1418076' for key 'a_film.udx_title'")
+【2024-06-24 12:53:02】
+错误：(1062, "Duplicate entry '电梯里的恶魔-3268171' for key 'a_film.udx_title'")
+【2024-06-24 12:53:02】
+错误：(1062, "Duplicate entry '地下铁-1308748' for key 'a_film.udx_title'")
+【2024-06-24 12:53:02】
+错误：(1062, "Duplicate entry '金宵大厦-30156074' for key 'a_film.udx_title'")
+【2024-06-24 12:53:02】
+错误：(1062, "Duplicate entry '大豆田永久子与三名前夫-35365608' for key 'a_film.udx_title'")
+【2024-06-24 12:53:02】
+错误：(1062, "Duplicate entry '跃动青春-35679677' for key 'a_film.udx_title'")
+【2024-06-24 12:53:03】
+错误：(1062, "Duplicate entry '大理寺日志-30395911' for key 'a_film.udx_title'")
+【2024-06-24 12:53:03】
+错误：(1062, "Duplicate entry '红气球-1326038' for key 'a_film.udx_title'")
+【2024-06-24 12:53:03】
+错误：(1062, "Duplicate entry '登月第一人-3026559' for key 'a_film.udx_title'")
+【2024-06-24 12:53:03】
+错误：(1062, "Duplicate entry '人生第一次-34945795' for key 'a_film.udx_title'")
+【2024-06-24 12:53:14】
+错误：(1062, "Duplicate entry '无敌反斗星-1304132' for key 'a_film.udx_title'")
+【2024-06-24 12:53:16】
+错误：(1062, "Duplicate entry '金枝玉叶2-1302054' for key 'a_film.udx_title'")
+【2024-06-24 12:53:16】
+错误：(1062, "Duplicate entry '少年巴比伦-25876760' for key 'a_film.udx_title'")
+【2024-06-24 12:53:16】
+错误：(1062, "Duplicate entry '东方快车谋杀案-4179012' for key 'a_film.udx_title'")
+【2024-06-24 12:53:16】
+错误：(1062, "Duplicate entry '史前一万年-1949761' for key 'a_film.udx_title'")
+【2024-06-24 12:53:16】
+错误：(1062, "Duplicate entry '奇遇人生 第一季-30304024' for key 'a_film.udx_title'")
+【2024-06-24 12:53:16】
+错误：(1062, "Duplicate entry '美丽密令-4100696' for key 'a_film.udx_title'")
+【2024-06-24 12:53:16】
+错误：(1062, "Duplicate entry '无耻之徒(美版) 第七季-26707767' for key 'a_film.udx_title'")
+【2024-06-24 12:53:16】
+错误：(1062, "Duplicate entry '决胜时刻-30481973' for key 'a_film.udx_title'")
+【2024-06-24 12:53:16】
+错误：(1062, "Duplicate entry 'SPEC～警视厅公安部公安第五课 未详事件特别对ç\xad' for key 'a_film.udx_title'")
+【2024-06-24 12:53:16】
+错误：(1062, "Duplicate entry '霹雳火-1299502' for key 'a_film.udx_title'")
+【2024-06-24 12:53:16】
+错误：(1062, "Duplicate entry '幽冥-20514871' for key 'a_film.udx_title'")
+【2024-06-24 12:53:16】
+错误：(1062, "Duplicate entry '制作人-26334946' for key 'a_film.udx_title'")
+【2024-06-24 12:53:16】
+错误：(1062, "Duplicate entry '气球-30192401' for key 'a_film.udx_title'")
+【2024-06-24 12:53:16】
+错误：(1062, "Duplicate entry '即日启程-3250377' for key 'a_film.udx_title'")
+【2024-06-24 12:53:16】
+错误：(1062, "Duplicate entry '欲望号街车-1293590' for key 'a_film.udx_title'")
+【2024-06-24 12:53:16】
+错误：(1062, "Duplicate entry '光棍儿-4946963' for key 'a_film.udx_title'")
+【2024-06-24 12:53:16】
+错误：(1062, "Duplicate entry '女人，四十-1308162' for key 'a_film.udx_title'")
+【2024-06-24 12:53:16】
+错误：(1062, "Duplicate entry '波拉特-1870044' for key 'a_film.udx_title'")
+【2024-06-24 12:53:16】
+错误：(1062, "Duplicate entry '秋天的故事-1294140' for key 'a_film.udx_title'")
+【2024-06-24 12:56:11】
+错误：(1062, "Duplicate entry '龙在少林-1419904' for key 'a_film.udx_title'")
+【2024-06-24 12:56:11】
+错误：(1062, "Duplicate entry '刺猬索尼克-25905044' for key 'a_film.udx_title'")
+【2024-06-24 12:56:11】
+错误：(1062, "Duplicate entry '绯闻女孩  第三季-3882759' for key 'a_film.udx_title'")
+【2024-06-24 12:56:11】
+错误：(1062, "Duplicate entry '安娜贝尔2：诞生-26644205' for key 'a_film.udx_title'")
+【2024-06-24 12:56:11】
+错误：(1062, "Duplicate entry '巡回检察组-30317700' for key 'a_film.udx_title'")
+【2024-06-24 12:56:11】
+错误：(1062, "Duplicate entry '给我翅膀-30410114' for key 'a_film.udx_title'")
+【2024-06-24 12:56:11】
+错误：(1062, "Duplicate entry 'Tinder诈骗王-35732660' for key 'a_film.udx_title'")
+【2024-06-24 12:56:11】
+错误：(1062, "Duplicate entry '明亮的星-2072848' for key 'a_film.udx_title'")
+【2024-06-24 12:56:11】
+错误：(1062, "Duplicate entry '用心棒-1292515' for key 'a_film.udx_title'")
+【2024-06-24 12:56:11】
+错误：(1062, "Duplicate entry '克劳斯：圣诞节的秘密-26858510' for key 'a_film.udx_title'")
+【2024-06-24 12:56:11】
+错误：(1062, "Duplicate entry '泄密者-27195080' for key 'a_film.udx_title'")
+【2024-06-24 12:56:11】
+错误：(1062, "Duplicate entry '西风烈-4082544' for key 'a_film.udx_title'")
+【2024-06-24 12:56:11】
+错误：(1062, "Duplicate entry '恋爱中的城市-26263443' for key 'a_film.udx_title'")
+【2024-06-24 12:56:11】
+错误：(1062, "Duplicate entry '弓-1394424' for key 'a_film.udx_title'")
+【2024-06-24 12:56:11】
+错误：(1062, "Duplicate entry '德鲁大叔-27074301' for key 'a_film.udx_title'")
+【2024-06-24 12:56:11】
+错误：(1062, "Duplicate entry '一个字头的诞生-1307372' for key 'a_film.udx_title'")
+【2024-06-24 12:56:11】
+错误：(1062, "Duplicate entry '华尔街：金钱永不眠-3103683' for key 'a_film.udx_title'")
+【2024-06-24 12:56:13】
+错误：(1062, "Duplicate entry '江湖告急-1308252' for key 'a_film.udx_title'")
+【2024-06-24 12:56:13】
+错误：(1062, "Duplicate entry '两个人的小森林-35431984' for key 'a_film.udx_title'")
+【2024-06-24 12:56:13】
+错误：(1062, "Duplicate entry '间谍过家家 第一季 Part.2-35724582' for key 'a_film.udx_title'")
+【2024-06-24 12:56:26】
+错误：(1062, "Duplicate entry '花水木-4074009' for key 'a_film.udx_title'")
+【2024-06-24 12:56:26】
+错误：(1062, "Duplicate entry '地球脉动 第二季-26733371' for key 'a_film.udx_title'")
+【2024-06-24 12:56:26】
+错误：(1062, "Duplicate entry '特警新人类-1299048' for key 'a_film.udx_title'")
+【2024-06-24 12:56:26】
+错误：(1062, "Duplicate entry '中餐厅 第三季-33422361' for key 'a_film.udx_title'")
+【2024-06-24 12:56:26】
+错误：(1062, "Duplicate entry '乐队的夏天 第二季-34660591' for key 'a_film.udx_title'")
+【2024-06-24 12:56:26】
+错误：(1062, "Duplicate entry '五亿探长雷洛传2：父子情仇-1300774' for key 'a_film.udx_title'")
+【2024-06-24 12:56:26】
+错误：(1062, "Duplicate entry '舌尖上的中国 第三季-25875034' for key 'a_film.udx_title'")
+【2024-06-24 12:56:26】
+错误：(1062, "Duplicate entry '奇迹-1293941' for key 'a_film.udx_title'")
+【2024-06-24 12:56:26】
+错误：(1062, "Duplicate entry '南来北往-35237053' for key 'a_film.udx_title'")
+【2024-06-24 12:56:26】
+错误：(1062, "Duplicate entry '成龙历险记 第一季-1933857' for key 'a_film.udx_title'")
+【2024-06-24 12:56:26】
+错误：(1062, "Duplicate entry '没有一顿火锅解决不了的事-36207371' for key 'a_film.udx_title'")
+【2024-06-24 12:56:26】
+错误：(1062, "Duplicate entry '太阳泪-1307463' for key 'a_film.udx_title'")
+【2024-06-24 12:56:26】
+错误：(1062, "Duplicate entry '蜡笔小新：呼风唤雨！猛烈！大人帝国的反击-195' for key 'a_film.udx_title'")
+【2024-06-24 12:56:26】
+错误：(1062, "Duplicate entry '疑犯追踪 第四季-25837185' for key 'a_film.udx_title'")
+【2024-06-24 12:56:26】
+错误：(1062, "Duplicate entry '脱口秀大会 第四季-35206452' for key 'a_film.udx_title'")
+【2024-06-24 12:56:26】
+错误：(1062, "Duplicate entry '疑犯追踪 第五季-26387813' for key 'a_film.udx_title'")
+【2024-06-24 13:01:21】
+错误：(1406, "Data too long for column 'directors' at row 1")
+【2024-06-24 13:01:28】
+错误：'NoneType' object has no attribute 'settimeout'
+【2024-06-24 13:06:22】
+错误：(1062, "Duplicate entry '敢死队4：最终章-25845297' for key 'a_film.udx_title'")
+【2024-06-24 13:06:22】
+错误：(1062, "Duplicate entry '蝙蝠侠：黑暗骑士归来(上)-11443807' for key 'a_film.udx_title'")
+【2024-06-24 13:06:22】
+错误：(1062, "Duplicate entry '无耻之徒(美版) 第八季-26938395' for key 'a_film.udx_title'")
+【2024-06-24 13:06:22】
+错误：(1062, "Duplicate entry 'JOJO的奇妙冒险 石之海-34605404' for key 'a_film.udx_title'")
+【2024-06-24 13:06:22】
+错误：(1062, "Duplicate entry '蜂蜜与四叶草-1796053' for key 'a_film.udx_title'")
+【2024-06-24 13:06:22】
+错误：(1062, "Duplicate entry '硅谷 第一季-20644938' for key 'a_film.udx_title'")
+【2024-06-24 13:06:22】
+错误：(1062, "Duplicate entry '霍乱时期的爱情-2002743' for key 'a_film.udx_title'")
+【2024-06-24 13:06:22】
+错误：(1062, "Duplicate entry '王牌特工：源起-27038228' for key 'a_film.udx_title'")
+【2024-06-24 13:06:22】
+错误：(1062, "Duplicate entry '小屁孩日记-3003836' for key 'a_film.udx_title'")
+【2024-06-24 13:06:22】
+错误：(1062, "Duplicate entry '哦！我的皇帝陛下 第二季-34807445' for key 'a_film.udx_title'")
+【2024-06-24 13:06:22】
+错误：(1062, "Duplicate entry '鬼入侵-27016554' for key 'a_film.udx_title'")
+【2024-06-24 13:06:22】
+错误：(1062, "Duplicate entry '精英部队-2284851' for key 'a_film.udx_title'")
+【2024-06-24 13:06:22】
+错误：(1062, "Duplicate entry '麻将-1297418' for key 'a_film.udx_title'")
+【2024-06-24 13:06:22】
+错误：(1062, "Duplicate entry 'Live-27068596' for key 'a_film.udx_title'")
+【2024-06-24 13:06:22】
+错误：(1062, "Duplicate entry '鼠来宝3-4706257' for key 'a_film.udx_title'")
+【2024-06-24 13:06:22】
+错误：(1062, "Duplicate entry '三千鸦杀-27611494' for key 'a_film.udx_title'")
+【2024-06-24 13:06:22】
+错误：(1062, "Duplicate entry '伊万的童年-1294421' for key 'a_film.udx_title'")
+【2024-06-24 13:06:22】
+错误：(1062, "Duplicate entry '棋魂-1474243' for key 'a_film.udx_title'")
+【2024-06-24 13:06:22】
+错误：(1062, "Duplicate entry '盲证-5353344' for key 'a_film.udx_title'")
+【2024-06-24 13:06:22】
+错误：(1062, "Duplicate entry '佐罗传奇-1309042' for key 'a_film.udx_title'")
+【2024-06-24 13:06:22】
+错误：(1062, "Duplicate entry '至尊红颜-3010195' for key 'a_film.udx_title'")
+【2024-06-24 13:06:22】
+错误：(1062, "Duplicate entry '赌城风云-1299799' for key 'a_film.udx_title'")
+【2024-06-24 13:06:22】
+错误：(1062, "Duplicate entry '创造101-30157162' for key 'a_film.udx_title'")
+【2024-06-24 13:06:22】
+错误：(1062, "Duplicate entry '屌丝男士 第一季-19976810' for key 'a_film.udx_title'")
+【2024-06-24 13:06:22】
+错误：(1062, "Duplicate entry '干物妹！小埋-26282460' for key 'a_film.udx_title'")
+【2024-06-24 13:06:22】
+错误：(1062, "Duplicate entry '芬妮的旅程-26710657' for key 'a_film.udx_title'")
+【2024-06-24 13:06:23】
+错误：(1062, "Duplicate entry '花木兰-2076923' for key 'a_film.udx_title'")
+【2024-06-24 13:06:23】
+错误：(1062, "Duplicate entry '亚当斯一家-4811807' for key 'a_film.udx_title'")
+【2024-06-24 13:06:23】
+错误：(1062, "Duplicate entry '桃色公寓-1394218' for key 'a_film.udx_title'")
+【2024-06-24 13:06:23】
+错误：(1062, "Duplicate entry '母亲-4303624' for key 'a_film.udx_title'")
+【2024-06-24 13:06:23】
+错误：(1062, "Duplicate entry '阿凡提的故事之种金子-1917638' for key 'a_film.udx_title'")
+【2024-06-24 13:06:23】
+错误：(1062, "Duplicate entry '意外的幸运签-4934987' for key 'a_film.udx_title'")
+【2024-06-24 13:06:23】
+错误：(1062, "Duplicate entry '跟踪-1947114' for key 'a_film.udx_title'")
+【2024-06-24 13:06:27】
+错误：(1062, "Duplicate entry '巴尔扎克与小裁缝-1296769' for key 'a_film.udx_title'")
+【2024-06-24 13:06:27】
+错误：(1062, "Duplicate entry '刀-1401962' for key 'a_film.udx_title'")
+【2024-06-24 13:06:27】
+错误：(1062, "Duplicate entry '北辙南辕-35135955' for key 'a_film.udx_title'")
+【2024-06-24 13:06:27】
+错误：(1062, "Duplicate entry '西游记-3021640' for key 'a_film.udx_title'")
+【2024-06-24 13:06:27】
+错误：(1062, "Duplicate entry '歌手2019-30219698' for key 'a_film.udx_title'")
+【2024-06-24 13:06:27】
+错误：(1062, "Duplicate entry '故园风雨后-2034997' for key 'a_film.udx_title'")
+【2024-06-24 13:06:27】
+错误：(1062, "Duplicate entry '米尔克-2336737' for key 'a_film.udx_title'")
+【2024-06-24 13:06:27】
+错误：(1062, "Duplicate entry '我的女友是机器人-34433857' for key 'a_film.udx_title'")
+【2024-06-24 13:06:28】
+错误：(1062, "Duplicate entry '轻音少女-3681349' for key 'a_film.udx_title'")
+【2024-06-24 13:06:28】
+错误：(1062, "Duplicate entry '永不瞑目-2221708' for key 'a_film.udx_title'")
+【2024-06-24 13:06:28】
+错误：(1062, "Duplicate entry '欢颜-35891808' for key 'a_film.udx_title'")
+【2024-06-24 13:06:28】
+错误：(1062, "Duplicate entry '破事精英-35166507' for key 'a_film.udx_title'")
+【2024-06-24 13:06:28】
+错误：(1062, "Duplicate entry '留下我-4915107' for key 'a_film.udx_title'")
+【2024-06-24 13:06:28】
+错误：(1062, "Duplicate entry '寻子遇仙记-1293270' for key 'a_film.udx_title'")
+【2024-06-24 13:06:28】
+错误：(1062, "Duplicate entry '羞耻 第四季-27012497' for key 'a_film.udx_title'")
+【2024-06-24 13:06:28】
+错误：(1062, "Duplicate entry '排球少年 第二季-26285156' for key 'a_film.udx_title'")
+【2024-06-24 13:06:28】
+错误：(1062, "Duplicate entry '古董局中局-26675617' for key 'a_film.udx_title'")
+【2024-06-24 13:06:28】
+错误：(1062, "Duplicate entry '摩登家庭 第八季-26740396' for key 'a_film.udx_title'")
+【2024-06-24 13:06:28】
+错误：(1062, "Duplicate entry '阿凡提的故事-27097683' for key 'a_film.udx_title'")
+【2024-06-24 13:06:28】
+错误：(1062, "Duplicate entry '通灵神探-3217142' for key 'a_film.udx_title'")
+【2024-06-24 13:06:29】
+错误：(1062, "Duplicate entry '人生密密缝-26754513' for key 'a_film.udx_title'")
+【2024-06-24 13:06:29】
+错误：(1062, "Duplicate entry '那年冬天，风在吹-19969225' for key 'a_film.udx_title'")
+【2024-06-24 13:06:29】
+错误：(1062, "Duplicate entry '无声-34850598' for key 'a_film.udx_title'")
+【2024-06-24 13:06:29】
+错误：(1062, "Duplicate entry '老笠-26352462' for key 'a_film.udx_title'")
+【2024-06-24 13:06:29】
+错误：(1062, "Duplicate entry '天地玄黄-1300551' for key 'a_film.udx_title'")
+【2024-06-24 13:06:29】
+错误：(1062, "Duplicate entry '幼儿园-1761172' for key 'a_film.udx_title'")
+【2024-06-24 13:06:29】
+错误：(1406, "Data too long for column 'directors' at row 1")
+【2024-06-24 13:06:29】
+错误：(1062, "Duplicate entry '死侍：危险行为-27025177' for key 'a_film.udx_title'")
+【2024-06-24 13:06:29】
+错误：(1062, "Duplicate entry '座头市-1300752' for key 'a_film.udx_title'")
+【2024-06-24 13:06:29】
+错误：(1062, "Duplicate entry '神盾局特工 第二季-25851827' for key 'a_film.udx_title'")
+【2024-06-24 13:06:29】
+错误：(1062, "Duplicate entry '反叛的鲁路修R2-3004532' for key 'a_film.udx_title'")
+【2024-06-24 13:06:29】
+错误：(1062, "Duplicate entry '妙警贼探 第一季-3620686' for key 'a_film.udx_title'")
+【2024-06-24 13:06:29】
+错误：(1062, "Duplicate entry '是，大臣  第一季-4937405' for key 'a_film.udx_title'")
+【2024-06-24 13:06:33】
+错误：(1062, "Duplicate entry '摇啊摇，摇到外婆桥-1292900' for key 'a_film.udx_title'")
+【2024-06-24 13:06:33】
+错误：(1062, "Duplicate entry '辉夜大小姐想让我告白：天才们的恋爱头脑战 第' for key 'a_film.udx_title'")
+【2024-06-24 13:06:33】
+错误：(1062, "Duplicate entry '烈火军校-30157168' for key 'a_film.udx_title'")
+【2024-06-24 13:06:33】
+错误：(1062, "Duplicate entry '第七子：降魔之战-2325873' for key 'a_film.udx_title'")
+【2024-06-24 13:06:33】
+错误：(1062, "Duplicate entry '天梯：蔡国强的艺术-26679188' for key 'a_film.udx_title'")
+【2024-06-24 13:06:33】
+错误：(1062, "Duplicate entry '俄罗斯方块-26087471' for key 'a_film.udx_title'")
+【2024-06-24 13:06:33】
+错误：(1062, "Duplicate entry '绝世宝贝-1299035' for key 'a_film.udx_title'")
+【2024-06-24 13:06:33】
+错误：(1062, "Duplicate entry '每分钟120击-26746559' for key 'a_film.udx_title'")
+【2024-06-24 13:06:33】
+错误：(1062, "Duplicate entry '阿Q正传-1306506' for key 'a_film.udx_title'")
+【2024-06-24 13:06:33】
+错误：(1062, "Duplicate entry '宝贝和我-3600972' for key 'a_film.udx_title'")
+【2024-06-24 13:06:33】
+错误：(1062, "Duplicate entry '在世界中心呼唤爱-1315570' for key 'a_film.udx_title'")
+【2024-06-24 13:06:33】
+错误：(1062, "Duplicate entry '乌鸦小姐与蜥蜴先生-35005204' for key 'a_film.udx_title'")
+【2024-06-24 13:06:33】
+错误：(1062, "Duplicate entry '我们的十年-25908065' for key 'a_film.udx_title'")
+【2024-06-24 13:08:07】
+错误：(1062, "Duplicate entry '乌鸦小姐与蜥蜴先生-35005204' for key 'a_film.udx_title'")
+【2024-06-24 13:08:07】
+错误：(1062, "Duplicate entry '我们的十年-25908065' for key 'a_film.udx_title'")
+【2024-06-24 13:08:07】
+错误：(1062, "Duplicate entry '秋刀鱼之味-1294433' for key 'a_film.udx_title'")
+【2024-06-24 13:08:07】
+错误：(1062, "Duplicate entry '我老婆未满十八岁-1300246' for key 'a_film.udx_title'")
+【2024-06-24 13:08:07】
+错误：(1062, "Duplicate entry '画江湖之不良人6-35801116' for key 'a_film.udx_title'")
+【2024-06-24 13:08:07】
+错误：(1062, "Duplicate entry '唐顿庄园2-35008440' for key 'a_film.udx_title'")
+【2024-06-24 13:08:07】
+错误：(1062, "Duplicate entry '月球旅行记-1304310' for key 'a_film.udx_title'")
+【2024-06-24 13:08:07】
+错误：(1062, "Duplicate entry '痞子英雄-3543956' for key 'a_film.udx_title'")
+【2024-06-24 13:08:07】
+错误：(1062, "Duplicate entry '你逃我也逃-1303418' for key 'a_film.udx_title'")
+【2024-06-24 13:08:18】
+错误：(1062, "Duplicate entry '神兵小将-3012377' for key 'a_film.udx_title'")
+【2024-06-24 13:10:51】
+错误：(1062, "Duplicate entry '鸣龙少年-35873858' for key 'a_film.udx_title'")
+【2024-06-24 13:11:34】
+错误：'NoneType' object has no attribute 'settimeout'
+【2024-06-24 13:14:50】
+错误：(1062, "Duplicate entry '秦颂-1298397' for key 'a_film.udx_title'")
+【2024-06-24 13:18:41】
+错误：(0, '')
+【2024-06-24 13:20:55】
+错误：(0, '')
+【2024-06-24 13:23:41】
+错误：(2014, 'Command Out of Sync')
+【2024-06-24 13:23:53】
+错误：(2013, 'Lost connection to MySQL server during query')
+【2024-06-24 13:24:43】
+错误：(1062, "Duplicate entry '铁三角-1866131' for key 'a_film.udx_title'")
+【2024-06-24 13:24:43】
+错误：(1062, "Duplicate entry '非常小特务-1302344' for key 'a_film.udx_title'")
+【2024-06-24 13:25:52】
+错误：Packet sequence number wrong - got 1 expected 2
+【2024-06-24 13:25:52】
+错误：(0, '')
+【2024-06-24 13:29:30】
+错误：index out of range
+【2024-06-24 13:29:30】
+错误：Packet sequence number wrong - got 105 expected 1
+【2024-06-24 13:30:16】
+错误：(2013, 'Lost connection to MySQL server during query')
+【2024-06-24 13:32:32】
+错误：index out of range
+【2024-06-24 13:32:32】
+错误：(0, '')
+【2024-06-24 13:34:14】
+错误：'NoneType' object has no attribute 'read'
+【2024-06-24 13:35:22】
+错误：(1062, "Duplicate entry '新女友-25755608' for key 'a_film.udx_title'")
+【2024-06-24 13:43:07】
+错误：(1062, "Duplicate entry '忽而今夏-27041389' for key 'a_film.udx_title'")
+【2024-06-24 13:43:08】
+错误：(1062, "Duplicate entry '请叫我英雄-25899379' for key 'a_film.udx_title'")
+【2024-06-24 13:43:08】
+错误：(1062, "Duplicate entry '精灵旅社4：变身大冒险-30472643' for key 'a_film.udx_title'")
+【2024-06-24 13:43:08】
+错误：(1062, "Duplicate entry '关键第四号-3824339' for key 'a_film.udx_title'")
+【2024-06-24 13:43:08】
+错误：(1062, "Duplicate entry '学爸-35392725' for key 'a_film.udx_title'")
+【2024-06-24 13:43:08】
+错误：(1062, "Duplicate entry '扫毒3：人在天涯-35013359' for key 'a_film.udx_title'")
+【2024-06-24 13:43:08】
+错误：(1062, "Duplicate entry '一起来看流星雨-3546712' for key 'a_film.udx_title'")
+【2024-06-24 13:43:08】
+错误：(1062, "Duplicate entry '奇迹-4832288' for key 'a_film.udx_title'")
+【2024-06-24 13:43:08】
+错误：(1062, "Duplicate entry '伸冤人2-26356631' for key 'a_film.udx_title'")
+【2024-06-24 13:43:08】
+错误：(1062, "Duplicate entry '九降风-3212120' for key 'a_film.udx_title'")
+【2024-06-24 13:43:08】
+错误：(1062, "Duplicate entry '蝙蝠侠归来-1294929' for key 'a_film.udx_title'")
+【2024-06-24 13:43:08】
+错误：(1062, "Duplicate entry '霹雳娇娃2-1297003' for key 'a_film.udx_title'")
+【2024-06-24 13:43:08】
+错误：(1062, "Duplicate entry '萧十一郎-2347271' for key 'a_film.udx_title'")
+【2024-06-24 13:43:08】
+错误：(1062, "Duplicate entry '法官老爹-10546747' for key 'a_film.udx_title'")
+【2024-06-24 13:43:08】
+错误：(1062, "Duplicate entry '纸人-10617158' for key 'a_film.udx_title'")
+【2024-06-24 13:43:10】
+错误：(1062, "Duplicate entry '芸汐传-26897025' for key 'a_film.udx_title'")
+【2024-06-24 13:43:10】
+错误：(1062, "Duplicate entry '我们天上见-3732800' for key 'a_film.udx_title'")
+【2024-06-24 13:43:10】
+错误：(1062, "Duplicate entry '东成西就2011-6068516' for key 'a_film.udx_title'")
+【2024-06-24 13:43:10】
+错误：(1062, "Duplicate entry '铁道英雄-35205446' for key 'a_film.udx_title'")
+【2024-06-24 13:43:10】
+错误：(1062, "Duplicate entry '游园惊梦-1304708' for key 'a_film.udx_title'")
+【2024-06-24 13:43:10】
+错误：(1062, "Duplicate entry '不可思异-26277156' for key 'a_film.udx_title'")
+【2024-06-24 13:43:10】
+错误：(1062, "Duplicate entry '大红包-33457717' for key 'a_film.udx_title'")
+【2024-06-24 13:43:10】
+错误：(1062, "Duplicate entry '绯闻女孩  第二季-3198015' for key 'a_film.udx_title'")
+【2024-06-24 13:43:10】
+错误：(1062, "Duplicate entry '财神客栈-4707596' for key 'a_film.udx_title'")
+【2024-06-24 13:43:10】
+错误：(1062, "Duplicate entry '夜半歌声-1304826' for key 'a_film.udx_title'")
+【2024-06-24 13:43:10】
+错误：(1062, "Duplicate entry '青禾男高-26787124' for key 'a_film.udx_title'")
+【2024-06-24 13:43:10】
+错误：(1062, "Duplicate entry '超脑48小时-25944714' for key 'a_film.udx_title'")
+【2024-06-24 13:43:10】
+错误：(1062, "Duplicate entry '保罗-2999913' for key 'a_film.udx_title'")
+【2024-06-24 13:43:11】
+错误：(1062, "Duplicate entry '过年好-26698301' for key 'a_film.udx_title'")
+【2024-06-24 13:43:11】
+错误：(1062, "Duplicate entry '百万英镑-1304374' for key 'a_film.udx_title'")
+【2024-06-24 13:43:11】
+错误：(1062, "Duplicate entry '龙马精神-35595615' for key 'a_film.udx_title'")
+【2024-06-24 13:43:11】
+错误：(1062, "Duplicate entry '理想之城-35047559' for key 'a_film.udx_title'")
+【2024-06-24 13:43:11】
+错误：(1062, "Duplicate entry '黑镜：潘达斯奈基-30414462' for key 'a_film.udx_title'")
+【2024-06-24 13:43:11】
+错误：(1062, "Duplicate entry '说唱新世代-35134297' for key 'a_film.udx_title'")
+【2024-06-24 13:43:24】
+错误：(1062, "Duplicate entry '隐婚男女-5294324' for key 'a_film.udx_title'")
+【2024-06-24 13:43:24】
+错误：(1062, "Duplicate entry '心理罪-26345152' for key 'a_film.udx_title'")
+【2024-06-24 13:43:24】
+错误：(1062, "Duplicate entry '日日是好日-27185563' for key 'a_film.udx_title'")
+【2024-06-24 13:43:24】
+错误：(1062, "Duplicate entry '蓝精灵：寻找神秘村-19899718' for key 'a_film.udx_title'")
+【2024-06-24 13:43:24】
+错误：(1062, "Duplicate entry '江湖-1308850' for key 'a_film.udx_title'")
+【2024-06-24 13:43:25】
+错误：(1062, "Duplicate entry '暗恋桃花源-1299889' for key 'a_film.udx_title'")
+【2024-06-24 13:43:26】
+错误：(1062, "Duplicate entry '传奇的诞生-3073268' for key 'a_film.udx_title'")
+【2024-06-24 13:43:26】
+错误：(1062, "Duplicate entry '小红帽-3914500' for key 'a_film.udx_title'")
+【2024-06-24 13:43:26】
+错误：(1062, "Duplicate entry '伴娘-3880545' for key 'a_film.udx_title'")
+【2024-06-24 13:43:26】
+错误：(1062, "Duplicate entry '热血青春-24839498' for key 'a_film.udx_title'")
+【2024-06-24 13:43:26】
+错误：(1062, "Duplicate entry '我爱你莫里斯-2361823' for key 'a_film.udx_title'")
+【2024-06-24 13:43:26】
+错误：(1062, "Duplicate entry '银河护卫队：假日特辑-35284237' for key 'a_film.udx_title'")
+【2024-06-24 13:43:26】
+错误：(1062, "Duplicate entry '天鹅绒金矿-1294136' for key 'a_film.udx_title'")
+【2024-06-24 13:43:26】
+错误：(1062, "Duplicate entry '声临其境 第一季-27617683' for key 'a_film.udx_title'")
+【2024-06-24 13:43:26】
+错误：(1062, "Duplicate entry '西游记后传-2245679' for key 'a_film.udx_title'")
+【2024-06-24 13:43:26】
+错误：(1062, "Duplicate entry '蒙娜丽莎的微笑-1303010' for key 'a_film.udx_title'")
+【2024-06-24 13:43:26】
+错误：(1062, "Duplicate entry '欲望都市2-3147941' for key 'a_film.udx_title'")
+【2024-06-24 13:43:26】
+错误：(1062, "Duplicate entry '月神-6313765' for key 'a_film.udx_title'")
+【2024-06-24 13:43:26】
+错误：(1062, "Duplicate entry '醉打金枝-2295809' for key 'a_film.udx_title'")
+【2024-06-24 13:43:26】
+错误：(1062, "Duplicate entry '新世界-30329906' for key 'a_film.udx_title'")
+【2024-06-24 13:43:26】
+错误：(1062, "Duplicate entry '焦土之城-4935242' for key 'a_film.udx_title'")
+【2024-06-24 13:43:26】
+错误：(1062, "Duplicate entry '风云Ⅱ-2997155' for key 'a_film.udx_title'")
+【2024-06-24 13:43:26】
+错误：(1062, "Duplicate entry '海豚湾恋人-2303292' for key 'a_film.udx_title'")
+【2024-06-24 13:43:26】
+错误：(1062, "Duplicate entry '梅艳芳-30176790' for key 'a_film.udx_title'")
+【2024-06-24 13:43:30】
+错误：(1062, "Duplicate entry '西部往事-1293394' for key 'a_film.udx_title'")
+【2024-06-24 13:43:30】
+错误：(1062, "Duplicate entry '憨豆先生-1302958' for key 'a_film.udx_title'")
+【2024-06-24 13:43:30】
+错误：(1062, "Duplicate entry '约定的梦幻岛-30206430' for key 'a_film.udx_title'")
+【2024-06-24 13:43:30】
+错误：(1062, "Duplicate entry '公爵夫人-2230906' for key 'a_film.udx_title'")
+【2024-06-24 13:43:30】
+错误：(1062, "Duplicate entry '大汉天子-2343687' for key 'a_film.udx_title'")
+【2024-06-24 13:43:30】
+错误：(1062, "Duplicate entry '倒霉爱神-1509868' for key 'a_film.udx_title'")
+【2024-06-24 13:43:30】
+错误：(1062, "Duplicate entry '我的天才女友 第三季-35051880' for key 'a_film.udx_title'")
+【2024-06-24 13:43:30】
+错误：(1062, "Duplicate entry '偶滴神啊-19945757' for key 'a_film.udx_title'")
+【2024-06-24 13:43:30】
+错误：(1062, "Duplicate entry '新闻编辑室 第一季-6142597' for key 'a_film.udx_title'")
+【2024-06-24 13:43:30】
+错误：(1062, "Duplicate entry '混沌武士-1460915' for key 'a_film.udx_title'")
+【2024-06-24 13:43:30】
+错误：(1062, "Duplicate entry '第七封印-1293234' for key 'a_film.udx_title'")
+【2024-06-24 13:43:30】
+错误：(1062, "Duplicate entry '王国：北方的阿信-35151297' for key 'a_film.udx_title'")
+【2024-06-24 13:43:30】
+错误：(1062, "Duplicate entry '河西走廊-24736278' for key 'a_film.udx_title'")
+【2024-06-24 13:43:30】
+错误：(1062, "Duplicate entry '妄想代理人-1441053' for key 'a_film.udx_title'")
+【2024-06-24 13:43:31】
+错误：(1062, "Duplicate entry '300勇士：帝国崛起-3148089' for key 'a_film.udx_title'")
+【2024-06-24 13:43:31】
+错误：(1062, "Duplicate entry '变脸-1293237' for key 'a_film.udx_title'")
+【2024-06-24 13:43:31】
+错误：(1062, "Duplicate entry '武林怪兽-26425062' for key 'a_film.udx_title'")
+【2024-06-24 13:43:31】
+错误：(1062, "Duplicate entry '危情谍战-3402101' for key 'a_film.udx_title'")
+【2024-06-24 13:43:31】
+错误：(1062, "Duplicate entry '赌圣2：街头赌圣-1433602' for key 'a_film.udx_title'")
+【2024-06-24 13:43:31】
+错误：(1062, "Duplicate entry '超感猎杀 第二季-26588239' for key 'a_film.udx_title'")
+【2024-06-24 13:43:31】
+错误：(1062, "Duplicate entry '一眉道人-1472783' for key 'a_film.udx_title'")
+【2024-06-24 13:43:31】
+错误：(1062, "Duplicate entry '沉睡花园-35231373' for key 'a_film.udx_title'")
+【2024-06-24 13:43:31】
+错误：(1062, "Duplicate entry '极线杀手-27180599' for key 'a_film.udx_title'")
+【2024-06-24 13:43:32】
+错误：(1062, "Duplicate entry '功夫熊猫4-26715496' for key 'a_film.udx_title'")
+【2024-06-24 13:43:32】
+错误：(1062, "Duplicate entry '光荣之路-1457219' for key 'a_film.udx_title'")
+【2024-06-24 13:43:32】
+错误：(1062, "Duplicate entry '白雪公主杀人事件-24858414' for key 'a_film.udx_title'")
+【2024-06-24 13:43:32】
+错误：(1062, "Duplicate entry '梦-1299112' for key 'a_film.udx_title'")
+【2024-06-24 13:43:32】
+错误：(1062, "Duplicate entry '热搜-35498648' for key 'a_film.udx_title'")
+【2024-06-24 13:43:32】
+错误：(1062, "Duplicate entry '还珠格格第三部-2214122' for key 'a_film.udx_title'")
+【2024-06-24 13:43:32】
+错误：(1062, "Duplicate entry '鉴证实录-2190925' for key 'a_film.udx_title'")
+【2024-06-24 13:43:32】
+错误：(1062, "Duplicate entry '人不彪悍枉少年-27615866' for key 'a_film.udx_title'")
+【2024-06-24 13:43:37】
+错误：(1062, "Duplicate entry '机器战警-1294791' for key 'a_film.udx_title'")
+【2024-06-24 13:43:37】
+错误：(1062, "Duplicate entry '咒怨2-1308554' for key 'a_film.udx_title'")
+【2024-06-24 13:43:37】
+错误：(1062, "Duplicate entry '毛骗 第二季-6894818' for key 'a_film.udx_title'")
+【2024-06-24 13:43:37】
+错误：(1062, "Duplicate entry '美国黑帮-1578503' for key 'a_film.udx_title'")
+【2024-06-24 13:43:37】
+错误：(1062, "Duplicate entry '极恶非道-3819939' for key 'a_film.udx_title'")
+【2024-06-24 13:43:37】
+错误：(1062, "Duplicate entry '小委托人-33404726' for key 'a_film.udx_title'")
+【2024-06-24 13:43:37】
+错误：(1062, "Duplicate entry '神探夏洛克：福至如归-25798411' for key 'a_film.udx_title'")
+【2024-06-24 13:43:37】
+错误：(1062, "Duplicate entry '超越-34917447' for key 'a_film.udx_title'")
+【2024-06-24 13:43:37】
+错误：(1062, "Duplicate entry '倚天屠龙记-25865815' for key 'a_film.udx_title'")
+【2024-06-24 13:43:37】
+错误：(1062, "Duplicate entry '三岔口-1310185' for key 'a_film.udx_title'")
+【2024-06-24 13:43:37】
+错误：(1062, "Duplicate entry '孤独的美食家 第一季-7065168' for key 'a_film.udx_title'")
+【2024-06-24 13:43:37】
+错误：(1062, "Duplicate entry 'JOJO的奇妙冒险 星尘斗士-23774708' for key 'a_film.udx_title'")
+【2024-06-24 13:43:37】
+错误：(1062, "Duplicate entry '斯图尔特：倒带人生-2133337' for key 'a_film.udx_title'")
+【2024-06-24 13:43:37】
+错误：(1062, "Duplicate entry '摩托日记-1309015' for key 'a_film.udx_title'")
+【2024-06-24 13:43:43】
+错误：(1062, "Duplicate entry '玛丽与魔女之花-26935777' for key 'a_film.udx_title'")
+【2024-06-24 13:43:43】
+错误：(1062, "Duplicate entry '凯尔经的秘密-3212221' for key 'a_film.udx_title'")
+【2024-06-24 13:43:43】
+错误：(1062, "Duplicate entry '法证先锋3-5247088' for key 'a_film.udx_title'")
+【2024-06-24 13:43:43】
+错误：(1062, "Duplicate entry '初恋红豆冰-3745292' for key 'a_film.udx_title'")
+【2024-06-24 13:43:43】
+错误：(1062, "Duplicate entry '追光的日子-35539600' for key 'a_film.udx_title'")
+【2024-06-24 13:43:43】
+错误：(1062, "Duplicate entry '迷雾-27097811' for key 'a_film.udx_title'")
+【2024-06-24 13:43:43】
+错误：(1062, "Duplicate entry '成瘾剂量-35101436' for key 'a_film.udx_title'")
+【2024-06-24 13:43:43】
+错误：(1062, "Duplicate entry '功勋-34951103' for key 'a_film.udx_title'")
+【2024-06-24 13:43:43】
+错误：(1062, "Duplicate entry '偷偷爱着你-2147121' for key 'a_film.udx_title'")
+【2024-06-24 13:43:43】
+错误：(1062, "Duplicate entry '野良神-24752306' for key 'a_film.udx_title'")
+【2024-06-24 13:43:43】
+错误：(1062, "Duplicate entry '暴疯语-25742299' for key 'a_film.udx_title'")
+【2024-06-24 13:43:43】
+错误：(1062, "Duplicate entry '世界尽头-3026572' for key 'a_film.udx_title'")
+【2024-06-24 13:43:43】
+错误：(1062, "Duplicate entry '卫斯理之蓝血人-1306983' for key 'a_film.udx_title'")
+【2024-06-24 13:43:43】
+错误：(1062, "Duplicate entry '小鬼当家4-1422925' for key 'a_film.udx_title'")
+【2024-06-24 13:43:43】
+错误：(1062, "Duplicate entry '向阳处的她-20426995' for key 'a_film.udx_title'")
+【2024-06-24 13:43:47】
+错误：(1062, "Duplicate entry '下一站，说爱你-4022090' for key 'a_film.udx_title'")
+【2024-06-24 13:43:47】
+错误：(1062, "Duplicate entry '小谢尔顿 第三季-30467485' for key 'a_film.udx_title'")
+【2024-06-24 13:43:47】
+错误：(1062, "Duplicate entry '夏目友人帐 第五季-26754896' for key 'a_film.udx_title'")
+【2024-06-24 13:43:47】
+错误：(1062, "Duplicate entry '一声叹息-1305703' for key 'a_film.udx_title'")
+【2024-06-24 13:43:47】
+错误：(1062, "Duplicate entry '恶老板-4004715' for key 'a_film.udx_title'")
+【2024-06-24 13:43:47】
+错误：(1062, "Duplicate entry '八美图-1299292' for key 'a_film.udx_title'")
+【2024-06-24 13:43:47】
+错误：(1062, "Duplicate entry '天堂回信-1418076' for key 'a_film.udx_title'")
+【2024-06-24 13:43:47】
+错误：(1062, "Duplicate entry '电梯里的恶魔-3268171' for key 'a_film.udx_title'")
+【2024-06-24 13:43:47】
+错误：(1062, "Duplicate entry '地下铁-1308748' for key 'a_film.udx_title'")
+【2024-06-24 13:43:47】
+错误：(1062, "Duplicate entry '金宵大厦-30156074' for key 'a_film.udx_title'")
+【2024-06-24 13:43:47】
+错误：(1062, "Duplicate entry '大豆田永久子与三名前夫-35365608' for key 'a_film.udx_title'")
+【2024-06-24 13:43:47】
+错误：(1062, "Duplicate entry '跃动青春-35679677' for key 'a_film.udx_title'")
+【2024-06-24 13:43:47】
+错误：(1062, "Duplicate entry '大理寺日志-30395911' for key 'a_film.udx_title'")
+【2024-06-24 13:43:47】
+错误：(1062, "Duplicate entry '红气球-1326038' for key 'a_film.udx_title'")
+【2024-06-24 13:43:47】
+错误：(1062, "Duplicate entry '登月第一人-3026559' for key 'a_film.udx_title'")
+【2024-06-24 13:43:47】
+错误：(1062, "Duplicate entry '人生第一次-34945795' for key 'a_film.udx_title'")
+【2024-06-24 13:43:55】
+错误：(1062, "Duplicate entry '怒潮-35572588' for key 'a_film.udx_title'")
+【2024-06-24 13:43:55】
+错误：(1062, "Duplicate entry '暗黑 第二季-27611018' for key 'a_film.udx_title'")
+【2024-06-24 13:43:55】
+错误：(1062, "Duplicate entry '谁是被害者 第一季-34930834' for key 'a_film.udx_title'")
+【2024-06-24 13:43:55】
+错误：(1062, "Duplicate entry '请输入搜索词：WWW-30403333' for key 'a_film.udx_title'")
+【2024-06-24 13:43:55】
+错误：(1062, "Duplicate entry '花水木-4074009' for key 'a_film.udx_title'")
+【2024-06-24 13:44:00】
+错误：(1062, "Duplicate entry '摩登家庭 第九季-27041242' for key 'a_film.udx_title'")
+【2024-06-24 13:44:00】
+错误：(1062, "Duplicate entry '反叛的童谣-27073245' for key 'a_film.udx_title'")
+【2024-06-24 13:44:00】
+错误：(1062, "Duplicate entry '万湖会议-35769174' for key 'a_film.udx_title'")
+【2024-06-24 13:44:00】
+错误：(1062, "Duplicate entry '青春梦工场-1323749' for key 'a_film.udx_title'")
+【2024-06-24 13:44:00】
+错误：(1062, "Duplicate entry '边境杀手2：边境战士-26627736' for key 'a_film.udx_title'")
+【2024-06-24 13:44:00】
+错误：(1062, "Duplicate entry '处女泉-1293156' for key 'a_film.udx_title'")
+【2024-06-24 13:44:00】
+错误：(1062, "Duplicate entry '豪勇七蛟龙-10774184' for key 'a_film.udx_title'")
+【2024-06-24 13:44:00】
+错误：(1062, "Duplicate entry '铁血战士-1298976' for key 'a_film.udx_title'")
+【2024-06-24 13:44:00】
+错误：(1062, "Duplicate entry '星之声-1463872' for key 'a_film.udx_title'")
+【2024-06-24 13:44:00】
+错误：(1062, "Duplicate entry '大丈夫-1305179' for key 'a_film.udx_title'")
+【2024-06-24 13:44:00】
+错误：(1062, "Duplicate entry '阿德尔曼夫妇-26951692' for key 'a_film.udx_title'")
+【2024-06-24 13:44:00】
+错误：(1062, "Duplicate entry '喜羊羊与灰太狼之飞马奇遇记-24751765' for key 'a_film.udx_title'")
+【2024-06-24 13:44:03】
+错误：(1062, "Duplicate entry '人间正道是沧桑-3153641' for key 'a_film.udx_title'")
+【2024-06-24 13:44:03】
+错误：(1062, "Duplicate entry '十三条命-35056243' for key 'a_film.udx_title'")
+【2024-06-24 13:44:03】
+错误：(1062, "Duplicate entry '香港制造-1292396' for key 'a_film.udx_title'")
+【2024-06-24 13:44:03】
+错误：(1062, "Duplicate entry '中国有嘻哈-27037043' for key 'a_film.udx_title'")
+【2024-06-24 13:44:03】
+错误：(1062, "Duplicate entry '当你熟睡-3731626' for key 'a_film.udx_title'")
+【2024-06-24 13:44:03】
+错误：(1062, "Duplicate entry '爱情洗牌-3602965' for key 'a_film.udx_title'")
+【2024-06-24 13:44:03】
+错误：(1062, "Duplicate entry '平凡英雄-35554292' for key 'a_film.udx_title'")
+【2024-06-24 13:44:03】
+错误：(1062, "Duplicate entry '叶问：终极一战-10794042' for key 'a_film.udx_title'")
+【2024-06-24 13:44:03】
+错误：(1062, "Duplicate entry '请君-35539518' for key 'a_film.udx_title'")
+【2024-06-24 13:44:03】
+错误：(1062, "Duplicate entry '罗马的房子-3431336' for key 'a_film.udx_title'")
+【2024-06-24 13:44:03】
+错误：'NoneType' object has no attribute 'read'
+【2024-06-24 13:44:04】
+错误：(1062, "Duplicate entry '寄生兽：灰色部队-35954429' for key 'a_film.udx_title'")
+【2024-06-24 13:44:04】
+错误：(1062, "Duplicate entry '人间喜剧-4312232' for key 'a_film.udx_title'")
+【2024-06-24 13:44:04】
+错误：(1062, "Duplicate entry '萤之光-2147129' for key 'a_film.udx_title'")
+【2024-06-24 13:44:04】
+错误：(1062, "Duplicate entry '十月的天空-1293753' for key 'a_film.udx_title'")
+【2024-06-24 13:44:04】
+错误：(1062, "Duplicate entry '鹦鹉杀-35496265' for key 'a_film.udx_title'")
+【2024-06-24 13:44:07】
+错误：(1062, "Duplicate entry '许三观-11540651' for key 'a_film.udx_title'")
+【2024-06-24 13:44:07】
+错误：(1062, "Duplicate entry '日不落酒店-27098602' for key 'a_film.udx_title'")
+【2024-06-24 13:44:07】
+错误：(1062, "Duplicate entry '勇敢者的游戏2：太空飞行棋-1370276' for key 'a_film.udx_title'")
+【2024-06-24 13:44:07】
+错误：(1062, "Duplicate entry '蒂莫西的奇异生活-3819871' for key 'a_film.udx_title'")
+【2024-06-24 13:44:07】
+错误：(1062, "Duplicate entry '追捕-26348414' for key 'a_film.udx_title'")
+【2024-06-24 13:44:07】
+错误：(1062, "Duplicate entry '双宝斗恶魔-4180445' for key 'a_film.udx_title'")
+【2024-06-24 13:44:07】
+错误：(1062, "Duplicate entry '苔丝-1291872' for key 'a_film.udx_title'")
+【2024-06-24 13:44:07】
+错误：(1062, "Duplicate entry '拿破仑-35224919' for key 'a_film.udx_title'")
+【2024-06-24 13:44:07】
+错误：(1062, "Duplicate entry '宅女侦探桂香-25778488' for key 'a_film.udx_title'")
+【2024-06-24 13:44:10】
+错误：(1062, "Duplicate entry '呆佬拜寿-1394163' for key 'a_film.udx_title'")
+【2024-06-24 13:44:10】
+错误：(1062, "Duplicate entry '向往的生活 第五季-35404034' for key 'a_film.udx_title'")
+【2024-06-24 13:44:10】
+错误：(1062, "Duplicate entry '樱桃的滋味-1296177' for key 'a_film.udx_title'")
+【2024-06-24 13:44:10】
+错误：(1062, "Duplicate entry '摇摆de婚约-4707209' for key 'a_film.udx_title'")
+【2024-06-24 13:44:10】
+错误：(1062, "Duplicate entry '玉楼春-34852731' for key 'a_film.udx_title'")
+【2024-06-24 13:44:10】
+错误：(1062, "Duplicate entry '大川端侦探社-25804453' for key 'a_film.udx_title'")
+【2024-06-24 13:44:10】
+错误：(1062, "Duplicate entry '第一诫-2027923' for key 'a_film.udx_title'")
+【2024-06-24 13:44:10】
+错误：(1062, "Duplicate entry '某科学的超电磁炮-4067827' for key 'a_film.udx_title'")
+【2024-06-24 13:44:10】
+错误：(1062, "Duplicate entry '岳父岳母真难当-25867546' for key 'a_film.udx_title'")
+【2024-06-24 13:44:13】
+错误：(1062, "Duplicate entry '人猿星球-1296697' for key 'a_film.udx_title'")
+【2024-06-24 13:44:13】
+错误：(1062, "Duplicate entry '离婚律师-25711530' for key 'a_film.udx_title'")
+【2024-06-24 13:44:13】
+错误：(1062, "Duplicate entry '羞耻 法国版 第三季-30331451' for key 'a_film.udx_title'")
+【2024-06-24 13:44:13】
+错误：(1062, "Duplicate entry '爸爸去哪儿 第二季-25826679' for key 'a_film.udx_title'")
+【2024-06-24 13:44:13】
+错误：(1062, "Duplicate entry '披荆斩棘的哥哥-35161214' for key 'a_film.udx_title'")
+【2024-06-24 13:44:13】
+错误：(1062, "Duplicate entry '绝密飞行-1309200' for key 'a_film.udx_title'")
+【2024-06-24 13:44:13】
+错误：(1062, "Duplicate entry '1950他们正年轻-35470753' for key 'a_film.udx_title'")
+【2024-06-24 13:44:14】
+错误：(1062, "Duplicate entry '再造淑女-25884510' for key 'a_film.udx_title'")
+【2024-06-24 13:44:14】
+错误：(1062, "Duplicate entry '射雕英雄传-3142715' for key 'a_film.udx_title'")
+【2024-06-24 13:44:14】
+错误：(1062, "Duplicate entry '火车怪客-1298505' for key 'a_film.udx_title'")
+【2024-06-24 13:44:14】
+错误：(1062, "Duplicate entry '叶问前传-4134631' for key 'a_film.udx_title'")
+【2024-06-24 13:44:14】
+错误：(1062, "Duplicate entry '最爽的一天-26680247' for key 'a_film.udx_title'")
+【2024-06-24 13:44:14】
+错误：(1062, "Duplicate entry '老爸老妈的浪漫史 第三季-2326226' for key 'a_film.udx_title'")
+【2024-06-24 13:44:14】
+错误：(1062, "Duplicate entry '红樱桃-1305034' for key 'a_film.udx_title'")
+【2024-06-24 13:44:14】
+错误：(1062, "Duplicate entry '葬送的芙莉莲-36093351' for key 'a_film.udx_title'")
+【2024-06-24 13:44:14】
+错误：(1062, "Duplicate entry '巴里·林登-1292472' for key 'a_film.udx_title'")
+【2024-06-24 13:44:14】
+错误：(1062, "Duplicate entry '但是还有书籍 第二季-35295845' for key 'a_film.udx_title'")
+【2024-06-24 13:44:15】
+错误：(1062, "Duplicate entry '疯人院-27083735' for key 'a_film.udx_title'")
+【2024-06-24 13:44:15】
+错误：(1062, "Duplicate entry '杀人优越权-26858970' for key 'a_film.udx_title'")
+【2024-06-24 13:44:15】
+错误：(1062, "Duplicate entry '大耳朵图图-3111378' for key 'a_film.udx_title'")
+【2024-06-24 13:44:15】
+错误：(1062, "Duplicate entry '摩登原始人 第一季-1781621' for key 'a_film.udx_title'")
+【2024-06-24 13:44:15】
+错误：(1062, "Duplicate entry '德州电锯杀人狂-1304129' for key 'a_film.udx_title'")
+【2024-06-24 13:44:15】
+错误：(1062, "Duplicate entry '大侦探 第七季-35524871' for key 'a_film.udx_title'")
+【2024-06-24 13:44:15】
+错误：(1062, "Duplicate entry '神探亨特张-6880590' for key 'a_film.udx_title'")
+【2024-06-24 13:44:15】
+错误：(1062, "Duplicate entry '热带惊雷-1994879' for key 'a_film.udx_title'")
+【2024-06-24 13:44:15】
+错误：(1062, "Duplicate entry '见鬼-1296026' for key 'a_film.udx_title'")
+【2024-06-24 13:44:15】
+错误：(1062, "Duplicate entry '蓝眼武士 第一季-35524249' for key 'a_film.udx_title'")
+【2024-06-24 13:44:15】
+错误：(1062, "Duplicate entry '白头神探-1302176' for key 'a_film.udx_title'")
+【2024-06-24 13:44:15】
+错误：(1062, "Duplicate entry '哥哥太爱我了怎么办-26989728' for key 'a_film.udx_title'")
+【2024-06-24 13:44:15】
+错误：(1062, "Duplicate entry '罪恶王冠-6518736' for key 'a_film.udx_title'")
+【2024-06-24 13:44:15】
+错误：(1062, "Duplicate entry '武媚娘传奇-6984046' for key 'a_film.udx_title'")
+【2024-06-24 13:44:16】
+错误：(1062, "Duplicate entry '宝石之国-27047873' for key 'a_film.udx_title'")
+【2024-06-24 13:44:16】
+错误：(1062, "Duplicate entry '独领风骚-1295295' for key 'a_film.udx_title'")
+【2024-06-24 13:44:16】
+错误：(1062, "Duplicate entry '爆裂点-36010136' for key 'a_film.udx_title'")
+【2024-06-24 13:44:16】
+错误：(1062, "Duplicate entry '真相捕捉 第二季-35088783' for key 'a_film.udx_title'")
+【2024-06-24 13:44:16】
+错误：(1062, "Duplicate entry '刀剑笑-1301982' for key 'a_film.udx_title'")
+【2024-06-24 13:44:16】
+错误：(1062, "Duplicate entry '食人鱼3D-2269893' for key 'a_film.udx_title'")
+【2024-06-24 13:44:16】
+错误：(1062, "Duplicate entry '听见天堂-2078398' for key 'a_film.udx_title'")
+【2024-06-24 13:44:16】
+错误：(1062, "Duplicate entry '未来日记-6126502' for key 'a_film.udx_title'")
+【2024-06-24 13:44:26】
+错误：(1062, "Duplicate entry '特工佳丽-1301173' for key 'a_film.udx_title'")
+【2024-06-24 13:44:26】
+错误：(1062, "Duplicate entry '图兰朵：魔咒缘起-26662331' for key 'a_film.udx_title'")
+【2024-06-24 13:44:26】
+错误：(1062, "Duplicate entry '高跟鞋先生-26652816' for key 'a_film.udx_title'")
+【2024-06-24 13:44:26】
+错误：(1062, "Duplicate entry '过把瘾-2264216' for key 'a_film.udx_title'")
+【2024-06-24 13:44:26】
+错误：(1062, "Duplicate entry '飓风奇劫-26793385' for key 'a_film.udx_title'")
+【2024-06-24 13:44:26】
+错误：(1062, "Duplicate entry '老夫子2001-1295782' for key 'a_film.udx_title'")
+【2024-06-24 13:44:26】
+错误：(1062, "Duplicate entry '宾虚-1293150' for key 'a_film.udx_title'")
+【2024-06-24 13:44:26】
+错误：(1062, "Duplicate entry '舞出我人生3-3000078' for key 'a_film.udx_title'")
+【2024-06-24 13:44:26】
+错误：(1062, "Duplicate entry '朱迪-27179039' for key 'a_film.udx_title'")
+【2024-06-24 13:44:26】
+错误：(1062, "Duplicate entry '吉尔莫·德尔·托罗的奇思妙想-30222734' for key 'a_film.udx_title'")
+【2024-06-24 13:44:27】
+错误：(1062, "Duplicate entry '青春斗-27088997' for key 'a_film.udx_title'")
+【2024-06-24 13:44:29】
+错误：(1062, "Duplicate entry '老大-3692611' for key 'a_film.udx_title'")
+【2024-06-24 13:44:29】
+错误：(1062, "Duplicate entry '复仇笔记-27186532' for key 'a_film.udx_title'")
+【2024-06-24 13:44:29】
+错误：(1062, "Duplicate entry '蕾切尔的婚礼-2267369' for key 'a_film.udx_title'")
+【2024-06-24 13:44:29】
+错误：(1062, "Duplicate entry '在一起-10736586' for key 'a_film.udx_title'")
+【2024-06-24 13:44:30】
+错误：(1062, "Duplicate entry '超能敢死队-3212398' for key 'a_film.udx_title'")
+【2024-06-24 13:44:30】
+错误：(1062, "Duplicate entry '杀不死-26772013' for key 'a_film.udx_title'")
+【2024-06-24 13:44:30】
+错误：(1062, "Duplicate entry '群尸玩过界-1300377' for key 'a_film.udx_title'")
+【2024-06-24 13:44:30】
+错误：(1062, "Duplicate entry '神女-1302210' for key 'a_film.udx_title'")
+【2024-06-24 13:44:30】
+错误：(1062, "Duplicate entry '绝望主妇 第四季-2969278' for key 'a_film.udx_title'")
+【2024-06-24 13:44:30】
+错误：(1062, "Duplicate entry '生化危机：复仇-26876342' for key 'a_film.udx_title'")
+【2024-06-24 13:44:30】
+错误：(1062, "Duplicate entry '巴顿·芬克-1298043' for key 'a_film.udx_title'")
+【2024-06-24 13:44:35】
+错误：(1062, "Duplicate entry '宠物情人-4817024' for key 'a_film.udx_title'")
+【2024-06-24 13:44:35】
+错误：(1062, "Duplicate entry '变身男女-6714088' for key 'a_film.udx_title'")
+【2024-06-24 13:44:35】
+错误：(1062, "Duplicate entry '忍者乱太郎-2059529' for key 'a_film.udx_title'")
+【2024-06-24 13:44:35】
+错误：(1062, "Duplicate entry '女友的男友-1293776' for key 'a_film.udx_title'")
+【2024-06-24 13:44:35】
+错误：(1062, "Duplicate entry '愤怒的黄牛-30181789' for key 'a_film.udx_title'")
+【2024-06-24 13:44:35】
+错误：(1062, "Duplicate entry '亚当计划-34970181' for key 'a_film.udx_title'")
+【2024-06-24 13:44:36】
+错误：(1062, "Duplicate entry '呼喊与细语-1296147' for key 'a_film.udx_title'")
+【2024-06-24 13:44:36】
+错误：(1062, "Duplicate entry '是，首相 第一季-1441948' for key 'a_film.udx_title'")
+【2024-06-24 13:44:36】
+错误：(1062, "Duplicate entry '月色真美-26963810' for key 'a_film.udx_title'")
+【2024-06-24 13:44:36】
+错误：(1062, "Duplicate entry '芭比之真假公主-1917777' for key 'a_film.udx_title'")
+【2024-06-24 13:44:36】
+错误：(1062, "Duplicate entry '绝代双骄-26986804' for key 'a_film.udx_title'")
+【2024-06-24 13:44:43】
+错误：(1062, "Duplicate entry '绝望主妇  第八季-6778677' for key 'a_film.udx_title'")
+【2024-06-24 13:44:43】
+错误：(1062, "Duplicate entry '细细的红线-1292781' for key 'a_film.udx_title'")
+【2024-06-24 13:44:43】
+错误：(1062, "Duplicate entry '吐司-4904026' for key 'a_film.udx_title'")
+【2024-06-24 13:44:43】
+错误：(1062, "Duplicate entry '目中无人2-36212386' for key 'a_film.udx_title'")
+【2024-06-24 13:44:43】
+错误：(1062, "Duplicate entry '松鼠，坚果和时间机器-1963070' for key 'a_film.udx_title'")
+【2024-06-24 13:44:43】
+错误：(1062, "Duplicate entry '我的英雄学院 第3季-27160633' for key 'a_film.udx_title'")
+【2024-06-24 13:44:43】
+错误：(1062, "Duplicate entry '战舰波将金号-1293492' for key 'a_film.udx_title'")
+【2024-06-24 13:44:43】
+错误：(1062, "Duplicate entry '机甲拳击-27157760' for key 'a_film.udx_title'")
+【2024-06-24 13:44:44】
+错误：(1062, "Duplicate entry '圆桌派 第一季-26897019' for key 'a_film.udx_title'")
+【2024-06-24 13:44:44】
+错误：(1062, "Duplicate entry '公主嫁到-4189694' for key 'a_film.udx_title'")
+【2024-06-24 13:44:44】
+错误：(1062, "Duplicate entry '王朝 第一季-27182707' for key 'a_film.udx_title'")
+【2024-06-24 13:44:44】
+错误：(1062, "Duplicate entry '女男变错身-1929497' for key 'a_film.udx_title'")
+【2024-06-24 13:44:44】
+错误：(1062, "Duplicate entry '和平使者 第一季-35209701' for key 'a_film.udx_title'")
+【2024-06-24 13:44:47】
+错误：(1062, "Duplicate entry '尽善尽美-1293917' for key 'a_film.udx_title'")
+【2024-06-24 13:44:47】
+错误：(1062, "Duplicate entry '哲仁王后-35004570' for key 'a_film.udx_title'")
+【2024-06-24 13:44:47】
+错误：(1062, "Duplicate entry '芭比之天鹅湖-1774132' for key 'a_film.udx_title'")
+【2024-06-24 13:44:47】
+错误：(1062, "Duplicate entry '中国城-25890078' for key 'a_film.udx_title'")
+【2024-06-24 13:44:47】
+错误：(1062, "Duplicate entry '冬天的骨头-3610676' for key 'a_film.udx_title'")
+【2024-06-24 13:44:47】
+错误：(1062, "Duplicate entry 'D.P：逃兵追缉令 第二季-35634067' for key 'a_film.udx_title'")
+【2024-06-24 13:44:47】
+错误：(1062, "Duplicate entry '念念手纪-26869119' for key 'a_film.udx_title'")
+【2024-06-24 13:44:48】
+错误：(1062, "Duplicate entry '惜花芷-36299980' for key 'a_film.udx_title'")
+【2024-06-24 13:44:48】
+错误：(1062, "Duplicate entry '鲁邦三世VS名侦探柯南-3612790' for key 'a_film.udx_title'")
+【2024-06-24 13:44:48】
+错误：(1062, "Duplicate entry '九义人-35623511' for key 'a_film.udx_title'")
+【2024-06-24 13:44:48】
+错误：(1062, "Duplicate entry '深海寻人-2123510' for key 'a_film.udx_title'")
+【2024-06-24 13:44:48】
+错误：(1062, "Duplicate entry '银魂剧场版：完结篇 直到永远的万事屋-11615927' for key 'a_film.udx_title'")
+【2024-06-24 13:44:48】
+错误：(1062, "Duplicate entry '七天-2999500' for key 'a_film.udx_title'")
+【2024-06-24 13:44:48】
+错误：(1062, "Duplicate entry '千寻小姐-35791966' for key 'a_film.udx_title'")
+【2024-06-24 13:44:48】
+错误：(1062, "Duplicate entry '猪猡之王-35480594' for key 'a_film.udx_title'")
+【2024-06-24 13:44:48】
+错误：(1062, "Duplicate entry '马柔本宅秘事-26961821' for key 'a_film.udx_title'")
+【2024-06-24 13:44:48】
+错误：(1062, "Duplicate entry '麻辣变形计-26585909' for key 'a_film.udx_title'")
+【2024-06-24 13:44:48】
+错误：(1062, "Duplicate entry '夺命深渊-3319741' for key 'a_film.udx_title'")
+【2024-06-24 13:44:48】
+错误：(1062, "Duplicate entry '我是布莱克-26653676' for key 'a_film.udx_title'")
+【2024-06-24 13:44:49】
+错误：(1062, "Duplicate entry '广告狂人 第一季-2149047' for key 'a_film.udx_title'")
+【2024-06-24 13:44:49】
+错误：(1062, "Duplicate entry '爱与怪物-21349338' for key 'a_film.udx_title'")
+【2024-06-24 13:44:49】
+错误：(1062, "Duplicate entry '大都会-1291569' for key 'a_film.udx_title'")
+【2024-06-24 13:44:49】
+错误：(1062, "Duplicate entry '龙虎少年队-3072889' for key 'a_film.udx_title'")
+【2024-06-24 13:44:49】
+错误：(1062, "Duplicate entry '二十-25862355' for key 'a_film.udx_title'")
+【2024-06-24 13:44:49】
+错误：(1062, "Duplicate entry '这里的黎明静悄悄-26384515' for key 'a_film.udx_title'")
+【2024-06-24 13:44:49】
+错误：(1062, "Duplicate entry '莫斯科陷落-26796845' for key 'a_film.udx_title'")
+【2024-06-24 13:44:49】
+错误：(1062, "Duplicate entry '好想去你的世界爱你-35352389' for key 'a_film.udx_title'")
+【2024-06-24 13:44:49】
+错误：(1062, "Duplicate entry '马男波杰克 第三季-26581673' for key 'a_film.udx_title'")
+【2024-06-24 13:44:49】
+错误：(1062, "Duplicate entry 'V世代 第一季-35211473' for key 'a_film.udx_title'")
+【2024-06-24 13:44:49】
+错误：(1062, "Duplicate entry '征途-26705567' for key 'a_film.udx_title'")
+【2024-06-24 13:44:49】
+错误：(1062, "Duplicate entry '演员的诞生-27039382' for key 'a_film.udx_title'")
+【2024-06-24 13:44:49】
+错误：(1062, "Duplicate entry '狐狸与我-2028659' for key 'a_film.udx_title'")
+【2024-06-24 13:44:49】
+错误：(1062, "Duplicate entry '那家伙的声音-2067450' for key 'a_film.udx_title'")
+【2024-06-24 13:45:13】
+错误：(1062, "Duplicate entry '真爱无价-1779632' for key 'a_film.udx_title'")
+【2024-06-24 13:45:13】
+错误：(1062, "Duplicate entry '攻壳机动队 第一季-1431615' for key 'a_film.udx_title'")
+【2024-06-24 13:45:14】
+错误：(1062, "Duplicate entry '芭比之长发公主-1420048' for key 'a_film.udx_title'")
+【2024-06-24 13:45:14】
+错误：(1062, "Duplicate entry '创业时代-26665352' for key 'a_film.udx_title'")
+【2024-06-24 13:45:14】
+错误：(1062, "Duplicate entry '鹬蚌相争-1300505' for key 'a_film.udx_title'")
+【2024-06-24 13:45:14】
+错误：(1062, "Duplicate entry '哈利·波特20周年：回到霍格沃茨-35663020' for key 'a_film.udx_title'")
+【2024-06-24 13:45:14】
+错误：(1062, "Duplicate entry '布莱克书店  第三季-4059087' for key 'a_film.udx_title'")
+【2024-06-24 13:45:14】
+错误：(1062, "Duplicate entry '寻汉计-30464901' for key 'a_film.udx_title'")
+【2024-06-24 13:45:14】
+错误：(1062, "Duplicate entry '缩小人生-3578939' for key 'a_film.udx_title'")
+【2024-06-24 13:45:14】
+错误：(1062, "Duplicate entry '绯闻女孩 第六季-10756709' for key 'a_film.udx_title'")
+【2024-06-24 13:45:14】
+错误：(1062, "Duplicate entry '青梅竹马-1305327' for key 'a_film.udx_title'")
+【2024-06-24 13:45:14】
+错误：(1062, "Duplicate entry '鲁邦三世：卡里奥斯特罗城-1432436' for key 'a_film.udx_title'")
+【2024-06-24 13:45:14】
+错误：(1062, "Duplicate entry '瑞克和莫蒂 第六季-35597581' for key 'a_film.udx_title'")
+【2024-06-24 13:45:14】
+错误：(1062, "Duplicate entry '陆小凤传奇之大金鹏王-1968502' for key 'a_film.udx_title'")
+【2024-06-24 13:45:18】
+错误：(1062, "Duplicate entry '负重前行-26793157' for key 'a_film.udx_title'")
+【2024-06-24 13:45:18】
+错误：(1062, "Duplicate entry '罪梦者-30338164' for key 'a_film.udx_title'")
+【2024-06-24 13:45:18】
+错误：(1062, "Duplicate entry '精舞门-3212106' for key 'a_film.udx_title'")
+【2024-06-24 13:45:18】
+错误：(1062, "Duplicate entry '大冰小将-30397901' for key 'a_film.udx_title'")
+【2024-06-24 13:45:18】
+错误：(1062, "Duplicate entry '007之金手指-1293828' for key 'a_film.udx_title'")
+【2024-06-24 13:45:18】
+错误：(1062, "Duplicate entry '卡桑德拉大桥-1298917' for key 'a_film.udx_title'")
+【2024-06-24 13:45:18】
+错误：(1062, "Duplicate entry '我们是真正的朋友 第一季-30468808' for key 'a_film.udx_title'")
+【2024-06-24 13:45:18】
+错误：(1062, "Duplicate entry '姜食堂 第三季-33441897' for key 'a_film.udx_title'")
+【2024-06-24 13:45:18】
+错误：(1062, "Duplicate entry '胭脂-26358699' for key 'a_film.udx_title'")
+【2024-06-24 13:45:18】
+错误：(1062, "Duplicate entry '奇幻人生-1783462' for key 'a_film.udx_title'")
+【2024-06-24 13:45:18】
+错误：(1062, "Duplicate entry '城市猎人-30335799' for key 'a_film.udx_title'")
+【2024-06-24 13:45:18】
+错误：(1062, "Duplicate entry '食戟之灵-26219198' for key 'a_film.udx_title'")
+【2024-06-24 13:45:18】
+错误：(1062, "Duplicate entry '香蕉-5681006' for key 'a_film.udx_title'")
+【2024-06-24 13:45:18】
+错误：(1062, "Duplicate entry '坚不可摧-10548265' for key 'a_film.udx_title'")
+【2024-06-24 13:45:19】
+错误：(1062, "Duplicate entry '周末时光-6024430' for key 'a_film.udx_title'")
+【2024-06-24 13:45:20】
+错误：(1062, "Duplicate entry '宝莱坞机器人2.0：重生归来-26981165' for key 'a_film.udx_title'")
+【2024-06-24 13:45:20】
+错误：(1062, "Duplicate entry '几近成名-1292352' for key 'a_film.udx_title'")
+【2024-06-24 13:45:20】
+错误：(1062, "Duplicate entry '大决战之辽沈战役-1424552' for key 'a_film.udx_title'")
+【2024-06-24 13:45:20】
+错误：(1062, "Duplicate entry '屌丝男士 第三季-25787994' for key 'a_film.udx_title'")
+【2024-06-24 13:45:20】
+错误：(1062, "Duplicate entry '学校2013-20278813' for key 'a_film.udx_title'")
+【2024-06-24 13:45:20】
+错误：(1062, "Duplicate entry '绝望主妇 第七季-4922426' for key 'a_film.udx_title'")
+【2024-06-24 13:45:20】
+错误：(1062, "Duplicate entry '纽约纽约-25881781' for key 'a_film.udx_title'")
+【2024-06-24 13:45:20】
+错误：(1062, "Duplicate entry '她的回忆-5162334' for key 'a_film.udx_title'")
+【2024-06-24 13:45:20】
+错误：(1062, "Duplicate entry '傲骨贤妻 第四季-10549253' for key 'a_film.udx_title'")
+【2024-06-24 13:45:20】
+错误：(1062, "Duplicate entry '蓝色星球 第二季-26979545' for key 'a_film.udx_title'")
+【2024-06-24 13:45:20】
+错误：(1062, "Duplicate entry '永安镇故事集-35231700' for key 'a_film.udx_title'")
+【2024-06-24 13:45:20】
+错误：(1062, "Duplicate entry '谁说我结不了婚-30463737' for key 'a_film.udx_title'")
+【2024-06-24 13:45:20】
+错误：(1062, "Duplicate entry '爱恋-25933898' for key 'a_film.udx_title'")
+【2024-06-24 13:45:36】
+错误：(1062, "Duplicate entry '纸钞屋 第二季-30183610' for key 'a_film.udx_title'")
+【2024-06-24 13:45:36】
+错误：(1062, "Duplicate entry '王牌对王牌 第六季-35064992' for key 'a_film.udx_title'")
+【2024-06-24 13:45:36】
+错误：(1062, "Duplicate entry '女主角失格-26311828' for key 'a_film.udx_title'")
+【2024-06-24 13:45:36】
+错误：(1062, "Duplicate entry '毕业会考-26340305' for key 'a_film.udx_title'")
+【2024-06-24 13:45:36】
+错误：(1062, "Duplicate entry '夜间飞行-25823035' for key 'a_film.udx_title'")
+【2024-06-24 13:45:36】
+错误：(1062, "Duplicate entry '险恶-6875615' for key 'a_film.udx_title'")
+【2024-06-24 13:45:36】
+错误：(1062, "Duplicate entry '兄弟-2278017' for key 'a_film.udx_title'")
+【2024-06-24 13:45:36】
+错误：(1062, "Duplicate entry '克拉克森的农场 第二季-35517450' for key 'a_film.udx_title'")
+【2024-06-24 13:45:36】
+错误：(1062, "Duplicate entry '喜丧-26671361' for key 'a_film.udx_title'")
+【2024-06-24 13:45:36】
+错误：(1062, "Duplicate entry '难以忽视的真相-1474405' for key 'a_film.udx_title'")
+【2024-06-24 13:45:36】
+错误：(1062, "Duplicate entry '倾世皇妃-5384549' for key 'a_film.udx_title'")
+【2024-06-24 13:45:36】
+错误：(1062, "Duplicate entry '满月之下请相爱-35234634' for key 'a_film.udx_title'")
+【2024-06-24 13:45:36】
+错误：(1062, "Duplicate entry '古灵精探B-3356340' for key 'a_film.udx_title'")
+【2024-06-24 13:45:36】
+错误：(1062, "Duplicate entry '特工任务-35561680' for key 'a_film.udx_title'")
+【2024-06-24 13:45:41】
+错误：(1062, "Duplicate entry '十分钟年华老去：小号篇-1291563' for key 'a_film.udx_title'")
+【2024-06-24 13:45:41】
+错误：(1062, "Duplicate entry '龙珠Z：复活的弗利萨-25931246' for key 'a_film.udx_title'")
+【2024-06-24 13:45:41】
+错误：(1062, "Duplicate entry '正发生-35318021' for key 'a_film.udx_title'")
+【2024-06-24 13:45:42】
+错误：(1062, "Duplicate entry '命运之夜 无限剑制 第二季-25937990' for key 'a_film.udx_title'")
+【2024-06-24 13:45:42】
+错误：(1062, "Duplicate entry '鬼故事-26721644' for key 'a_film.udx_title'")
+【2024-06-24 13:45:42】
+错误：(1062, "Duplicate entry '绝命航班-25715111' for key 'a_film.udx_title'")
+【2024-06-24 13:45:42】
+错误：(1062, "Duplicate entry '玻璃先生-27031237' for key 'a_film.udx_title'")
+【2024-06-24 13:45:42】
+错误：(1062, "Duplicate entry '东北插班生-35566358' for key 'a_film.udx_title'")
+【2024-06-24 13:45:42】
+错误：(1062, "Duplicate entry '不结婚-11614086' for key 'a_film.udx_title'")
+【2024-06-24 13:45:42】
+错误：(1062, "Duplicate entry '大叔的爱-26932873' for key 'a_film.udx_title'")
+【2024-06-24 13:45:42】
+错误：(1062, "Duplicate entry '绝世高手-23025359' for key 'a_film.udx_title'")
+【2024-06-24 13:45:42】
+错误：(1062, "Duplicate entry '雷雨-1431690' for key 'a_film.udx_title'")
+【2024-06-24 13:45:55】
+错误：(1062, "Duplicate entry '德雷尔一家 第三季-27070655' for key 'a_film.udx_title'")
+【2024-06-24 13:45:55】
+错误：(1062, "Duplicate entry '一线声机-1326208' for key 'a_film.udx_title'")
+【2024-06-24 13:45:55】
+错误：(1062, "Duplicate entry 'GT赛车：极速狂飙-25782720' for key 'a_film.udx_title'")
+【2024-06-24 13:45:55】
+错误：(1062, "Duplicate entry '死亡录像3：创世纪-4883258' for key 'a_film.udx_title'")
+【2024-06-24 13:45:55】
+错误：(1062, "Duplicate entry '超完美谋杀案-1297509' for key 'a_film.udx_title'")
+【2024-06-24 13:45:55】
+错误：(1062, "Duplicate entry '九州天空城-26611039' for key 'a_film.udx_title'")
+【2024-06-24 13:45:55】
+错误：(1062, "Duplicate entry '大而不倒-6013501' for key 'a_film.udx_title'")
+【2024-06-24 13:45:55】
+错误：(1062, "Duplicate entry '漂流少年-35427522' for key 'a_film.udx_title'")
+【2024-06-24 13:45:55】
+错误：(1062, "Duplicate entry '2020最美的夜bilibili晚会-35284485' for key 'a_film.udx_title'")
+【2024-06-24 13:45:55】
+错误：(1062, "Duplicate entry '吐槽大会 第五季-35236741' for key 'a_film.udx_title'")
+【2024-06-24 13:45:55】
+错误：(1062, "Duplicate entry '国王理查德-30481476' for key 'a_film.udx_title'")
+【2024-06-24 13:45:55】
+错误：(1062, "Duplicate entry '温暖的甜蜜的-34937911' for key 'a_film.udx_title'")
+【2024-06-24 13:45:57】
+错误：(1062, "Duplicate entry '仁医 完结篇-4881202' for key 'a_film.udx_title'")
+【2024-06-24 13:45:57】
+错误：(1062, "Duplicate entry '寒武纪-26939218' for key 'a_film.udx_title'")
+【2024-06-24 13:45:57】
+错误：(1062, "Duplicate entry '老狼请客-1431945' for key 'a_film.udx_title'")
+【2024-06-24 13:45:57】
+错误：(1062, "Duplicate entry '齐天大圣孙悟空-1830577' for key 'a_film.udx_title'")
+【2024-06-24 13:45:57】
+错误：(1062, "Duplicate entry '一条叫旺达的鱼-1292440' for key 'a_film.udx_title'")
+【2024-06-24 13:45:57】
+错误：(1062, "Duplicate entry '告别有情天-1293004' for key 'a_film.udx_title'")
+【2024-06-24 13:45:57】
+错误：(1062, "Duplicate entry '巧奔妙逃-1466273' for key 'a_film.udx_title'")
+【2024-06-24 13:45:57】
+错误：(1062, "Duplicate entry '失物招领-26884340' for key 'a_film.udx_title'")
+【2024-06-24 13:45:57】
+错误：(1062, "Duplicate entry '星河战队3：掠夺者-3006123' for key 'a_film.udx_title'")
+【2024-06-24 13:45:57】
+错误：(1062, "Duplicate entry '黑土无言-35623467' for key 'a_film.udx_title'")
+【2024-06-24 13:45:57】
+错误：(1062, "Duplicate entry '初恋那件小事-26877087' for key 'a_film.udx_title'")
+【2024-06-24 13:45:57】
+错误：(1062, "Duplicate entry '天使的性-3148068' for key 'a_film.udx_title'")
+【2024-06-24 13:46:01】
+错误：(1062, "Duplicate entry '杀马特我爱你-34937935' for key 'a_film.udx_title'")
+【2024-06-24 13:46:01】
+错误：(1062, "Duplicate entry '小杰克的攻击-1470614' for key 'a_film.udx_title'")
+【2024-06-24 13:46:01】
+错误：(1062, "Duplicate entry '荒川爆笑团-3993682' for key 'a_film.udx_title'")
+【2024-06-24 13:46:01】
+错误：(1062, "Duplicate entry '天赐灵机-33437580' for key 'a_film.udx_title'")
+【2024-06-24 13:46:01】
+错误：(1062, "Duplicate entry '尸忆-26373154' for key 'a_film.udx_title'")
+【2024-06-24 13:46:01】
+错误：(1062, "Duplicate entry '红河-3111650' for key 'a_film.udx_title'")
+【2024-06-24 13:46:01】
+错误：(1062, "Duplicate entry '福尔摩斯小姐：伦敦厄运-35461749' for key 'a_film.udx_title'")
+【2024-06-24 13:46:02】
+错误：(1062, "Duplicate entry '雪路-26334996' for key 'a_film.udx_title'")
+【2024-06-24 13:46:02】
+错误：(1062, "Duplicate entry '了不起的挑战-26347994' for key 'a_film.udx_title'")
+【2024-06-24 13:46:02】
+错误：(1062, "Duplicate entry '山海经之再见怪兽-27031463' for key 'a_film.udx_title'")
+【2024-06-24 13:46:02】
+错误：(1062, "Duplicate entry '美姐-10833919' for key 'a_film.udx_title'")
+【2024-06-24 13:46:02】
+错误：(1062, "Duplicate entry '谁陷害了兔子罗杰-1297317' for key 'a_film.udx_title'")
+【2024-06-24 13:46:02】
+错误：(1062, "Duplicate entry '战神纪-25881611' for key 'a_film.udx_title'")
+【2024-06-24 13:46:02】
+错误：(1062, "Duplicate entry '保持缄默-1479377' for key 'a_film.udx_title'")
+【2024-06-24 13:46:02】
+错误：(1062, "Duplicate entry '福尔摩斯二世-1303408' for key 'a_film.udx_title'")
+【2024-06-24 13:46:02】
+错误：(1062, "Duplicate entry '外星也难民 第一季-30312909' for key 'a_film.udx_title'")
+【2024-06-24 13:46:02】
+错误：(1062, "Duplicate entry '金鸡SSS-25703430' for key 'a_film.udx_title'")
+【2024-06-24 13:46:02】
+错误：(1062, "Duplicate entry '腰间持枪-27042748' for key 'a_film.udx_title'")
+【2024-06-24 13:46:02】
+错误：(1062, "Duplicate entry '黑白迷宫-26752106' for key 'a_film.udx_title'")
+【2024-06-24 13:46:02】
+错误：(1062, "Duplicate entry '心跳漏一拍 第二季-35908208' for key 'a_film.udx_title'")
+【2024-06-24 13:46:15】
+错误：(1062, "Duplicate entry '海贼王 真人版 第一季-27093536' for key 'a_film.udx_title'")
+【2024-06-24 13:46:15】
+错误：(1062, "Duplicate entry '悲惨世界-26842796' for key 'a_film.udx_title'")
+【2024-06-24 13:46:15】
+错误：(1062, "Duplicate entry '我不在那儿-1793922' for key 'a_film.udx_title'")
+【2024-06-24 13:46:15】
+错误：(1062, "Duplicate entry '棋王-1307163' for key 'a_film.udx_title'")
+【2024-06-24 13:46:15】
+错误：(1062, "Duplicate entry 'X医生：外科医生大门未知子 第1季-11612463' for key 'a_film.udx_title'")
+【2024-06-24 13:46:15】
+错误：(1062, "Duplicate entry '菲洛梅娜-19973780' for key 'a_film.udx_title'")
+【2024-06-24 13:46:15】
+错误：(1062, "Duplicate entry '世贸中心-1478063' for key 'a_film.udx_title'")
+【2024-06-24 13:46:15】
+错误：(1062, "Duplicate entry '与女人们的对话-1472510' for key 'a_film.udx_title'")
+【2024-06-24 13:46:15】
+错误：(1062, "Duplicate entry '阴阳路-1480051' for key 'a_film.udx_title'")
+【2024-06-24 13:46:15】
+错误：(1062, "Duplicate entry '血色星期一-3259416' for key 'a_film.udx_title'")
+【2024-06-24 13:46:15】
+错误：(1062, "Duplicate entry '看不见影子的少年-36282652' for key 'a_film.udx_title'")
+【2024-06-24 13:46:15】
+错误：(1062, "Duplicate entry '似水年华-2157156' for key 'a_film.udx_title'")
+【2024-06-24 13:46:24】
+错误：(1062, "Duplicate entry '首尔站-25840396' for key 'a_film.udx_title'")
+【2024-06-24 13:46:24】
+错误：(1062, "Duplicate entry '宇宙的巨人希曼 第一季-1845562' for key 'a_film.udx_title'")
+【2024-06-24 13:46:24】
+错误：(1062, "Duplicate entry '狐妖小红娘剧场版：王权富贵-26946612' for key 'a_film.udx_title'")
+【2024-06-24 13:46:24】
+错误：(1062, "Duplicate entry '向左爱·向右爱-1307545' for key 'a_film.udx_title'")
+【2024-06-24 13:46:24】
+错误：(1062, "Duplicate entry '鬼夫-21871405' for key 'a_film.udx_title'")
+【2024-06-24 13:46:24】
+错误：(1062, "Duplicate entry '蛇蝎女佣 第一季-10577737' for key 'a_film.udx_title'")
+【2024-06-24 13:46:24】
+错误：(1062, "Duplicate entry '宝莱坞机器人之恋-3262091' for key 'a_film.udx_title'")
+【2024-06-24 13:46:24】
+错误：(1062, "Duplicate entry '她不知道名字的那些鸟儿-26928304' for key 'a_film.udx_title'")
+【2024-06-24 13:46:24】
+错误：(1062, "Duplicate entry '我的战争-25945350' for key 'a_film.udx_title'")
+【2024-06-24 13:46:24】
+错误：(1062, "Duplicate entry '消失的十一层-35782125' for key 'a_film.udx_title'")
+【2024-06-24 13:46:24】
+错误：(1062, "Duplicate entry '蕾蒙娜和姐姐-3071517' for key 'a_film.udx_title'")
+【2024-06-24 13:46:24】
+错误：(1062, "Duplicate entry '东方的承诺-1892530' for key 'a_film.udx_title'")
+【2024-06-24 13:46:24】
+错误：(1062, "Duplicate entry '我的奇怪朋友-27591191' for key 'a_film.udx_title'")
+【2024-06-24 13:46:42】
+错误：(1062, "Duplicate entry '陈翔六点半之民间高手-35207868' for key 'a_film.udx_title'")
+【2024-06-24 13:46:42】
+错误：(1062, "Duplicate entry '去年冬天与你分手-27102505' for key 'a_film.udx_title'")
+【2024-06-24 13:46:42】
+错误：(1062, "Duplicate entry '似火流年-30311925' for key 'a_film.udx_title'")
+【2024-06-24 13:46:42】
+错误：(1062, "Duplicate entry '大逃脱 第二季-30465928' for key 'a_film.udx_title'")
+【2024-06-24 13:46:42】
+错误：(1062, "Duplicate entry '拜见岳父大人3-3078753' for key 'a_film.udx_title'")
+【2024-06-24 13:46:42】
+错误：(1062, "Duplicate entry '人间至味是清欢-26842672' for key 'a_film.udx_title'")
+【2024-06-24 13:46:42】
+错误：(1062, "Duplicate entry '偷偷爱你-1303482' for key 'a_film.udx_title'")
+【2024-06-24 13:46:42】
+错误：(1062, "Duplicate entry '死亡飞车2-4005190' for key 'a_film.udx_title'")
+【2024-06-24 13:46:42】
+错误：(1062, "Duplicate entry '离魂异客-1303462' for key 'a_film.udx_title'")
+【2024-06-24 13:46:43】
+错误：(1062, "Duplicate entry '辣妈正传-24464262' for key 'a_film.udx_title'")
+【2024-06-24 13:46:43】
+错误：(1062, "Duplicate entry '寻找金钟旭-4851900' for key 'a_film.udx_title'")
+【2024-06-24 13:46:43】
+错误：(1062, "Duplicate entry '黄石的孩子-1923474' for key 'a_film.udx_title'")
+【2024-06-24 13:46:43】
+错误：(1062, "Duplicate entry '神圣车行-6875451' for key 'a_film.udx_title'")
+【2024-06-24 13:46:52】
+错误：(1062, "Duplicate entry '环形物语-30277286' for key 'a_film.udx_title'")
+【2024-06-24 13:46:52】
+错误：(1062, "Duplicate entry '大理寺少卿游-35040041' for key 'a_film.udx_title'")
+【2024-06-24 13:46:52】
+错误：(1062, "Duplicate entry '好兆头 第二季-35511391' for key 'a_film.udx_title'")
+【2024-06-24 13:46:52】
+错误：(1062, "Duplicate entry '火龙对决-3993708' for key 'a_film.udx_title'")
+【2024-06-24 13:46:52】
+错误：(1062, "Duplicate entry '芭比梦幻仙境之人鱼公主-1917780' for key 'a_film.udx_title'")
+【2024-06-24 13:46:52】
+错误：(1062, "Duplicate entry '霓虹恶魔-6860147' for key 'a_film.udx_title'")
+【2024-06-24 13:46:52】
+错误：(1062, "Duplicate entry '斯大林格勒-6714930' for key 'a_film.udx_title'")
+【2024-06-24 13:46:52】
+错误：(1062, "Duplicate entry '登陆之日-4313109' for key 'a_film.udx_title'")
+【2024-06-24 13:46:52】
+错误：(1062, "Duplicate entry '与青春有关的日子-1899616' for key 'a_film.udx_title'")
+【2024-06-24 13:46:52】
+错误：(1062, "Duplicate entry '秘密-1305084' for key 'a_film.udx_title'")
+【2024-06-24 13:46:52】
+错误：(1062, "Duplicate entry '午夜凶铃(美版)-1305419' for key 'a_film.udx_title'")
+【2024-06-24 13:46:52】
+错误：(1062, "Duplicate entry '狗牙-3706859' for key 'a_film.udx_title'")
+【2024-06-24 13:46:52】
+错误：(1062, "Duplicate entry '查令十字街84号-1299481' for key 'a_film.udx_title'")
+【2024-06-24 13:47:01】
+错误：(1062, "Duplicate entry '狐狸猎手-3011022' for key 'a_film.udx_title'")
+【2024-06-24 13:47:02】
+错误：'NoneType' object has no attribute 'read'
+【2024-06-24 13:47:15】
+错误：(1062, "Duplicate entry '疯狂星期一-36008597' for key 'a_film.udx_title'")
+【2024-06-24 13:47:15】
+错误：(1062, "Duplicate entry '立功·东北旧事-35555999' for key 'a_film.udx_title'")
+【2024-06-24 13:47:15】
+错误：(1062, "Duplicate entry '明月守护者-26147991' for key 'a_film.udx_title'")
+【2024-06-24 13:47:15】
+错误：(1062, "Duplicate entry '小倩-1293098' for key 'a_film.udx_title'")
+【2024-06-24 13:47:15】
+错误：(1062, "Duplicate entry '九龙不败-26796665' for key 'a_film.udx_title'")
+【2024-06-24 13:47:15】
+错误：(1062, "Duplicate entry '白幽灵传奇之绝命逃亡-20253940' for key 'a_film.udx_title'")
+【2024-06-24 13:47:15】
+错误：(1062, "Duplicate entry '追男仔-1401641' for key 'a_film.udx_title'")
+【2024-06-24 13:47:15】
+错误：(1062, "Duplicate entry '那夜凌晨，我坐上了旺角开往大埔的红VAN-21354060' for key 'a_film.udx_title'")
+【2024-06-24 13:47:15】
+错误：(1062, "Duplicate entry '我盛大的希腊婚礼-1299576' for key 'a_film.udx_title'")
+【2024-06-24 13:47:15】
+错误：(1062, "Duplicate entry '单亲度假村-24325798' for key 'a_film.udx_title'")
+【2024-06-24 13:47:15】
+错误：(1062, "Duplicate entry '待业青年-4300525' for key 'a_film.udx_title'")
+【2024-06-24 13:47:20】
+错误：(1062, "Duplicate entry '蜡笔小新：呼风唤雨！光荣的烤肉之路-3041614' for key 'a_film.udx_title'")
+【2024-06-24 13:47:20】
+错误：(1062, "Duplicate entry '终极斗士3：赎罪-3012053' for key 'a_film.udx_title'")
+【2024-06-24 13:47:20】
+错误：(1062, "Duplicate entry '婚姻生活-35136700' for key 'a_film.udx_title'")
+【2024-06-24 13:47:20】
+错误：(1062, "Duplicate entry '大丈夫-24705156' for key 'a_film.udx_title'")
+【2024-06-24 13:47:20】
+错误：(1062, "Duplicate entry '万神殿 第二季-36067160' for key 'a_film.udx_title'")
+【2024-06-24 13:47:20】
+错误：(1062, "Duplicate entry '我的兄弟叫顺溜-3197783' for key 'a_film.udx_title'")
+【2024-06-24 13:47:20】
+错误：(1062, "Duplicate entry '就想赖着你-4217513' for key 'a_film.udx_title'")
+【2024-06-24 13:47:20】
+错误：(1062, "Duplicate entry '新结婚时代-1946066' for key 'a_film.udx_title'")
+【2024-06-24 13:47:20】
+错误：(1062, "Duplicate entry '古宅老友记 第二季-33462318' for key 'a_film.udx_title'")
+【2024-06-24 13:47:20】
+错误：(1062, "Duplicate entry '樱桃小丸子2-1777361' for key 'a_film.udx_title'")
+【2024-06-24 13:47:20】
+错误：(1062, "Duplicate entry '艳贼-1298442' for key 'a_film.udx_title'")
+【2024-06-24 13:47:20】
+错误：(1062, "Duplicate entry '致命愿望-34857316' for key 'a_film.udx_title'")
+【2024-06-24 13:47:20】
+错误：(1062, "Duplicate entry '鸡毛信-1461981' for key 'a_film.udx_title'")
+【2024-06-24 13:47:20】
+错误：(1062, "Duplicate entry '花魁杜十娘-1424746' for key 'a_film.udx_title'")
+【2024-06-24 13:47:20】
+错误：(1062, "Duplicate entry '恶魔阿萨谢尔在召唤你-5446211' for key 'a_film.udx_title'")
+【2024-06-24 13:47:20】
+错误：(1062, "Duplicate entry '铁道员-1306634' for key 'a_film.udx_title'")
+【2024-06-24 13:47:20】
+错误：(1062, "Duplicate entry '高材生-3927736' for key 'a_film.udx_title'")
+【2024-06-24 13:47:20】
+错误：(1062, "Duplicate entry '动物园里有什么？-35082289' for key 'a_film.udx_title'")
+【2024-06-24 13:47:37】
+错误：(1062, "Duplicate entry '极光之恋-26830891' for key 'a_film.udx_title'")
+【2024-06-24 13:47:37】
+错误：(1062, "Duplicate entry '恋如雨止-27191173' for key 'a_film.udx_title'")
+【2024-06-24 13:47:37】
+错误：(1062, "Duplicate entry '骄傲的将军-1883634' for key 'a_film.udx_title'")
+【2024-06-24 13:47:37】
+错误：(1062, "Duplicate entry '秦时明月之沧海横流-26184585' for key 'a_film.udx_title'")
+【2024-06-24 13:47:37】
+错误：(1062, "Duplicate entry '奇葩大会 第一季-26912438' for key 'a_film.udx_title'")
+【2024-06-24 13:47:37】
+错误：(1062, "Duplicate entry '上新了·故宫 第一季-30333950' for key 'a_film.udx_title'")
+【2024-06-24 13:47:37】
+错误：(1062, "Duplicate entry '入侵华尔街-10774666' for key 'a_film.udx_title'")
+【2024-06-24 13:47:37】
+错误：(1062, "Duplicate entry '文科恋曲-6757776' for key 'a_film.udx_title'")
+【2024-06-24 13:47:37】
+错误：(1062, "Duplicate entry '马男波杰克 第六季-30366464' for key 'a_film.udx_title'")
+【2024-06-24 13:47:37】
+错误：(1062, "Duplicate entry '早上好-25872976' for key 'a_film.udx_title'")
+【2024-06-24 13:47:37】
+错误：(1062, "Duplicate entry '好汉两个半  第一季-3761148' for key 'a_film.udx_title'")
+【2024-06-24 13:47:39】
+错误：(1062, "Duplicate entry '藏獒多吉-5948613' for key 'a_film.udx_title'")
+【2024-06-24 13:47:39】
+错误：(1062, "Duplicate entry '我变美的那夏天 第一季-35359553' for key 'a_film.udx_title'")
+【2024-06-24 13:47:40】
+错误：(1062, "Duplicate entry '名校风暴 第一季-27092429' for key 'a_film.udx_title'")
+【2024-06-24 13:47:40】
+错误：(1062, "Duplicate entry '玫瑰之战-35396390' for key 'a_film.udx_title'")
+【2024-06-24 13:47:40】
+错误：(1062, "Duplicate entry '空之境界 第四章 伽蓝之洞-3077701' for key 'a_film.udx_title'")
+【2024-06-24 13:47:40】
+错误：(1062, "Duplicate entry '天使A-1443650' for key 'a_film.udx_title'")
+【2024-06-24 13:47:40】
+错误：(1062, "Duplicate entry '少女终末旅行-27081136' for key 'a_film.udx_title'")
+【2024-06-24 13:47:40】
+错误：(1062, "Duplicate entry '十三邀 第二季-27125207' for key 'a_film.udx_title'")
+【2024-06-24 13:47:40】
+错误：(1062, "Duplicate entry '污泥-6800483' for key 'a_film.udx_title'")
+【2024-06-24 13:47:40】
+错误：(1062, "Duplicate entry '生命如此美好-25705507' for key 'a_film.udx_title'")
+【2024-06-24 13:47:44】
+错误：(1062, "Duplicate entry '英雄  第二季-2263253' for key 'a_film.udx_title'")
+【2024-06-24 13:47:44】
+错误：(1062, "Duplicate entry '我很在乎-30482481' for key 'a_film.udx_title'")
+【2024-06-24 13:47:45】
+错误：(1062, "Duplicate entry '邪恶力量  第三季-3205646' for key 'a_film.udx_title'")
+【2024-06-24 13:47:45】
+错误：(1062, "Duplicate entry '再见，妈妈-34608294' for key 'a_film.udx_title'")
+【2024-06-24 13:47:45】
+错误：(1062, "Duplicate entry '睡美人-5157400' for key 'a_film.udx_title'")
+【2024-06-24 13:47:45】
+错误：(1062, "Duplicate entry '恐吓运动-26649095' for key 'a_film.udx_title'")
+【2024-06-24 13:47:45】
+错误：(1062, "Duplicate entry '鬼打墙-10466341' for key 'a_film.udx_title'")
+【2024-06-24 13:47:45】
+错误：(1062, "Duplicate entry '她爱上了我的谎-10521712' for key 'a_film.udx_title'")
+【2024-06-24 13:47:45】
+错误：(1062, "Duplicate entry '追凶-4903581' for key 'a_film.udx_title'")
+【2024-06-24 13:47:54】
+错误：(1062, "Duplicate entry '命运之夜——天之杯Ⅲ：春之歌-26759820' for key 'a_film.udx_title'")
+【2024-06-24 13:47:54】
+错误：(1062, "Duplicate entry '东方茱丽叶-2237995' for key 'a_film.udx_title'")
+【2024-06-24 13:47:54】
+错误：(1062, "Duplicate entry '男孩-25837574' for key 'a_film.udx_title'")
+【2024-06-24 13:47:54】
+错误：(1062, "Duplicate entry '马文的房间-1293387' for key 'a_film.udx_title'")
+【2024-06-24 13:47:54】
+错误：(1062, "Duplicate entry '喜剧之王-1292772' for key 'a_film.udx_title'")
+【2024-06-24 13:47:54】
+错误：(1062, "Duplicate entry '富贵列车-1300508' for key 'a_film.udx_title'")
+【2024-06-24 13:47:54】
+错误：(1062, "Duplicate entry '姊姊妹妹站起来-2208890' for key 'a_film.udx_title'")
+【2024-06-24 13:47:54】
+错误：(1062, "Duplicate entry '人生七年5-1778460' for key 'a_film.udx_title'")
+【2024-06-24 13:47:54】
+错误：(1062, "Duplicate entry '狐妖小红娘剧场版：下沙-26685413' for key 'a_film.udx_title'")
+【2024-06-24 13:47:56】
+错误：(1062, "Duplicate entry '音乐会-3285642' for key 'a_film.udx_title'")
+【2024-06-24 13:47:57】
+错误：(1062, "Duplicate entry '紧急呼救 第二季-27704341' for key 'a_film.udx_title'")
+【2024-06-24 13:47:57】
+错误：(1062, "Duplicate entry '雪山飞狐-2156748' for key 'a_film.udx_title'")
+【2024-06-24 13:47:57】
+错误：(1062, "Duplicate entry '偷偷爱着你SP-3120336' for key 'a_film.udx_title'")
+【2024-06-24 13:47:57】
+错误：(1062, "Duplicate entry '非分熟女-26752558' for key 'a_film.udx_title'")
+【2024-06-24 13:47:57】
+错误：(1062, "Duplicate entry '春天情书-1858233' for key 'a_film.udx_title'")
+【2024-06-24 13:47:57】
+错误：(1062, "Duplicate entry '天生爱情狂-1296246' for key 'a_film.udx_title'")
+【2024-06-24 13:47:57】
+错误：(1062, "Duplicate entry '怪老头儿-1941319' for key 'a_film.udx_title'")
+【2024-06-24 13:47:57】
+错误：(1062, "Duplicate entry '我的奇妙男友-26372971' for key 'a_film.udx_title'")
+【2024-06-24 13:48:05】
+错误：(1062, "Duplicate entry '铁石心肠2019-30463396' for key 'a_film.udx_title'")
+【2024-06-24 13:48:05】
+错误：(1062, "Duplicate entry '光阴的故事-1308146' for key 'a_film.udx_title'")
+【2024-06-24 13:48:05】
+错误：(1062, "Duplicate entry '胡丽叶塔-26296258' for key 'a_film.udx_title'")
+【2024-06-24 13:48:05】
+错误：(1062, "Duplicate entry '旧日噩梦-4146762' for key 'a_film.udx_title'")
+【2024-06-24 13:48:05】
+错误：(1062, "Duplicate entry '流淌的美好时光-27031380' for key 'a_film.udx_title'")
+【2024-06-24 13:48:05】
+错误：(1062, "Duplicate entry '007之雷霆谷-1297050' for key 'a_film.udx_title'")
+【2024-06-24 13:48:05】
+错误：(1062, "Duplicate entry '屋顶上的轻骑兵-1301679' for key 'a_film.udx_title'")
+【2024-06-24 13:48:05】
+错误：(1062, "Duplicate entry '马普尔小姐探案 第一季-5342776' for key 'a_film.udx_title'")
+【2024-06-24 13:48:05】
+错误：(1062, "Duplicate entry '绿豆传-30255073' for key 'a_film.udx_title'")
+【2024-06-24 13:48:13】
+错误：(1062, "Duplicate entry '无因的反叛-1295416' for key 'a_film.udx_title'")
+【2024-06-24 13:48:13】
+错误：(1062, "Duplicate entry '童话镇 第一季-5986494' for key 'a_film.udx_title'")
+【2024-06-24 13:48:13】
+错误：(1062, "Duplicate entry '电影43-3318306' for key 'a_film.udx_title'")
+【2024-06-24 13:48:13】
+错误：(1062, "Duplicate entry '早餐中国 第二季-34854953' for key 'a_film.udx_title'")
+【2024-06-24 13:48:13】
+错误：(1062, "Duplicate entry '天庭外传-3182495' for key 'a_film.udx_title'")
+【2024-06-24 13:48:13】
+错误：(1062, "Duplicate entry '狐妖小红娘剧场版：千颜-27101874' for key 'a_film.udx_title'")
+【2024-06-24 13:48:13】
+错误：(1062, "Duplicate entry '密室大逃脱 第四季-35740857' for key 'a_film.udx_title'")
+【2024-06-24 13:48:13】
+错误：(1062, "Duplicate entry '最后的舞动-30223100' for key 'a_film.udx_title'")
+【2024-06-24 13:48:13】
+错误：(1062, "Duplicate entry '一年生2-26994994' for key 'a_film.udx_title'")
+【2024-06-24 13:48:13】
+错误：(1062, "Duplicate entry '犬屋敷 真人版-26936272' for key 'a_film.udx_title'")
+【2024-06-24 13:48:13】
+错误：(1062, "Duplicate entry '广告狂人  第二季-3231824' for key 'a_film.udx_title'")
+【2024-06-24 13:48:20】
+错误：(1062, "Duplicate entry '放弃我，抓紧我-26594404' for key 'a_film.udx_title'")
+【2024-06-24 13:48:20】
+错误：(1062, "Duplicate entry '长短脚之恋-1299965' for key 'a_film.udx_title'")
+【2024-06-24 13:48:20】
+错误：(1062, "Duplicate entry '动物园长的夫人-24522026' for key 'a_film.udx_title'")
+【2024-06-24 13:48:20】
+错误：(1062, "Duplicate entry '灵幻夹克-1308993' for key 'a_film.udx_title'")
+【2024-06-24 13:48:20】
+错误：(1062, "Duplicate entry '阴阳镇怪谈-35713025' for key 'a_film.udx_title'")
+【2024-06-24 13:48:20】
+错误：(1062, "Duplicate entry '追忆潸然-26667667' for key 'a_film.udx_title'")
+【2024-06-24 13:48:21】
+错误：(1062, "Duplicate entry '搞笑漫画日和2-2249535' for key 'a_film.udx_title'")
+【2024-06-24 13:48:21】
+错误：(1062, "Duplicate entry '8号房间-24708811' for key 'a_film.udx_title'")
+【2024-06-24 13:48:21】
+错误：(1062, "Duplicate entry '海贼王3D电影版：追寻草帽-6064183' for key 'a_film.udx_title'")
+【2024-06-24 13:48:21】
+错误：(1062, "Duplicate entry '我是古巴-1432669' for key 'a_film.udx_title'")
+【2024-06-24 13:48:21】
+错误：(1062, "Duplicate entry '强迫症患者的血腥臆想-4016551' for key 'a_film.udx_title'")
+【2024-06-24 13:51:51】
+错误：(1062, "Duplicate entry '五亿探长雷洛传1：雷老虎-1297248' for key 'a_film.udx_title'")
+【2024-06-24 13:51:51】
+错误：(1062, "Duplicate entry '弥留之国的爱丽丝 第二季-35300122' for key 'a_film.udx_title'")
+【2024-06-24 13:51:51】
+错误：(1062, "Duplicate entry '面子-1421278' for key 'a_film.udx_title'")
+【2024-06-24 13:51:51】
+错误：(1062, "Duplicate entry '忠爱无言-26995137' for key 'a_film.udx_title'")
+【2024-06-24 13:51:51】
+错误：(1062, "Duplicate entry '触及真心-30304086' for key 'a_film.udx_title'")
+【2024-06-24 13:51:51】
+错误：(1062, "Duplicate entry '漫长的婚约-1292234' for key 'a_film.udx_title'")
+【2024-06-24 13:51:51】
+错误：(1062, "Duplicate entry '柳烈的音乐专辑-30225296' for key 'a_film.udx_title'")
+【2024-06-24 13:51:51】
+错误：(1062, "Duplicate entry '目中无人-35295405' for key 'a_film.udx_title'")
+【2024-06-24 13:51:52】
+错误：(1062, "Duplicate entry '洗澡-1303485' for key 'a_film.udx_title'")
+【2024-06-24 13:51:52】
+错误：(1062, "Duplicate entry '未生-25870057' for key 'a_film.udx_title'")
+【2024-06-24 13:51:52】
+错误：(1062, "Duplicate entry '透明人-1293470' for key 'a_film.udx_title'")
+【2024-06-24 13:51:52】
+错误：(1062, "Duplicate entry '破产姐妹 第四季-25846034' for key 'a_film.udx_title'")
+【2024-06-24 13:51:52】
+错误：(1062, "Duplicate entry '潜行狙击-5965670' for key 'a_film.udx_title'")
+【2024-06-24 13:51:52】
+错误：(1062, "Duplicate entry '白夜行-2031438' for key 'a_film.udx_title'")
+【2024-06-24 13:51:52】
+错误：(1062, "Duplicate entry '的士速递2-1302271' for key 'a_film.udx_title'")
+【2024-06-24 13:51:52】
+错误：(1062, "Duplicate entry '我身体里的那个家伙-27088750' for key 'a_film.udx_title'")
+【2024-06-24 13:51:52】
+错误：(1062, "Duplicate entry '县委大院-35613241' for key 'a_film.udx_title'")
+【2024-06-24 13:51:52】
+错误：(1062, "Duplicate entry '无人驾驶-4111416' for key 'a_film.udx_title'")
+【2024-06-24 13:52:03】
+错误：(1062, "Duplicate entry '裸婚时代-5958582' for key 'a_film.udx_title'")
+【2024-06-24 13:52:03】
+错误：(1062, "Duplicate entry '令人心动的offer 第一季-34855021' for key 'a_film.udx_title'")
+【2024-06-24 13:52:03】
+错误：(1062, "Duplicate entry '金鸡-1303630' for key 'a_film.udx_title'")
+【2024-06-24 13:52:03】
+错误：(1062, "Duplicate entry '弗兰西丝·哈-11527487' for key 'a_film.udx_title'")
+【2024-06-24 13:52:03】
+错误：(1062, "Duplicate entry '全裸导演 第一季-30360724' for key 'a_film.udx_title'")
+【2024-06-24 13:52:12】
+错误：(1062, "Duplicate entry '看得见风景的房间-1293926' for key 'a_film.udx_title'")
+【2024-06-24 13:52:12】
+错误：(1062, "Duplicate entry '战略特勤组-2275370' for key 'a_film.udx_title'")
+【2024-06-24 13:52:12】
+错误：(1062, "Duplicate entry '绯闻计划-3213173' for key 'a_film.udx_title'")
+【2024-06-24 13:52:12】
+错误：(1062, "Duplicate entry '逃出生天-10763157' for key 'a_film.udx_title'")
+【2024-06-24 13:52:12】
+错误：(1062, "Duplicate entry '绝望主夫-35891542' for key 'a_film.udx_title'")
+【2024-06-24 13:52:12】
+错误：(1062, "Duplicate entry '自梳-1304648' for key 'a_film.udx_title'")
+【2024-06-24 13:52:12】
+错误：(1062, "Duplicate entry '恋上你的床-1308520' for key 'a_film.udx_title'")
+【2024-06-24 13:52:12】
+错误：(1062, "Duplicate entry '元气少女缘结神-10877415' for key 'a_film.udx_title'")
+【2024-06-24 13:52:12】
+错误：(1062, "Duplicate entry '地雷战-1464540' for key 'a_film.udx_title'")
+【2024-06-24 13:52:12】
+错误：(1062, "Duplicate entry '刑事侦缉档案-2190927' for key 'a_film.udx_title'")
+【2024-06-24 13:52:27】
+错误：(1062, "Duplicate entry '最食人间烟火色-35391031' for key 'a_film.udx_title'")
+【2024-06-24 13:52:27】
+错误：(1062, "Duplicate entry '宇宙追缉令-1305067' for key 'a_film.udx_title'")
+【2024-06-24 13:52:28】
+错误：(1062, "Duplicate entry '圣母-26933588' for key 'a_film.udx_title'")
+【2024-06-24 13:52:28】
+错误：(1062, "Duplicate entry '人间正道是沧桑-3153641' for key 'a_film.udx_title'")
+【2024-06-24 13:52:28】
+错误：(1062, "Duplicate entry '十三条命-35056243' for key 'a_film.udx_title'")
+【2024-06-24 13:52:28】
+错误：(1062, "Duplicate entry '香港制造-1292396' for key 'a_film.udx_title'")
+【2024-06-24 13:52:28】
+错误：(1062, "Duplicate entry '中国有嘻哈-27037043' for key 'a_film.udx_title'")
+【2024-06-24 13:52:28】
+错误：(1062, "Duplicate entry '当你熟睡-3731626' for key 'a_film.udx_title'")
+【2024-06-24 13:52:28】
+错误：(1062, "Duplicate entry '爱情洗牌-3602965' for key 'a_film.udx_title'")
+【2024-06-24 13:52:28】
+错误：(1062, "Duplicate entry '平凡英雄-35554292' for key 'a_film.udx_title'")
+【2024-06-24 13:52:28】
+错误：(1062, "Duplicate entry '叶问：终极一战-10794042' for key 'a_film.udx_title'")
+【2024-06-24 13:52:28】
+错误：(1062, "Duplicate entry '请君-35539518' for key 'a_film.udx_title'")
+【2024-06-24 13:52:28】
+错误：(1062, "Duplicate entry '罗马的房子-3431336' for key 'a_film.udx_title'")
+【2024-06-24 13:52:28】
+错误：(1062, "Duplicate entry '浴血黑帮 第四季-26803471' for key 'a_film.udx_title'")
+【2024-06-24 13:52:28】
+错误：(1062, "Duplicate entry '拾荒者统治-35932858' for key 'a_film.udx_title'")
+【2024-06-24 13:52:28】
+错误：(1062, "Duplicate entry '闪闪的红星-1461985' for key 'a_film.udx_title'")
+【2024-06-24 13:52:28】
+错误：(1062, "Duplicate entry '地球脉动 第一季-1871906' for key 'a_film.udx_title'")
+【2024-06-24 13:52:28】
+错误：(1062, "Duplicate entry '生化危机：恶化-2970087' for key 'a_film.udx_title'")
+【2024-06-24 13:52:28】
+错误：(1062, "Duplicate entry '东北往事之破马张飞-26691509' for key 'a_film.udx_title'")
+【2024-06-24 13:52:28】
+错误：(1062, "Duplicate entry '大电影-1940867' for key 'a_film.udx_title'")
+【2024-06-24 13:52:39】
+错误：(1062, "Duplicate entry '罪夜之奔-20558374' for key 'a_film.udx_title'")
+【2024-06-24 13:52:39】
+错误：(1062, "Duplicate entry '新仙鹤神针-1298761' for key 'a_film.udx_title'")
+【2024-06-24 13:52:39】
+错误：(1062, "Duplicate entry '求婚大作战特别篇-3168993' for key 'a_film.udx_title'")
+【2024-06-24 13:52:39】
+错误：(1062, "Duplicate entry '征服-1917796' for key 'a_film.udx_title'")
+【2024-06-24 13:52:39】
+错误：(1062, "Duplicate entry '爱的曝光-2361266' for key 'a_film.udx_title'")
+【2024-06-24 13:52:39】
+错误：(1062, "Duplicate entry '狼行者-26694926' for key 'a_film.udx_title'")
+【2024-06-24 13:52:39】
+错误：(1062, "Duplicate entry '宿敌-35882880' for key 'a_film.udx_title'")
+【2024-06-24 13:52:39】
+错误：(1062, "Duplicate entry '天才不能承受之重-34890458' for key 'a_film.udx_title'")
+【2024-06-24 13:52:39】
+错误：(1062, "Duplicate entry '诡丝-1780168' for key 'a_film.udx_title'")
+【2024-06-24 13:52:39】
+错误：(1062, "Duplicate entry '边缘行者-35192672' for key 'a_film.udx_title'")
+【2024-06-24 13:52:39】
+错误：(1062, "Duplicate entry '借着雨点说爱你-1395080' for key 'a_film.udx_title'")
+【2024-06-24 13:52:39】
+错误：(1062, "Duplicate entry '明天你是否依然爱我-35069014' for key 'a_film.udx_title'")
+【2024-06-24 13:52:39】
+错误：(1062, "Duplicate entry '天狗-1947270' for key 'a_film.udx_title'")
+【2024-06-24 13:52:43】
+错误：(1062, "Duplicate entry '恋爱先生-26827972' for key 'a_film.udx_title'")
+【2024-06-24 13:52:43】
+错误：(1062, "Duplicate entry '午夜狂奔-1294699' for key 'a_film.udx_title'")
+【2024-06-24 13:52:43】
+错误：(1062, "Duplicate entry '黑皮记事本-27046252' for key 'a_film.udx_title'")
+【2024-06-24 13:52:43】
+错误：(1062, "Duplicate entry 'Soho区惊魂夜-30447440' for key 'a_film.udx_title'")
+【2024-06-24 13:52:43】
+错误：(1062, "Duplicate entry '女高怪谈3：狐狸阶梯-1308499' for key 'a_film.udx_title'")
+【2024-06-24 13:52:43】
+错误：(1062, "Duplicate entry '老爸老妈的浪漫史 第五季-3990479' for key 'a_film.udx_title'")
+【2024-06-24 13:52:43】
+错误：(1062, "Duplicate entry '丛林大反攻-1428178' for key 'a_film.udx_title'")
+【2024-06-24 13:52:43】
+错误：(1062, "Duplicate entry '演员请就位 第一季-33385536' for key 'a_film.udx_title'")
+【2024-06-24 13:52:43】
+错误：(1062, "Duplicate entry '贝奥武夫-1792917' for key 'a_film.udx_title'")
+【2024-06-24 13:52:43】
+错误：(1062, "Duplicate entry '东宫西宫-1304609' for key 'a_film.udx_title'")
+【2024-06-24 13:52:43】
+错误：(1062, "Duplicate entry '密会-25792815' for key 'a_film.udx_title'")
+【2024-06-24 13:52:43】
+错误：(1062, "Duplicate entry '怪奇宅-35477218' for key 'a_film.udx_title'")
+【2024-06-24 13:52:43】
+错误：(1062, "Duplicate entry '耶稣受难记-1308750' for key 'a_film.udx_title'")
+【2024-06-24 13:52:43】
+错误：(1062, "Duplicate entry '小小姐们-35516141' for key 'a_film.udx_title'")
+【2024-06-24 13:52:52】
+错误：(1062, "Duplicate entry '九尾狐传-34937897' for key 'a_film.udx_title'")
+【2024-06-24 13:52:52】
+错误：(1062, "Duplicate entry '真爱至上：红鼻子日特别集-26976235' for key 'a_film.udx_title'")
+【2024-06-24 13:52:52】
+错误：(1062, "Duplicate entry '世上最美的离别-5364952' for key 'a_film.udx_title'")
+【2024-06-24 13:52:52】
+错误：(1062, "Duplicate entry '惊世狂花-1292449' for key 'a_film.udx_title'")
+【2024-06-24 13:52:52】
+错误：(1062, "Duplicate entry '念念相忘-35424911' for key 'a_film.udx_title'")
+【2024-06-24 13:52:52】
+错误：(1062, "Duplicate entry '天雷一部之春花秋月-30258233' for key 'a_film.udx_title'")
+【2024-06-24 13:52:52】
+错误：(1062, "Duplicate entry '百万富翁的初恋-2298282' for key 'a_film.udx_title'")
+【2024-06-24 13:52:52】
+错误：(1062, "Duplicate entry '硅谷 第二季-25871679' for key 'a_film.udx_title'")
+【2024-06-24 13:52:52】
+错误：(1062, "Duplicate entry '深夜食堂3-25958786' for key 'a_film.udx_title'")
+【2024-06-24 13:52:52】
+错误：(1062, "Duplicate entry '老爸老妈的浪漫史 第六季-5262275' for key 'a_film.udx_title'")
+【2024-06-24 13:52:52】
+错误：(1062, "Duplicate entry '眷思量 第一季-33717831' for key 'a_film.udx_title'")
+【2024-06-24 13:52:52】
+错误：(1062, "Duplicate entry '堕落的艺术-1434184' for key 'a_film.udx_title'")
+【2024-06-24 13:52:52】
+错误：(1062, "Duplicate entry '末代独裁-1900848' for key 'a_film.udx_title'")
+【2024-06-24 13:52:52】
+错误：(1062, "Duplicate entry '绿区-2131649' for key 'a_film.udx_title'")
+【2024-06-24 13:52:52】
+错误：(1062, "Duplicate entry '干柴烈火-1303674' for key 'a_film.udx_title'")
+【2024-06-24 13:52:52】
+错误：(1062, "Duplicate entry '军火贩-6872936' for key 'a_film.udx_title'")
+【2024-06-24 13:52:57】
+错误：(1062, "Duplicate entry '丑陋的真相-2368587' for key 'a_film.udx_title'")
+【2024-06-24 13:52:57】
+错误：(1062, "Duplicate entry '孩子们-4901684' for key 'a_film.udx_title'")
+【2024-06-24 13:52:58】
+错误：(1062, "Duplicate entry '吐槽大会 第四季-34840338' for key 'a_film.udx_title'")
+【2024-06-24 13:52:58】
+错误：(1062, "Duplicate entry '盒子怪-21350559' for key 'a_film.udx_title'")
+【2024-06-24 13:52:58】
+错误：(1062, "Duplicate entry '大楼里只有谋杀 第一季-35169965' for key 'a_film.udx_title'")
+【2024-06-24 13:52:58】
+错误：(1062, "Duplicate entry '阿虎-1301876' for key 'a_film.udx_title'")
+【2024-06-24 13:52:58】
+错误：(1062, "Duplicate entry '又见一帘幽梦-2142656' for key 'a_film.udx_title'")
+【2024-06-24 13:52:58】
+错误：(1062, "Duplicate entry '我和僵尸有个约会1-2119419' for key 'a_film.udx_title'")
+【2024-06-24 13:52:58】
+错误：(1062, "Duplicate entry '天下长河-35517425' for key 'a_film.udx_title'")
+【2024-06-24 13:52:58】
+错误：(1062, "Duplicate entry '猪扒大联盟-1308616' for key 'a_film.udx_title'")
+【2024-06-24 13:52:58】
+错误：(1062, "Duplicate entry '与龙共舞-1307862' for key 'a_film.udx_title'")
+【2024-06-24 13:52:58】
+错误：(1062, "Duplicate entry '旗袍美探-30463413' for key 'a_film.udx_title'")
+【2024-06-24 13:52:58】
+错误：(1062, "Duplicate entry '花儿与少年 第一季-25864698' for key 'a_film.udx_title'")
+【2024-06-24 13:52:58】
+错误：(1062, "Duplicate entry '影子爱人-6436763' for key 'a_film.udx_title'")
+【2024-06-24 13:52:58】
+错误：(1062, "Duplicate entry '人参娃娃-1431951' for key 'a_film.udx_title'")
+【2024-06-24 13:52:58】
+错误：(1062, "Duplicate entry '窗台上的男人-4206477' for key 'a_film.udx_title'")
+【2024-06-24 13:52:58】
+错误：(1062, "Duplicate entry '我们的世界-26616436' for key 'a_film.udx_title'")
+【2024-06-24 13:52:58】
+错误：(1062, "Duplicate entry '继承之战 第二季-30246685' for key 'a_film.udx_title'")
+【2024-06-24 13:52:58】
+错误：(1062, "Duplicate entry '合法副本-2973543' for key 'a_film.udx_title'")
+【2024-06-24 13:52:58】
+错误：(1062, "Duplicate entry '七年之痒-1294379' for key 'a_film.udx_title'")
+【2024-06-24 13:52:59】
+错误：(1062, "Duplicate entry '令人心动的offer 第二季-35008143' for key 'a_film.udx_title'")
+【2024-06-24 13:52:59】
+错误：(1062, "Duplicate entry '在京都小住-34906732' for key 'a_film.udx_title'")
+【2024-06-24 13:52:59】
+错误：(1062, "Duplicate entry '来自新世界-10527275' for key 'a_film.udx_title'")
+【2024-06-24 13:52:59】
+错误：(1062, "Duplicate entry '假期历险记-4075568' for key 'a_film.udx_title'")
+【2024-06-24 13:52:59】
+错误：(1062, "Duplicate entry '冰风暴-1300930' for key 'a_film.udx_title'")
+【2024-06-24 13:52:59】
+错误：(1062, "Duplicate entry '乔布斯-6877703' for key 'a_film.udx_title'")
+【2024-06-24 13:52:59】
+错误：(1062, "Duplicate entry '脑神探-3730636' for key 'a_film.udx_title'")
+【2024-06-24 13:52:59】
+错误：(1062, "Duplicate entry '神盾局特工 第五季-27042712' for key 'a_film.udx_title'")
+【2024-06-24 13:52:59】
+错误：(1062, "Duplicate entry '猫屎一号-4841238' for key 'a_film.udx_title'")
+【2024-06-24 13:52:59】
+错误：(1062, "Duplicate entry '熊猫大侠-3892449' for key 'a_film.udx_title'")
+【2024-06-24 13:52:59】
+错误：(1062, "Duplicate entry '苹果酒屋法则-1296821' for key 'a_film.udx_title'")
+【2024-06-24 13:53:39】
+错误：(1062, "Duplicate entry '夜魔侠 第一季-25769160' for key 'a_film.udx_title'")
+【2024-06-24 13:53:39】
+错误：(1062, "Duplicate entry '你好妈妈，再见！-34858567' for key 'a_film.udx_title'")
+【2024-06-24 13:53:47】
+错误：(1062, "Duplicate entry '塔洛-26586806' for key 'a_film.udx_title'")
+【2024-06-24 13:53:47】
+错误：(1062, "Duplicate entry '被抹去的男孩-27066184' for key 'a_film.udx_title'")
+【2024-06-24 13:53:47】
+错误：(1062, "Duplicate entry '光芒-35020491' for key 'a_film.udx_title'")
+【2024-06-24 13:53:47】
+错误：(1062, "Duplicate entry '在切瑟尔海滩上-5041518' for key 'a_film.udx_title'")
+【2024-06-24 13:53:47】
+错误：(1062, "Duplicate entry '鬼玩人崛起-35410042' for key 'a_film.udx_title'")
+【2024-06-24 13:53:47】
+错误：(1062, "Duplicate entry '魔法禁书目录-3251306' for key 'a_film.udx_title'")
+【2024-06-24 13:53:47】
+错误：(1062, "Duplicate entry '锵锵行天下 第一季-30325398' for key 'a_film.udx_title'")
+【2024-06-24 13:53:47】
+错误：(1062, "Duplicate entry '色戒-1294853' for key 'a_film.udx_title'")
+【2024-06-24 13:53:47】
+错误：(1062, "Duplicate entry '幽游白书-1465792' for key 'a_film.udx_title'")
+【2024-06-24 13:53:47】
+错误：(1062, "Duplicate entry '十三邀 第一季-26801784' for key 'a_film.udx_title'")
+【2024-06-24 13:53:47】
+错误：(1062, "Duplicate entry '来自深渊：深魂的黎明-27591193' for key 'a_film.udx_title'")
+【2024-06-24 13:53:47】
+错误：(1062, "Duplicate entry '约会之夜-3183490' for key 'a_film.udx_title'")
+【2024-06-24 13:53:50】
+错误：(1062, "Duplicate entry '孤独的美食家 第六季-26947873' for key 'a_film.udx_title'")
+【2024-06-24 13:53:50】
+错误：(1062, "Duplicate entry '凯文怎么了-3097445' for key 'a_film.udx_title'")
+【2024-06-24 13:53:50】
+错误：(1062, "Duplicate entry '高能少年团 第一季-26933239' for key 'a_film.udx_title'")
+【2024-06-24 13:53:50】
+错误：(1062, "Duplicate entry '成龙历险记 第三季-25715364' for key 'a_film.udx_title'")
+【2024-06-24 13:53:50】
+错误：(1062, "Duplicate entry '星际旅行1：无限太空-1300089' for key 'a_film.udx_title'")
+【2024-06-24 13:53:50】
+错误：(1062, "Duplicate entry '恐怖故事-10810336' for key 'a_film.udx_title'")
+【2024-06-24 13:53:50】
+错误：(1062, "Duplicate entry '唐顿庄园：2013圣诞特别篇-25766495' for key 'a_film.udx_title'")
+【2024-06-24 13:53:58】
+错误：(1062, "Duplicate entry '至尊三十六计之偷天换日-1463357' for key 'a_film.udx_title'")
+【2024-06-24 13:53:58】
+错误：(1062, "Duplicate entry '生死线-3629206' for key 'a_film.udx_title'")
+【2024-06-24 13:53:58】
+错误：(1062, "Duplicate entry '幸运星-2224505' for key 'a_film.udx_title'")
+【2024-06-24 13:53:58】
+错误：(1062, "Duplicate entry '比宇宙更遥远的地方-27080661' for key 'a_film.udx_title'")
+【2024-06-24 13:53:58】
+错误：(1062, "Duplicate entry '血战摩苏尔-34679696' for key 'a_film.udx_title'")
+【2024-06-24 13:53:58】
+错误：(1062, "Duplicate entry '聚宝盆-2248747' for key 'a_film.udx_title'")
+【2024-06-24 13:53:58】
+错误：(1062, "Duplicate entry '侠女闯天关-1831581' for key 'a_film.udx_title'")
+【2024-06-24 13:53:58】
+错误：(1062, "Duplicate entry '最幸福的季节-30389671' for key 'a_film.udx_title'")
+【2024-06-24 13:53:58】
+错误：(1062, "Duplicate entry '斯坦福监狱实验-1972724' for key 'a_film.udx_title'")
+【2024-06-24 13:53:58】
+错误：(1062, "Duplicate entry '你好布拉德-26981174' for key 'a_film.udx_title'")
+【2024-06-24 13:53:58】
+错误：(1062, "Duplicate entry '007之金刚钻-1295560' for key 'a_film.udx_title'")
+【2024-06-24 13:53:58】
+错误：(1062, "Duplicate entry '茱莉娅的眼睛-4049700' for key 'a_film.udx_title'")
+【2024-06-24 13:53:59】
+错误：(1062, "Duplicate entry '王牌对王牌 第二季-26956708' for key 'a_film.udx_title'")
+【2024-06-24 13:54:08】
+错误：(1062, "Duplicate entry '卧底肥妈-1294809' for key 'a_film.udx_title'")
+【2024-06-24 13:54:08】
+错误：(1062, "Duplicate entry '魔动王-2342538' for key 'a_film.udx_title'")
+【2024-06-24 13:54:08】
+错误：(1062, "Duplicate entry '大师-6433905' for key 'a_film.udx_title'")
+【2024-06-24 13:54:08】
+错误：(1062, "Duplicate entry '哥哥扭蛋-26258819' for key 'a_film.udx_title'")
+【2024-06-24 13:54:08】
+错误：(1062, "Duplicate entry '五月的青春-35296160' for key 'a_film.udx_title'")
+【2024-06-24 13:54:08】
+错误：(1062, "Duplicate entry '天际行者-26654145' for key 'a_film.udx_title'")
+【2024-06-24 13:54:08】
+错误：(1062, "Duplicate entry '迷雾追踪-34779682' for key 'a_film.udx_title'")
+【2024-06-24 13:54:08】
+错误：(1062, "Duplicate entry '双城计中计-6890469' for key 'a_film.udx_title'")
+【2024-06-24 13:54:08】
+错误：(1062, "Duplicate entry '唐顿庄园：2015圣诞特别篇-26320001' for key 'a_film.udx_title'")
+【2024-06-24 13:54:08】
+错误：(1062, "Duplicate entry '老男孩-27018233' for key 'a_film.udx_title'")
+【2024-06-24 13:54:08】
+错误：(1062, "Duplicate entry '蝴蝶飞-2359442' for key 'a_film.udx_title'")
+【2024-06-24 13:54:12】
+错误：(1062, "Duplicate entry '气喘吁吁-3389558' for key 'a_film.udx_title'")
+【2024-06-24 13:54:12】
+错误：(1062, "Duplicate entry '花腰新娘-1395459' for key 'a_film.udx_title'")
+【2024-06-24 13:54:12】
+错误：(1062, "Duplicate entry '摇曳露营△-27077082' for key 'a_film.udx_title'")
+【2024-06-24 13:54:12】
+错误：(1062, "Duplicate entry '青空-1980737' for key 'a_film.udx_title'")
+【2024-06-24 13:54:12】
+错误：(1062, "Duplicate entry '妙警贼探 第五季-19963888' for key 'a_film.udx_title'")
+【2024-06-24 13:54:12】
+错误：(1062, "Duplicate entry '入学考试-24749076' for key 'a_film.udx_title'")
+【2024-06-24 13:54:12】
+错误：(1062, "Duplicate entry '特级英雄黄继光-35358429' for key 'a_film.udx_title'")
+【2024-06-24 13:54:12】
+错误：(1062, "Duplicate entry '奥罗拉公主-1461124' for key 'a_film.udx_title'")
+【2024-06-24 13:54:12】
+错误：(1062, "Duplicate entry '灵数23-1578643' for key 'a_film.udx_title'")
+【2024-06-24 13:54:12】
+错误：(1062, "Duplicate entry '同门-3395460' for key 'a_film.udx_title'")
+【2024-06-24 13:54:12】
+错误：(1062, "Duplicate entry '父后七日-4307349' for key 'a_film.udx_title'")
+【2024-06-24 13:54:12】
+错误：(1062, "Duplicate entry '森林泰山-1300130' for key 'a_film.udx_title'")
+【2024-06-24 13:54:12】
+错误：(1062, "Duplicate entry '陈翔六点半之废话少说-27024924' for key 'a_film.udx_title'")
+【2024-06-24 13:54:12】
+错误：(1062, "Duplicate entry '珠光宝气-7154463' for key 'a_film.udx_title'")
+【2024-06-24 13:54:12】
+错误：(1062, "Duplicate entry '血族 第二季-25955694' for key 'a_film.udx_title'")
+【2024-06-24 13:54:12】
+错误：(1062, "Duplicate entry '金太狼的幸福生活-21355933' for key 'a_film.udx_title'")
+【2024-06-24 13:54:12】
+错误：(1062, "Duplicate entry '罗密欧与朱丽叶-1295467' for key 'a_film.udx_title'")
+【2024-06-24 13:54:12】
+错误：(1062, "Duplicate entry '齐木楠雄的灾难 真人版-26425035' for key 'a_film.udx_title'")
+【2024-06-24 13:54:23】
+错误：(1062, "Duplicate entry '鬼三惊-11610998' for key 'a_film.udx_title'")
+【2024-06-24 13:54:23】
+错误：(1062, "Duplicate entry '名扬花鼓-2995180' for key 'a_film.udx_title'")
+【2024-06-24 13:54:23】
+错误：(1062, "Duplicate entry '天若有情-2389554' for key 'a_film.udx_title'")
+【2024-06-24 13:54:23】
+错误：(1062, "Duplicate entry 'My盛Lady-24381190' for key 'a_film.udx_title'")
+【2024-06-24 13:54:23】
+错误：(1062, "Duplicate entry '禁运品-4074733' for key 'a_film.udx_title'")
+【2024-06-24 13:54:23】
+错误：(1062, "Duplicate entry '狗狗旅馆-2134285' for key 'a_film.udx_title'")
+【2024-06-24 13:54:23】
+错误：(1062, "Duplicate entry '小日子-36189197' for key 'a_film.udx_title'")
+【2024-06-24 13:54:23】
+错误：(1062, "Duplicate entry '奈何boss要娶我2-33477102' for key 'a_film.udx_title'")
+【2024-06-24 13:54:23】
+错误：(1062, "Duplicate entry '十万火急-1304045' for key 'a_film.udx_title'")
+【2024-06-24 13:54:23】
+错误：(1062, "Duplicate entry '好戏一出-30331440' for key 'a_film.udx_title'")
+【2024-06-24 13:54:23】
+错误：(1062, "Duplicate entry '唬胆特工-34959527' for key 'a_film.udx_title'")
+【2024-06-24 13:54:23】
+错误：(1062, "Duplicate entry '锦绣前程-1303862' for key 'a_film.udx_title'")
+【2024-06-24 13:54:23】
+错误：(1062, "Duplicate entry '我们的样子像极了爱情-34913599' for key 'a_film.udx_title'")
+【2024-06-24 13:54:23】
+错误：(1062, "Duplicate entry '十八岁-30181371' for key 'a_film.udx_title'")
+【2024-06-24 13:54:31】
+错误：(1062, "Duplicate entry '上流社会-26335546' for key 'a_film.udx_title'")
+【2024-06-24 13:54:31】
+错误：(1062, "Duplicate entry '拜托了冰箱 第二季-26794795' for key 'a_film.udx_title'")
+【2024-06-24 13:54:31】
+错误：(1062, "Duplicate entry '天堂之吻-1468985' for key 'a_film.udx_title'")
+【2024-06-24 13:54:31】
+错误：(1062, "Duplicate entry '约翰·列侬的理想世界-1441479' for key 'a_film.udx_title'")
+【2024-06-24 14:08:25】
+错误：'NoneType' object has no attribute 'settimeout'
+【2024-06-24 14:08:41】
+错误：(2013, 'Lost connection to MySQL server during query')
+【2024-06-24 14:08:41】
+错误：'NoneType' object has no attribute 'settimeout'
+【2024-06-24 14:09:03】
+错误：Packet sequence number wrong - got 2 expected 1
+【2024-06-24 14:11:34】
+错误：(1062, "Duplicate entry '黑寡妇-25828589' for key 'a_film.udx_title'")
+【2024-06-24 14:11:41】
+错误：(1062, "Duplicate entry '南山的部长们-30241298' for key 'a_film.udx_title'")
+【2024-06-24 14:11:42】
+错误：(2014, 'Command Out of Sync')
+【2024-06-24 14:11:42】
+错误：(0, '')
+【2024-06-24 14:11:49】
+错误：(1062, "Duplicate entry '何以笙箫默-25885442' for key 'a_film.udx_title'")
+【2024-06-24 14:12:05】
+错误：(1062, "Duplicate entry '东八区的先生们-35160920' for key 'a_film.udx_title'")
+【2024-06-24 14:12:12】
+错误：(1062, "Duplicate entry '洛城机密-1292348' for key 'a_film.udx_title'")
+【2024-06-24 14:12:28】
+错误：'NoneType' object has no attribute 'settimeout'
+【2024-06-24 14:12:31】
+错误：'NoneType' object has no attribute 'read'
+【2024-06-24 14:12:37】
+错误：(1062, "Duplicate entry '成长教育-3011093' for key 'a_film.udx_title'")
+【2024-06-24 14:13:37】
+错误：(1062, "Duplicate entry '肖申克的救赎-1292052' for key 'a_film.udx_title'")
+【2024-06-24 14:13:37】
+错误：(1062, "Duplicate entry '这个杀手不太冷-1295644' for key 'a_film.udx_title'")
+【2024-06-24 14:13:37】
+错误：(1062, "Duplicate entry '千与千寻-1291561' for key 'a_film.udx_title'")
+【2024-06-24 14:13:37】
+错误：(1062, "Duplicate entry '流浪地球-26266893' for key 'a_film.udx_title'")
+【2024-06-24 14:13:37】
+错误：(1062, "Duplicate entry '泰坦尼克号-1292722' for key 'a_film.udx_title'")
+【2024-06-24 14:13:37】
+错误：(1062, "Duplicate entry '阿甘正传-1292720' for key 'a_film.udx_title'")
+【2024-06-24 14:13:37】
+错误：(1062, "Duplicate entry '疯狂动物城-25662329' for key 'a_film.udx_title'")
+【2024-06-24 14:13:37】
+错误：(1062, "Duplicate entry '盗梦空间-3541415' for key 'a_film.udx_title'")
+【2024-06-24 14:13:37】
+错误：(1062, "Duplicate entry '霸王别姬-1291546' for key 'a_film.udx_title'")
+【2024-06-24 14:13:38】
+错误：(1062, "Duplicate entry '哪吒之魔童降世-26794435' for key 'a_film.udx_title'")
+【2024-06-24 14:13:38】
+错误：(1062, "Duplicate entry '摔跤吧！爸爸-26387939' for key 'a_film.udx_title'")
+【2024-06-24 14:13:38】
+错误：(1062, "Duplicate entry '怦然心动-3319755' for key 'a_film.udx_title'")
+【2024-06-24 14:13:38】
+错误：(1062, "Duplicate entry '三傻大闹宝莱坞-3793023' for key 'a_film.udx_title'")
+【2024-06-24 14:13:38】
+错误：(1062, "Duplicate entry '寻梦环游记-20495023' for key 'a_film.udx_title'")
+【2024-06-24 14:13:38】
+错误：(1062, "Duplicate entry '西虹市首富-27605698' for key 'a_film.udx_title'")
+【2024-06-24 14:13:38】
+错误：(1062, "Duplicate entry '让子弹飞-3742360' for key 'a_film.udx_title'")
+【2024-06-24 14:13:49】
+错误：(1062, "Duplicate entry '禁闭岛-2334904' for key 'a_film.udx_title'")
+【2024-06-24 14:13:50】
+错误：(1062, "Duplicate entry '中国机长-30295905' for key 'a_film.udx_title'")
+【2024-06-24 14:13:50】
+错误：(1062, "Duplicate entry '动物世界-26925317' for key 'a_film.udx_title'")
+【2024-06-24 14:13:50】
+错误：(1062, "Duplicate entry '疯狂的石头-1862151' for key 'a_film.udx_title'")
+【2024-06-24 14:13:50】
+错误：(1062, "Duplicate entry '无问西东-6874741' for key 'a_film.udx_title'")
+【2024-06-24 14:13:50】
+错误：(1062, "Duplicate entry '哈利·波特与密室-1296996' for key 'a_film.udx_title'")
+【2024-06-24 14:13:50】
+错误：(1062, "Duplicate entry '末代皇帝-1293172' for key 'a_film.udx_title'")
+【2024-06-24 14:13:54】
+错误：(1062, "Duplicate entry '半个喜剧-30269016' for key 'a_film.udx_title'")
+【2024-06-24 14:13:54】
+错误：(1062, "Duplicate entry 'X战警：天启-25786060' for key 'a_film.udx_title'")
+【2024-06-24 14:13:54】
+错误：(1062, "Duplicate entry '风声-3734112' for key 'a_film.udx_title'")
+【2024-06-24 14:13:54】
+错误：(1062, "Duplicate entry '两杆大烟枪-1293350' for key 'a_film.udx_title'")
+【2024-06-24 14:13:54】
+错误：(1062, "Duplicate entry '画皮-2135981' for key 'a_film.udx_title'")
+【2024-06-24 14:13:54】
+错误：(1062, "Duplicate entry '银河补习班-30282387' for key 'a_film.udx_title'")
+【2024-06-24 14:13:54】
+错误：(1062, "Duplicate entry '想见你-30468961' for key 'a_film.udx_title'")
+【2024-06-24 14:13:54】
+错误：(1062, "Duplicate entry '宝贝计划-1859036' for key 'a_film.udx_title'")
+【2024-06-24 14:13:54】
+错误：(1062, "Duplicate entry '后天-1308779' for key 'a_film.udx_title'")
+【2024-06-24 14:13:54】
+错误：(1062, "Duplicate entry '爱在日落黄昏时-1291990' for key 'a_film.udx_title'")
+【2024-06-24 14:13:54】
+错误：(1062, "Duplicate entry '加勒比海盗2：亡灵的宝藏-1315574' for key 'a_film.udx_title'")
+【2024-06-24 14:13:54】
+错误：(1062, "Duplicate entry '甜蜜蜜-1305164' for key 'a_film.udx_title'")
+【2024-06-24 14:13:54】
+错误：(1062, "Duplicate entry '史密斯夫妇-1309199' for key 'a_film.udx_title'")
+【2024-06-24 14:13:54】
+错误：(1062, "Duplicate entry '彗星来的那一夜-25807345' for key 'a_film.udx_title'")
+【2024-06-24 14:13:54】
+错误：(1062, "Duplicate entry '大闹天宫-1418019' for key 'a_film.udx_title'")
+【2024-06-24 14:13:54】
+错误：(1062, "Duplicate entry '海边的曼彻斯特-25980443' for key 'a_film.udx_title'")
+【2024-06-24 14:13:55】
+错误：(1062, "Duplicate entry '唐山大地震-3596502' for key 'a_film.udx_title'")
+【2024-06-24 14:13:55】
+错误：(1062, "Duplicate entry '侏罗纪世界-10440138' for key 'a_film.udx_title'")
+【2024-06-24 14:13:55】
+错误：(1062, "Duplicate entry '加勒比海盗5：死无对证-6311303' for key 'a_film.udx_title'")
+【2024-06-24 14:19:28】
+错误：(1062, "Duplicate entry '黑镜：潘达斯奈基-30414462' for key 'a_film.udx_title'")
+【2024-06-24 14:19:28】
+错误：(1062, "Duplicate entry '说唱新世代-35134297' for key 'a_film.udx_title'")
+【2024-06-24 14:19:28】
+错误：(1062, "Duplicate entry '极地特快-1306785' for key 'a_film.udx_title'")
+【2024-06-24 14:19:28】
+错误：(1062, "Duplicate entry '借刀杀人-1308762' for key 'a_film.udx_title'")
+【2024-06-24 14:19:28】
+错误：(1062, "Duplicate entry '我有一个朋友-35712815' for key 'a_film.udx_title'")
+【2024-06-24 14:19:28】
+错误：(1062, "Duplicate entry '茉莉花开-1302795' for key 'a_film.udx_title'")
+【2024-06-24 14:19:28】
+错误：(1062, "Duplicate entry '迷失 第一季-1394819' for key 'a_film.udx_title'")
+【2024-06-24 14:19:28】
+错误：(1062, "Duplicate entry '小丑回魂2-27133569' for key 'a_film.udx_title'")
+【2024-06-24 14:19:28】
+错误：(1062, "Duplicate entry '深夜食堂2-26798437' for key 'a_film.udx_title'")
+【2024-06-24 14:19:28】
+错误：(1062, "Duplicate entry '亚当斯一家的价值观-1299900' for key 'a_film.udx_title'")
+【2024-06-24 14:19:28】
+错误：(1062, "Duplicate entry '合约情人-2214140' for key 'a_film.udx_title'")
+【2024-06-24 14:19:28】
+错误：(1062, "Duplicate entry '王冠 第一季-26427152' for key 'a_film.udx_title'")
+【2024-06-24 14:19:28】
+错误：(1062, "Duplicate entry '黑暗阴影-2227293' for key 'a_film.udx_title'")
+【2024-06-24 14:19:28】
+错误：(1062, "Duplicate entry '穿靴子的猫：萌猫三剑客-10521648' for key 'a_film.udx_title'")
+【2024-06-24 14:19:28】
+错误：(1062, "Duplicate entry '双子神偷-1962508' for key 'a_film.udx_title'")
+【2024-06-24 14:19:28】
+错误：(1062, "Duplicate entry '饥饿游戏：鸣鸟与蛇之歌-34438298' for key 'a_film.udx_title'")
+【2024-06-24 14:19:28】
+错误：(1062, "Duplicate entry '读心神探-4202127' for key 'a_film.udx_title'")
+【2024-06-24 14:19:28】
+错误：(1062, "Duplicate entry '玫瑰的故事-35665988' for key 'a_film.udx_title'")
+【2024-06-24 14:20:28】
+错误：(1062, "Duplicate entry '邋遢大王奇遇记-11502154' for key 'a_film.udx_title'")
+【2024-06-24 14:20:28】
+错误：(1062, "Duplicate entry '摩登家庭 第六季-25879091' for key 'a_film.udx_title'")
+【2024-06-24 14:20:28】
+错误：(1062, "Duplicate entry '珀尔-35801819' for key 'a_film.udx_title'")
+【2024-06-24 14:20:28】
+错误：(1062, "Duplicate entry '我的P.S.搭档-10491641' for key 'a_film.udx_title'")
+【2024-06-24 14:20:28】
+错误：(1062, "Duplicate entry '回忆三部曲-1307897' for key 'a_film.udx_title'")
+【2024-06-24 14:20:28】
+错误：(1062, "Duplicate entry '独家新闻-1451911' for key 'a_film.udx_title'")
+【2024-06-24 14:20:28】
+错误：(1062, "Duplicate entry '6/45-35441582' for key 'a_film.udx_title'")
+【2024-06-24 14:20:28】
+错误：(1062, "Duplicate entry '猎杀T34-30300277' for key 'a_film.udx_title'")
+【2024-06-24 14:20:28】
+错误：(1062, "Duplicate entry '顶楼 第二季-35306371' for key 'a_film.udx_title'")
+【2024-06-24 14:20:28】
+错误：(1062, "Duplicate entry '新步步惊心-25945356' for key 'a_film.udx_title'")
+【2024-06-24 14:20:28】
+错误：(1062, "Duplicate entry '十八岁的天空-2224813' for key 'a_film.udx_title'")
+【2024-06-24 14:20:28】
+错误：(1062, "Duplicate entry '他们已不再变老-30242710' for key 'a_film.udx_title'")
+【2024-06-24 14:20:28】
+错误：(1062, "Duplicate entry '一条安达鲁狗-1298962' for key 'a_film.udx_title'")
+【2024-06-24 14:20:28】
+错误：(1062, "Duplicate entry '背着善宰跑-36486154' for key 'a_film.udx_title'")
+【2024-06-24 14:20:28】
+错误：(1062, "Duplicate entry '决战猩球-1304338' for key 'a_film.udx_title'")
+【2024-06-24 14:20:28】
+错误：(1062, "Duplicate entry '花容月貌-21815004' for key 'a_film.udx_title'")
+【2024-06-24 14:20:29】
+错误：(1062, "Duplicate entry '十二怒汉（电视版）-10583098' for key 'a_film.udx_title'")
+【2024-06-24 14:20:29】
+错误：(1062, "Duplicate entry '实习医生格蕾 第一季-1395471' for key 'a_film.udx_title'")
+【2024-06-24 14:21:52】
+错误：(1062, "Duplicate entry '奇葩说 第六季-33441919' for key 'a_film.udx_title'")
+【2024-06-24 14:21:52】
+错误：(1062, "Duplicate entry '魔法保姆麦克菲2-3671986' for key 'a_film.udx_title'")
+【2024-06-24 14:21:52】
+错误：(1062, "Duplicate entry '盗梦特攻队-30272143' for key 'a_film.udx_title'")
+【2024-06-24 14:21:52】
+错误：(1062, "Duplicate entry '恐怖星球-2160611' for key 'a_film.udx_title'")
+【2024-06-24 14:24:49】
+错误：(1062, "Duplicate entry '浪客剑心 追忆篇-1421721' for key 'a_film.udx_title'")
+【2024-06-24 14:24:49】
+错误：(1062, "Duplicate entry '11:14-1394825' for key 'a_film.udx_title'")
+【2024-06-24 14:24:49】
+错误：(1062, "Duplicate entry '孩子王-1293391' for key 'a_film.udx_title'")
+【2024-06-24 14:24:49】
+错误：(1062, "Duplicate entry '老酒馆-30345195' for key 'a_film.udx_title'")
+【2024-06-24 14:24:49】
+错误：(1062, "Duplicate entry '白头山-30200087' for key 'a_film.udx_title'")
+【2024-06-24 14:24:49】
+错误：(1062, "Duplicate entry '铁甲小宝-3713659' for key 'a_film.udx_title'")
+【2024-06-24 14:24:49】
+错误：(1062, "Duplicate entry '娘道-26877848' for key 'a_film.udx_title'")
+【2024-06-24 14:24:49】
+错误：(1062, "Duplicate entry '小戏骨：红楼梦之刘姥姥进大观园-26951951' for key 'a_film.udx_title'")
+【2024-06-24 14:24:49】
+错误：(1062, "Duplicate entry '防弹武僧-1303693' for key 'a_film.udx_title'")
+【2024-06-24 14:24:49】
+错误：(1062, "Duplicate entry '亚当-3059036' for key 'a_film.udx_title'")
+【2024-06-24 14:24:49】
+错误：(1062, "Duplicate entry '大山的女儿-35498561' for key 'a_film.udx_title'")
+【2024-06-24 14:24:50】
+错误：(1062, "Duplicate entry '荷尔蒙-3041753' for key 'a_film.udx_title'")
+【2024-06-24 14:24:50】
+错误：(1062, "Duplicate entry '协商-27040853' for key 'a_film.udx_title'")
+【2024-06-24 14:24:50】
+错误：(1062, "Duplicate entry '霹雳贝贝-1440283' for key 'a_film.udx_title'")
+【2024-06-24 14:24:50】
+错误：(1062, "Duplicate entry '魔法奇幻秀-2282449' for key 'a_film.udx_title'")
+【2024-06-24 14:25:14】
+错误：(1062, "Duplicate entry '巴黎假期-25856480' for key 'a_film.udx_title'")
+【2024-06-24 14:25:14】
+错误：(1062, "Duplicate entry '恋爱先生-26827972' for key 'a_film.udx_title'")
+【2024-06-24 14:25:14】
+错误：(1062, "Duplicate entry '午夜狂奔-1294699' for key 'a_film.udx_title'")
+【2024-06-24 14:25:14】
+错误：(1062, "Duplicate entry '黑皮记事本-27046252' for key 'a_film.udx_title'")
+【2024-06-24 14:25:14】
+错误：(1062, "Duplicate entry 'Soho区惊魂夜-30447440' for key 'a_film.udx_title'")
+【2024-06-24 14:25:14】
+错误：(1062, "Duplicate entry '女高怪谈3：狐狸阶梯-1308499' for key 'a_film.udx_title'")
+【2024-06-24 14:25:14】
+错误：(1062, "Duplicate entry '老爸老妈的浪漫史 第五季-3990479' for key 'a_film.udx_title'")
+【2024-06-24 14:25:14】
+错误：(1062, "Duplicate entry '丛林大反攻-1428178' for key 'a_film.udx_title'")
+【2024-06-24 14:25:14】
+错误：(1062, "Duplicate entry '演员请就位 第一季-33385536' for key 'a_film.udx_title'")
+【2024-06-24 14:25:14】
+错误：(1062, "Duplicate entry '贝奥武夫-1792917' for key 'a_film.udx_title'")
+【2024-06-24 14:25:14】
+错误：(1062, "Duplicate entry '东宫西宫-1304609' for key 'a_film.udx_title'")
+【2024-06-24 14:25:14】
+错误：(1062, "Duplicate entry '密会-25792815' for key 'a_film.udx_title'")
+【2024-06-24 14:25:14】
+错误：(1062, "Duplicate entry '怪奇宅-35477218' for key 'a_film.udx_title'")
+【2024-06-24 14:25:14】
+错误：(1062, "Duplicate entry '耶稣受难记-1308750' for key 'a_film.udx_title'")
+【2024-06-24 14:25:14】
+错误：(1062, "Duplicate entry '小小姐们-35516141' for key 'a_film.udx_title'")
+【2024-06-24 14:26:52】
+错误：'NoneType' object has no attribute 'read'
+【2024-06-24 14:27:39】
+错误：(1062, "Duplicate entry '蓝雨伞之恋-20505641' for key 'a_film.udx_title'")
+【2024-06-24 14:27:39】
+错误：(1062, "Duplicate entry '爱情魔发师-2085029' for key 'a_film.udx_title'")
+【2024-06-24 14:27:39】
+错误：(1062, "Duplicate entry '去年在马里昂巴德-1400240' for key 'a_film.udx_title'")
+【2024-06-24 14:27:39】
+错误：(1062, "Duplicate entry '欲望都市 第四季-2153595' for key 'a_film.udx_title'")
+【2024-06-24 14:27:39】
+错误：(1062, "Duplicate entry '我和春天有个约会-2983434' for key 'a_film.udx_title'")
+【2024-06-24 14:27:39】
+错误：(1062, "Duplicate entry '无法无天-3025809' for key 'a_film.udx_title'")
+【2024-06-24 14:27:39】
+错误：(1062, "Duplicate entry '盗墓笔记之云顶天宫-26617075' for key 'a_film.udx_title'")
+【2024-06-24 14:27:39】
+错误：(1062, "Duplicate entry '汉娜-3156117' for key 'a_film.udx_title'")
+【2024-06-24 14:27:39】
+错误：(1062, "Duplicate entry '鸭子侦探-3160834' for key 'a_film.udx_title'")
+【2024-06-24 14:27:39】
+错误：(1062, "Duplicate entry '德州电锯杀人狂-1300392' for key 'a_film.udx_title'")
+【2024-06-24 14:27:44】
+错误：(1062, "Duplicate entry '极品基老伴 第二季-24748854' for key 'a_film.udx_title'")
+【2024-06-24 14:27:44】
+错误：(1062, "Duplicate entry '蒸汽男孩-1291576' for key 'a_film.udx_title'")
+【2024-06-24 14:27:44】
+错误：(1062, "Duplicate entry '精灵宝可梦：超梦的逆袭-1420088' for key 'a_film.udx_title'")
+【2024-06-24 14:27:44】
+错误：(1062, "Duplicate entry '密室大逃脱大神版 第二季-35126067' for key 'a_film.udx_title'")
+【2024-06-24 14:27:44】
+错误：(1062, "Duplicate entry '辣手摧花-1293817' for key 'a_film.udx_title'")
+【2024-06-24 14:27:44】
+错误：(1062, "Duplicate entry '东方华尔街-27029233' for key 'a_film.udx_title'")
+【2024-06-24 14:27:44】
+错误：(1062, "Duplicate entry '红苹果乐园-2342557' for key 'a_film.udx_title'")
+【2024-06-24 14:27:44】
+错误：(1062, "Duplicate entry '夏目友人帐 第五季 特别篇 一夜酒杯-27011740' for key 'a_film.udx_title'")
+【2024-06-24 14:27:44】
+错误：(1062, "Duplicate entry '陈翔六点半之重楼别-34454654' for key 'a_film.udx_title'")
+【2024-06-24 14:54:30】
+错误：(1062, "Duplicate entry '哆啦A梦：大雄的南极冰冰凉大冒险-26839466' for key 'a_film.udx_title'")
+【2024-06-24 14:54:30】
+错误：(1062, "Duplicate entry '三毛流浪记-1434272' for key 'a_film.udx_title'")
+【2024-06-24 14:54:30】
+错误：(1062, "Duplicate entry '方形-26610229' for key 'a_film.udx_title'")
+【2024-06-24 14:54:30】
+错误：(1062, "Duplicate entry '水牛城66-1297311' for key 'a_film.udx_title'")
+【2024-06-24 14:54:30】
+错误：(1062, "Duplicate entry '无敌反斗星-1304132' for key 'a_film.udx_title'")
+【2024-06-24 14:54:30】
+错误：(1062, "Duplicate entry '金枝玉叶2-1302054' for key 'a_film.udx_title'")
+【2024-06-24 14:54:30】
+错误：(1062, "Duplicate entry '少年巴比伦-25876760' for key 'a_film.udx_title'")
+【2024-06-24 14:54:30】
+错误：(1062, "Duplicate entry '东方快车谋杀案-4179012' for key 'a_film.udx_title'")
+【2024-06-24 14:54:30】
+错误：(1062, "Duplicate entry '史前一万年-1949761' for key 'a_film.udx_title'")
+【2024-06-24 14:54:30】
+错误：(1062, "Duplicate entry '奇遇人生 第一季-30304024' for key 'a_film.udx_title'")
+【2024-06-24 14:54:30】
+错误：(1062, "Duplicate entry '美丽密令-4100696' for key 'a_film.udx_title'")
+【2024-06-24 14:54:30】
+错误：(1062, "Duplicate entry '无耻之徒(美版) 第七季-26707767' for key 'a_film.udx_title'")
+【2024-06-24 14:54:30】
+错误：(1062, "Duplicate entry '决胜时刻-30481973' for key 'a_film.udx_title'")
+【2024-06-24 14:54:30】
+错误：(1062, "Duplicate entry 'SPEC～警视厅公安部公安第五课 未详事件特别对ç\xad' for key 'a_film.udx_title'")
+【2024-06-24 14:54:30】
+错误：(1062, "Duplicate entry '霹雳火-1299502' for key 'a_film.udx_title'")
+【2024-06-24 14:54:30】
+错误：(1062, "Duplicate entry '幽冥-20514871' for key 'a_film.udx_title'")
+【2024-06-24 14:54:30】
+错误：(1062, "Duplicate entry '制作人-26334946' for key 'a_film.udx_title'")
+【2024-06-24 14:54:30】
+错误：(1062, "Duplicate entry '气球-30192401' for key 'a_film.udx_title'")
+【2024-06-24 14:54:30】
+错误：(1062, "Duplicate entry '即日启程-3250377' for key 'a_film.udx_title'")
+【2024-06-24 14:54:31】
+错误：(1062, "Duplicate entry '欲望号街车-1293590' for key 'a_film.udx_title'")
+【2024-06-24 14:54:33】
+错误：(1062, "Duplicate entry '春潮-27186348' for key 'a_film.udx_title'")
+【2024-06-24 14:54:33】
+错误：(1062, "Duplicate entry '毒枭 第一季-25850640' for key 'a_film.udx_title'")
+【2024-06-24 14:54:33】
+错误：(1062, "Duplicate entry '晒后假日-35876302' for key 'a_film.udx_title'")
+【2024-06-24 14:54:33】
+错误：(1062, "Duplicate entry '谜一样的双眼-4066125' for key 'a_film.udx_title'")
+【2024-06-24 14:54:33】
+错误：(1062, "Duplicate entry '突袭-6771529' for key 'a_film.udx_title'")
+【2024-06-24 14:54:33】
+错误：(1062, "Duplicate entry '咖喱辣椒-1301865' for key 'a_film.udx_title'")
+【2024-06-24 14:54:33】
+错误：(1062, "Duplicate entry '我的间谍前男友-26999424' for key 'a_film.udx_title'")
+【2024-06-24 14:54:33】
+错误：(1062, "Duplicate entry '愤怒的小鸟2-26863060' for key 'a_film.udx_title'")
+【2024-06-24 14:54:33】
+错误：(1062, "Duplicate entry '荆轲刺秦王-1294693' for key 'a_film.udx_title'")
+【2024-06-24 14:54:33】
+错误：(1062, "Duplicate entry '救火英雄-20443013' for key 'a_film.udx_title'")
+【2024-06-24 14:54:33】
+错误：(1062, "Duplicate entry '虎胆龙威5-4312428' for key 'a_film.udx_title'")
+【2024-06-24 14:54:33】
+错误：(1062, "Duplicate entry '魔弦传说-26287884' for key 'a_film.udx_title'")
+【2024-06-24 14:54:33】
+错误：(1062, "Duplicate entry '一条狗的回家路-27193043' for key 'a_film.udx_title'")
+【2024-06-24 14:54:33】
+错误：(1062, "Duplicate entry '唐顿庄园 第三季-6985315' for key 'a_film.udx_title'")
+【2024-06-24 14:54:33】
+错误：(1062, "Duplicate entry '七号房的礼物-34875369' for key 'a_film.udx_title'")
+【2024-06-24 14:54:33】
+错误：(1062, "Duplicate entry '使女的故事 第一季-26784967' for key 'a_film.udx_title'")
+【2024-06-24 14:54:33】
+错误：(1062, "Duplicate entry '行运一条龙-1299550' for key 'a_film.udx_title'")
+【2024-06-24 14:54:34】
+错误：(1062, "Duplicate entry '浪客剑心-6558801' for key 'a_film.udx_title'")
