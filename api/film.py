@@ -2,13 +2,12 @@ from decimal import Decimal
 
 from flask import Flask, jsonify, request
 from common.mysql_operate import db
-from common.redis_operate import redis_db
-from common.md5_operate import get_md5
 import re, time
 import requests
 import json
 import random
 import threading
+from urllib3.exceptions import InsecureRequestWarning
 
 
 
@@ -92,15 +91,25 @@ def addFilmSql(title, cover, url, rating, casts, star, directors, cover_x, cover
 
 def getProxysFromFile():
     with open("proxy.txt", "r") as f:
-        l = f.readlines()
-    return l
+        lines = f.readlines()
+
+        # 使用random.choice随机选择一行
+    random_line = random.choice(lines)
+
+    # 去掉选中行的前后空白符（包括换行符）
+    return random_line.strip()
 
 
 def run(proxy, start):
+    ret = ""
     try:
         print("proxy:{}".format(proxy))
+        # 不显示警告
+        requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
+
         s = requests.Session()
         proxies = {
+            "https": "http://{}".format(proxy.strip()),
             "http": "http://{}".format(proxy.strip())
         }
 
@@ -109,28 +118,65 @@ def run(proxy, start):
         }
 
         ret = s.get(url='https://movie.douban.com/j/new_search_subjects?sort=T&tags=&start=' + str(start),
-                    headers=header, proxies=proxies, timeout=4, verify=False)
+                    headers=header, proxies=proxies, timeout=10, verify=False)
         rc = ret.content.decode("utf-8")
-        print("远程结果：")
-        print(rc)
-        exit()
-        if "成功" in rc:
-            global count
-            count += 1
-            print(count)
+        print("now2 start is：{}".format(start))
+        print("rc:{}".format(rc))
+        analysisRemoteResult(ret, start)
+
     except Exception as e:
-        print("发生异常：", e)
+        addText("\n" + str(start), 'film-insert-start-todo.txt')
         pass
 
 
+
+def analysisRemoteResult(response, start):
+
+    if response.status_code == 200:
+        print("success start is：{}".format(start))
+
+        try:
+            data = response.json()
+
+            for item in data['data']:
+                title = item['title']
+                cover = item['cover']
+                url = item['url']
+                rating = Decimal(item['rate'])
+                casts = str(item['casts'])
+                star = int(item['star'])
+                directors = str(item['directors'])
+                cover_x = int(item['cover_x'])
+                cover_y = int(item['cover_y'])
+                other_id = str(item['id'])
+                addFilmSql(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id)
+        except json.decoder.JSONDecodeError:
+            print('Error: Failed to decode JSON data')
+    else:
+        print("run 发生异常：", e)
+        addText("\n" + str(start), 'film-insert-start-todo.txt')
+        print(f'Error: Failed to fetch data. Status code: {response.status_code}')
+        exit()
+
+def addText(content, fileName):
+    with open(fileName, 'a', encoding='utf-8') as file:
+        # 在文件末尾追加文本
+        file.write(content)
+
+
 if __name__ == '__main__':
-    l=getProxysFromFile()
     # while True:
-    for i in range(2701, 2750, 20):
+    # allPages = [1,141,181,101,241,261,321,441,981,1041,1081,1561,1581,1881,1861]
+    # for i in allPages:
+    for i in range(6001, 8001, 20):
+        proxyLine = getProxysFromFile()
+
+        random_number = random.randint(1, 5)
+        time.sleep(random_number)
         print("now start is:" + str(i))
         try:
-            t=threading.Thread(target=run,args=(l.pop(), i))
+            t=threading.Thread(target=run,args=(proxyLine, i))
             t.start()
-        except:
-            print("线程出错！")
+        except Exception as e:
+            print("线程出错！{}", e)
             pass
