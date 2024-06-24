@@ -20,17 +20,6 @@ app.config["JSON_AS_ASCII"] = False  # jsonify返回的中文正常显示
 def hello_world():
     return 'Hello World!'
 
-
-@app.route("/users", methods=["POST"])
-def get_all_users():
-    """获取所有用户信息"""
-    sql = "SELECT * FROM user"
-    data = db.select_db(sql)
-    print("获取所有用户信息 == >> {}".format(data))
-    return jsonify({"code": 0, "data": data, "msg": "查询成功"})
-
-
-
 @app.route("/filmAdd", methods=['POST'])
 def filmAdd():
     # title = "大鱼海棠"
@@ -94,15 +83,10 @@ def remoteCollect(start):
         exit()
 
 def addFilmSql(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id):
-    # sql3 = "INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) " \
-    #        "VALUES('{}', '{}', '{}', '{}', '{}', '{}', '{}', '{}', '{}', '{}')".format(title, cover, url, Decimal(rating),
-    #                                                                                    str(casts), int(star), directors,
-    #                                                                                    int(cover_x), int(cover_y), int(other_id))
     sql3 = "INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) " \
            "VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
 
     print("title is:" + title)
-    # print("新增用户信息SQL ==>> '{}', '{}', '{}', '{}', '{}', '{}', '{}', '{}', '{}', '{}'".format(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id))
     db.execute_db_params(sql3, (title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id))
 
 
@@ -117,14 +101,9 @@ def run(proxy, start):
         print("proxy:{}".format(proxy))
         s = requests.Session()
         proxies = {
-            "http": "http://{}".format(proxy.strip()), "https": "https://{}".format(proxy.strip())
+            "http": "http://{}".format(proxy.strip())
         }
-        # header = {
-        #     "Host": "www.baidu.com",
-        #     "Referer": "http://www.baidu.com/xxx.html?199",
-        #     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36"
-        #
-        # }
+
         header = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
         }
@@ -145,7 +124,6 @@ def run(proxy, start):
 
 
 if __name__ == '__main__':
-    count=1
     l=getProxysFromFile()
     # while True:
     for i in range(2701, 2750, 20):
@@ -154,4 +132,5 @@ if __name__ == '__main__':
             t=threading.Thread(target=run,args=(l.pop(), i))
             t.start()
         except:
+            print("线程出错！")
             pass
