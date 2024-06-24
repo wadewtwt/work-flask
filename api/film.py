@@ -73,8 +73,6 @@ def remoteCollect(start):
                 cover_y = int(item['cover_y'])
                 other_id = str(item['id'])
                 addFilmSql(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id)
-
-
         except json.decoder.JSONDecodeError:
             print('Error: Failed to decode JSON data')
     else:
@@ -131,13 +129,11 @@ def run(proxy, start):
 
 
 def analysisRemoteResult(response, start):
-
     if response.status_code == 200:
         print("success start is：{}".format(start))
 
         try:
             data = response.json()
-
             for item in data['data']:
                 title = item['title']
                 cover = item['cover']
