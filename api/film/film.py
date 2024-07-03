@@ -88,7 +88,7 @@ def addFilmSql(title, cover, url, rating, casts, star, directors, cover_x, cover
 
 
 def getProxysFromFile():
-    with open("proxy.txt", "r") as f:
+    with open("../proxy.txt", "r") as f:
         lines = f.readlines()
 
         # 使用random.choice随机选择一行
