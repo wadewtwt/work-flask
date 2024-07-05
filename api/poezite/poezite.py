@@ -7,14 +7,22 @@ import re
 
 def run(params):
     try:
-        sql = "SELECT * FROM article where id in(25,30,31,33,35,37,38,40,48,49,50,51,66,71,74,75,80,83,85,86,87,88,89,92,95,96,101,102,103,104,111,116,118,122,130,131,134,135,136,138,140,142,145,146,148,151,153,159,160,162,163,178,180,200,211,214)"
+        sql = "SELECT * FROM article where id in(44,45,46,47,49,53,54,55,56,57,58,59,61,63,64,65,66,78,95,116)"
         # sql = "SELECT * FROM article where id in(51)"
         list = db.select_db(sql)
         for item in list:
             articleContent = item['article_content']
             id = item['id']
             print("\n now id is:" + str(id))
-            matchImg(articleContent)
+
+            # 3.处理内容第一张图片为封面
+            matchFirstImg(id, articleContent)
+
+
+            # 2.处理图片
+            # matchImg(articleContent)
+
+            # 1.处理html转markdown
             # newArticleContent = html2text.html2text(articleContent)
             # newArticleContent = newArticleContent.replace("'", "\"")
             # sql3 = "UPDATE article SET article_content = '{}' " \
@@ -25,11 +33,30 @@ def run(params):
         print("run error:{}", e)
         exit()
 
+def matchFirstImg(id, content):
+    # pattern = r"http?://.*?\.(?:png|jpg|jpeg)"
+    pattern = r'!\[.*?\]\((https?://[^\s]+)\)'
+    # pattern = r'(https?://\S+\.(?:png|jpg|jpeg|gif))'
+    pattern = r'!\[.*?\]\((http[s]?://[^\s]+)\)'
+    # pattern = r"http?://[^/]+/(.*)"
+    # pattern = r"http?://.*?\.(?:png|jpg|jpeg)"
+
+
+
+    match = re.search(pattern, content)
+    if match:
+        firstImg = match.group(1)
+        sql = "UPDATE article SET article_cover = '{}' " \
+                       "WHERE id = {}".format(firstImg, id)
+        db.execute_db(sql)
+
+
 def matchImg(content):
     pattern = r'(https?://\S+\.(?:png|jpg|jpeg|gif))'
     pattern = r'这里插入图片描述\]\((.*?)\?'
     pattern = r"!\[.*?\]\((.*?)\)"
     pattern = r"https?://.*?\.(?:png|jpg|jpeg)"
+
 
     image_urls = re.findall(pattern, content)
     fileUtil = FileUtil()
