@@ -1,21 +1,37 @@
 import pymysql
-from config.setting import MYSQL_HOST, MYSQL_PORT, MYSQL_USER, MYSQL_PASSWD, MYSQL_DB
+from config.setting import MYSQL_HOST, MYSQL_PORT, MYSQL_USER, MYSQL_PASSWD, MYSQL_DB, MYSQL_DB_POETIZE
 from datetime import datetime
 
 class MysqlDb():
 
     def __init__(self, host, port, user, passwd, db):
-        # 建立数据库连接
+        self.host = host
+        self.port = port
+        self.user = user
+        self.passwd = passwd
+        self.current_db = db  # 保存当前数据库名
+        self.connect_db()  # 连接数据库
+
+    def connect_db(self):
+        """连接数据库"""
         self.conn = pymysql.connect(
-            host=host,
-            port=port,
-            user=user,
-            passwd=passwd,
-            db=db,
+            host=self.host,
+            port=self.port,
+            user=self.user,
+            passwd=self.passwd,
+            db=self.current_db,  # 使用当前数据库名
             autocommit=True
         )
-        # 通过 cursor() 创建游标对象，并让查询结果以字典格式输出
         self.cur = self.conn.cursor(cursor=pymysql.cursors.DictCursor)
+
+    def change_db(self, dbInt):
+        mapDb = {
+            1: MYSQL_DB,
+            2: MYSQL_DB_POETIZE
+        }
+        """更改当前数据库"""
+        self.current_db = mapDb.get(dbInt, MYSQL_DB)
+        self.connect_db()  # 重新连接数据库
 
     def __del__(self): # 对象资源被释放时触发，在对象即将被删除时的最后操作
         # 关闭游标
@@ -91,4 +107,4 @@ class MysqlDb():
             file.write("\n"+content)
 
 
-db = MysqlDb(MYSQL_HOST, MYSQL_PORT, MYSQL_USER, MYSQL_PASSWD, MYSQL_DB)
+db = MysqlDb(MYSQL_HOST, MYSQL_PORT, MYSQL_USER, MYSQL_PASSWD, '')

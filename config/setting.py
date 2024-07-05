@@ -6,7 +6,9 @@ MYSQL_HOST = "139.224.60.242"
 MYSQL_PORT = 3306
 MYSQL_USER = "root"
 MYSQL_PASSWD = "940327Wt!"
+
 MYSQL_DB = "ai-share"
+MYSQL_DB_POETIZE = "poetize"
 
 # Redis配置
 REDIS_HOST = "192.168.89.128"
