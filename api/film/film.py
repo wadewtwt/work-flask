@@ -162,9 +162,9 @@ def addText(content, fileName):
 
 if __name__ == '__main__':
     # while True:
-    allPages = [4201, 2861]
-    for i in allPages:
-    # for i in range(6001, 8001, 20):
+    # allPages = [4201, 2861]
+    # for i in allPages:
+    for i in range(1, 3, 20):
         proxyLine = getProxysFromFile()
 
         random_number = random.randint(1, 5)
