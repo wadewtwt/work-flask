@@ -27,10 +27,18 @@ def newestMovieWork():
                     titleText += str(elem).strip().replace(" ", "").replace("/", "").replace("\n", "")
             ratingText = movie.find('span', class_='rating_nums').text.strip()
 
+            # 判断是否存在，有就返回
+            listByTitle = selectBytitle(titleText)
+            if len(listByTitle) > 0:
+                return
+
             print(f'Title: {titleText}, Rating: {ratingText}, hrefText:{hrefText}, imgText:{imgText}')
             addFilmSql(titleText, imgText, hrefText, ratingText, "",0, "", 0, 0, 0);
 
-
+def selectBytitle(title):
+    sql1 = "SELECT id,title FROM a_film WHERE title = '{}'".format(title)
+    res1 = db.select_db(sql1)
+    return res1
 
 if __name__ == '__main__':
     db.change_db(1)

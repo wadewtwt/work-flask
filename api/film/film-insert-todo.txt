@@ -2643,3 +2643,399 @@ INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, c
 INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('行运一条龙', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2461324333.jpg', 'https://movie.douban.com/subject/1299550/', 6.9, '[\'周星驰\', \'葛民辉\', \'陈晓东\', \'郑秀文\', \'杨恭如\']', 35, '[\'李力持\']', 773, 1080, '1299550');
 【2024-06-24 14:54:34】
 INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('浪客剑心', 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1811862671.jpg', 'https://movie.douban.com/subject/6558801/', 8.1, '[\'佐藤健\', \'武井咲\', \'吉川晃司\', \'苍井优\', \'青木崇高\']', 40, '[\'大友启史\']', 1760, 2483, '6558801');
+【2024-07-22 13:53:09】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('梦境', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910694617.jpg', 'https://movie.douban.com/subject/34453198/', '6.4', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:09】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('犯罪都市4', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910694617.jpg', 'https://movie.douban.com/subject/36085987/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:09】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('红毯先生', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910694617.jpg', 'https://movie.douban.com/subject/35494829/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:09】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('你想活出怎样的人生', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910694617.jpg', 'https://movie.douban.com/subject/26925611/', '7.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:09】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('神秘窥视', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910694617.jpg', 'https://movie.douban.com/subject/36246315/', '5.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:09】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('我们一起摇太阳', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910694617.jpg', 'https://movie.douban.com/subject/36149032/', '8.0', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:09】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('三叉戟', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910694617.jpg', 'https://movie.douban.com/subject/26903951/', '4.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:09】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('职业杀手', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910694617.jpg', 'https://movie.douban.com/subject/35898983/', '7.0', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:09】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('梦境', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2903301473.jpg', 'https://movie.douban.com/subject/34453198/', '6.4', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:09】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('犯罪都市4', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2903301473.jpg', 'https://movie.douban.com/subject/36085987/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('红毯先生', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2903301473.jpg', 'https://movie.douban.com/subject/35494829/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('九龙城寨之围城', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2903301473.jpg', 'https://movie.douban.com/subject/24284175/', '7.3', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('你想活出怎样的人生', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2903301473.jpg', 'https://movie.douban.com/subject/26925611/', '7.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('神秘窥视', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2903301473.jpg', 'https://movie.douban.com/subject/36246315/', '5.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('我们一起摇太阳', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2903301473.jpg', 'https://movie.douban.com/subject/36149032/', '8.0', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('三叉戟', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2903301473.jpg', 'https://movie.douban.com/subject/26903951/', '4.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('她死了', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2903301473.jpg', 'https://movie.douban.com/subject/35640020/', '6.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('职业杀手', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2903301473.jpg', 'https://movie.douban.com/subject/35898983/', '7.0', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('梦境', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905249058.jpg', 'https://movie.douban.com/subject/34453198/', '6.4', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('犯罪都市4', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905249058.jpg', 'https://movie.douban.com/subject/36085987/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('红毯先生', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905249058.jpg', 'https://movie.douban.com/subject/35494829/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('九龙城寨之围城', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905249058.jpg', 'https://movie.douban.com/subject/24284175/', '7.3', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('你想活出怎样的人生', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905249058.jpg', 'https://movie.douban.com/subject/26925611/', '7.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('神秘窥视', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905249058.jpg', 'https://movie.douban.com/subject/36246315/', '5.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('我们一起摇太阳', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905249058.jpg', 'https://movie.douban.com/subject/36149032/', '8.0', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('三叉戟', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905249058.jpg', 'https://movie.douban.com/subject/26903951/', '4.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('她死了', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905249058.jpg', 'https://movie.douban.com/subject/35640020/', '6.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('职业杀手', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905249058.jpg', 'https://movie.douban.com/subject/35898983/', '7.0', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('梦境', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2907242293.jpg', 'https://movie.douban.com/subject/34453198/', '6.4', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('犯罪都市4', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2907242293.jpg', 'https://movie.douban.com/subject/36085987/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('红毯先生', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2907242293.jpg', 'https://movie.douban.com/subject/35494829/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('九龙城寨之围城', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2907242293.jpg', 'https://movie.douban.com/subject/24284175/', '7.3', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('你想活出怎样的人生', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2907242293.jpg', 'https://movie.douban.com/subject/26925611/', '7.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('神秘窥视', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2907242293.jpg', 'https://movie.douban.com/subject/36246315/', '5.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('我们一起摇太阳', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2907242293.jpg', 'https://movie.douban.com/subject/36149032/', '8.0', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('三叉戟', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2907242293.jpg', 'https://movie.douban.com/subject/26903951/', '4.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('她死了', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2907242293.jpg', 'https://movie.douban.com/subject/35640020/', '6.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('职业杀手', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2907242293.jpg', 'https://movie.douban.com/subject/35898983/', '7.0', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('梦境', 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2906527755.jpg', 'https://movie.douban.com/subject/34453198/', '6.4', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('犯罪都市4', 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2906527755.jpg', 'https://movie.douban.com/subject/36085987/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('红毯先生', 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2906527755.jpg', 'https://movie.douban.com/subject/35494829/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('九龙城寨之围城', 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2906527755.jpg', 'https://movie.douban.com/subject/24284175/', '7.3', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('你想活出怎样的人生', 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2906527755.jpg', 'https://movie.douban.com/subject/26925611/', '7.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('神秘窥视', 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2906527755.jpg', 'https://movie.douban.com/subject/36246315/', '5.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('我们一起摇太阳', 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2906527755.jpg', 'https://movie.douban.com/subject/36149032/', '8.0', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:10】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('三叉戟', 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2906527755.jpg', 'https://movie.douban.com/subject/26903951/', '4.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('她死了', 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2906527755.jpg', 'https://movie.douban.com/subject/35640020/', '6.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('职业杀手', 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2906527755.jpg', 'https://movie.douban.com/subject/35898983/', '7.0', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('梦境', 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2905033491.jpg', 'https://movie.douban.com/subject/34453198/', '6.4', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('犯罪都市4', 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2905033491.jpg', 'https://movie.douban.com/subject/36085987/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('红毯先生', 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2905033491.jpg', 'https://movie.douban.com/subject/35494829/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('九龙城寨之围城', 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2905033491.jpg', 'https://movie.douban.com/subject/24284175/', '7.3', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('你想活出怎样的人生', 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2905033491.jpg', 'https://movie.douban.com/subject/26925611/', '7.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('神秘窥视', 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2905033491.jpg', 'https://movie.douban.com/subject/36246315/', '5.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('我们一起摇太阳', 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2905033491.jpg', 'https://movie.douban.com/subject/36149032/', '8.0', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('三叉戟', 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2905033491.jpg', 'https://movie.douban.com/subject/26903951/', '4.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('她死了', 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2905033491.jpg', 'https://movie.douban.com/subject/35640020/', '6.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('职业杀手', 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2905033491.jpg', 'https://movie.douban.com/subject/35898983/', '7.0', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('梦境', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2904467472.jpg', 'https://movie.douban.com/subject/34453198/', '6.4', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('犯罪都市4', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2904467472.jpg', 'https://movie.douban.com/subject/36085987/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('红毯先生', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2904467472.jpg', 'https://movie.douban.com/subject/35494829/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('九龙城寨之围城', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2904467472.jpg', 'https://movie.douban.com/subject/24284175/', '7.3', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('你想活出怎样的人生', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2904467472.jpg', 'https://movie.douban.com/subject/26925611/', '7.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('神秘窥视', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2904467472.jpg', 'https://movie.douban.com/subject/36246315/', '5.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('我们一起摇太阳', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2904467472.jpg', 'https://movie.douban.com/subject/36149032/', '8.0', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('三叉戟', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2904467472.jpg', 'https://movie.douban.com/subject/26903951/', '4.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('她死了', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2904467472.jpg', 'https://movie.douban.com/subject/35640020/', '6.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('职业杀手', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2904467472.jpg', 'https://movie.douban.com/subject/35898983/', '7.0', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('梦境', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907038150.jpg', 'https://movie.douban.com/subject/34453198/', '6.4', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('犯罪都市4', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907038150.jpg', 'https://movie.douban.com/subject/36085987/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('红毯先生', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907038150.jpg', 'https://movie.douban.com/subject/35494829/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('九龙城寨之围城', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907038150.jpg', 'https://movie.douban.com/subject/24284175/', '7.3', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('你想活出怎样的人生', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907038150.jpg', 'https://movie.douban.com/subject/26925611/', '7.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('神秘窥视', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907038150.jpg', 'https://movie.douban.com/subject/36246315/', '5.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('我们一起摇太阳', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907038150.jpg', 'https://movie.douban.com/subject/36149032/', '8.0', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('三叉戟', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907038150.jpg', 'https://movie.douban.com/subject/26903951/', '4.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('她死了', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907038150.jpg', 'https://movie.douban.com/subject/35640020/', '6.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('职业杀手', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907038150.jpg', 'https://movie.douban.com/subject/35898983/', '7.0', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('梦境', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907283458.jpg', 'https://movie.douban.com/subject/34453198/', '6.4', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('犯罪都市4', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907283458.jpg', 'https://movie.douban.com/subject/36085987/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('红毯先生', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907283458.jpg', 'https://movie.douban.com/subject/35494829/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:11】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('九龙城寨之围城', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907283458.jpg', 'https://movie.douban.com/subject/24284175/', '7.3', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:12】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('你想活出怎样的人生', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907283458.jpg', 'https://movie.douban.com/subject/26925611/', '7.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:12】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('神秘窥视', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907283458.jpg', 'https://movie.douban.com/subject/36246315/', '5.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:12】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('我们一起摇太阳', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907283458.jpg', 'https://movie.douban.com/subject/36149032/', '8.0', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:12】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('三叉戟', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907283458.jpg', 'https://movie.douban.com/subject/26903951/', '4.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:12】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('她死了', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907283458.jpg', 'https://movie.douban.com/subject/35640020/', '6.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:12】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('职业杀手', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907283458.jpg', 'https://movie.douban.com/subject/35898983/', '7.0', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:12】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('梦境', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2908994553.jpg', 'https://movie.douban.com/subject/34453198/', '6.4', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:12】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('犯罪都市4', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2908994553.jpg', 'https://movie.douban.com/subject/36085987/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:12】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('红毯先生', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2908994553.jpg', 'https://movie.douban.com/subject/35494829/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:12】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('九龙城寨之围城', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2908994553.jpg', 'https://movie.douban.com/subject/24284175/', '7.3', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:12】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('你想活出怎样的人生', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2908994553.jpg', 'https://movie.douban.com/subject/26925611/', '7.6', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:12】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('神秘窥视', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2908994553.jpg', 'https://movie.douban.com/subject/36246315/', '5.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:12】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('我们一起摇太阳', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2908994553.jpg', 'https://movie.douban.com/subject/36149032/', '8.0', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:12】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('三叉戟', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2908994553.jpg', 'https://movie.douban.com/subject/26903951/', '4.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:12】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('她死了', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2908994553.jpg', 'https://movie.douban.com/subject/35640020/', '6.8', '', 0, '', 0, 0, 0);
+【2024-07-22 13:53:12】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('职业杀手', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2908994553.jpg', 'https://movie.douban.com/subject/35898983/', '7.0', '', 0, '', 0, 0, 0);
+【2024-07-22 14:06:59】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('梦境', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910694617.jpg', 'https://movie.douban.com/subject/34453198/', '6.4', '', 0, '', 0, 0, 0);
+【2024-07-22 14:06:59】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('犯罪都市4', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910694617.jpg', 'https://movie.douban.com/subject/36085987/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:06:59】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('红毯先生', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910694617.jpg', 'https://movie.douban.com/subject/35494829/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:06:59】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('九龙城寨之围城', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910694617.jpg', 'https://movie.douban.com/subject/24284175/', '7.3', '', 0, '', 0, 0, 0);
+【2024-07-22 14:06:59】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('你想活出怎样的人生', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910694617.jpg', 'https://movie.douban.com/subject/26925611/', '7.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:06:59】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('神秘窥视', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910694617.jpg', 'https://movie.douban.com/subject/36246315/', '5.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:06:59】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('我们一起摇太阳', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910694617.jpg', 'https://movie.douban.com/subject/36149032/', '8.0', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('三叉戟', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910694617.jpg', 'https://movie.douban.com/subject/26903951/', '4.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('她死了', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910694617.jpg', 'https://movie.douban.com/subject/35640020/', '6.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('职业杀手', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910694617.jpg', 'https://movie.douban.com/subject/35898983/', '7.0', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('梦境', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2903301473.jpg', 'https://movie.douban.com/subject/34453198/', '6.4', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('犯罪都市4', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2903301473.jpg', 'https://movie.douban.com/subject/36085987/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('红毯先生', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2903301473.jpg', 'https://movie.douban.com/subject/35494829/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('九龙城寨之围城', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2903301473.jpg', 'https://movie.douban.com/subject/24284175/', '7.3', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('你想活出怎样的人生', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2903301473.jpg', 'https://movie.douban.com/subject/26925611/', '7.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('神秘窥视', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2903301473.jpg', 'https://movie.douban.com/subject/36246315/', '5.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('我们一起摇太阳', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2903301473.jpg', 'https://movie.douban.com/subject/36149032/', '8.0', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('三叉戟', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2903301473.jpg', 'https://movie.douban.com/subject/26903951/', '4.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('她死了', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2903301473.jpg', 'https://movie.douban.com/subject/35640020/', '6.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('职业杀手', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2903301473.jpg', 'https://movie.douban.com/subject/35898983/', '7.0', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('梦境', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905249058.jpg', 'https://movie.douban.com/subject/34453198/', '6.4', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('犯罪都市4', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905249058.jpg', 'https://movie.douban.com/subject/36085987/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('红毯先生', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905249058.jpg', 'https://movie.douban.com/subject/35494829/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('九龙城寨之围城', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905249058.jpg', 'https://movie.douban.com/subject/24284175/', '7.3', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('你想活出怎样的人生', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905249058.jpg', 'https://movie.douban.com/subject/26925611/', '7.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('神秘窥视', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905249058.jpg', 'https://movie.douban.com/subject/36246315/', '5.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('我们一起摇太阳', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905249058.jpg', 'https://movie.douban.com/subject/36149032/', '8.0', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('三叉戟', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905249058.jpg', 'https://movie.douban.com/subject/26903951/', '4.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('她死了', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905249058.jpg', 'https://movie.douban.com/subject/35640020/', '6.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('职业杀手', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905249058.jpg', 'https://movie.douban.com/subject/35898983/', '7.0', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('梦境', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2907242293.jpg', 'https://movie.douban.com/subject/34453198/', '6.4', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('犯罪都市4', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2907242293.jpg', 'https://movie.douban.com/subject/36085987/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('红毯先生', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2907242293.jpg', 'https://movie.douban.com/subject/35494829/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('九龙城寨之围城', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2907242293.jpg', 'https://movie.douban.com/subject/24284175/', '7.3', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('你想活出怎样的人生', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2907242293.jpg', 'https://movie.douban.com/subject/26925611/', '7.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:00】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('神秘窥视', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2907242293.jpg', 'https://movie.douban.com/subject/36246315/', '5.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('我们一起摇太阳', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2907242293.jpg', 'https://movie.douban.com/subject/36149032/', '8.0', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('三叉戟', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2907242293.jpg', 'https://movie.douban.com/subject/26903951/', '4.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('她死了', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2907242293.jpg', 'https://movie.douban.com/subject/35640020/', '6.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('职业杀手', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2907242293.jpg', 'https://movie.douban.com/subject/35898983/', '7.0', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('梦境', 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2906527755.jpg', 'https://movie.douban.com/subject/34453198/', '6.4', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('犯罪都市4', 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2906527755.jpg', 'https://movie.douban.com/subject/36085987/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('红毯先生', 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2906527755.jpg', 'https://movie.douban.com/subject/35494829/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('九龙城寨之围城', 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2906527755.jpg', 'https://movie.douban.com/subject/24284175/', '7.3', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('你想活出怎样的人生', 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2906527755.jpg', 'https://movie.douban.com/subject/26925611/', '7.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('神秘窥视', 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2906527755.jpg', 'https://movie.douban.com/subject/36246315/', '5.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('我们一起摇太阳', 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2906527755.jpg', 'https://movie.douban.com/subject/36149032/', '8.0', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('三叉戟', 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2906527755.jpg', 'https://movie.douban.com/subject/26903951/', '4.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('她死了', 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2906527755.jpg', 'https://movie.douban.com/subject/35640020/', '6.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('职业杀手', 'https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2906527755.jpg', 'https://movie.douban.com/subject/35898983/', '7.0', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('梦境', 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2905033491.jpg', 'https://movie.douban.com/subject/34453198/', '6.4', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('犯罪都市4', 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2905033491.jpg', 'https://movie.douban.com/subject/36085987/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('红毯先生', 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2905033491.jpg', 'https://movie.douban.com/subject/35494829/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('九龙城寨之围城', 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2905033491.jpg', 'https://movie.douban.com/subject/24284175/', '7.3', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('你想活出怎样的人生', 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2905033491.jpg', 'https://movie.douban.com/subject/26925611/', '7.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('神秘窥视', 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2905033491.jpg', 'https://movie.douban.com/subject/36246315/', '5.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('我们一起摇太阳', 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2905033491.jpg', 'https://movie.douban.com/subject/36149032/', '8.0', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('三叉戟', 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2905033491.jpg', 'https://movie.douban.com/subject/26903951/', '4.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('她死了', 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2905033491.jpg', 'https://movie.douban.com/subject/35640020/', '6.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('职业杀手', 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2905033491.jpg', 'https://movie.douban.com/subject/35898983/', '7.0', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('梦境', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2904467472.jpg', 'https://movie.douban.com/subject/34453198/', '6.4', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('犯罪都市4', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2904467472.jpg', 'https://movie.douban.com/subject/36085987/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('红毯先生', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2904467472.jpg', 'https://movie.douban.com/subject/35494829/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('九龙城寨之围城', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2904467472.jpg', 'https://movie.douban.com/subject/24284175/', '7.3', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('你想活出怎样的人生', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2904467472.jpg', 'https://movie.douban.com/subject/26925611/', '7.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('神秘窥视', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2904467472.jpg', 'https://movie.douban.com/subject/36246315/', '5.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('我们一起摇太阳', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2904467472.jpg', 'https://movie.douban.com/subject/36149032/', '8.0', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('三叉戟', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2904467472.jpg', 'https://movie.douban.com/subject/26903951/', '4.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('她死了', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2904467472.jpg', 'https://movie.douban.com/subject/35640020/', '6.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('职业杀手', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2904467472.jpg', 'https://movie.douban.com/subject/35898983/', '7.0', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('梦境', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907038150.jpg', 'https://movie.douban.com/subject/34453198/', '6.4', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:01】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('犯罪都市4', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907038150.jpg', 'https://movie.douban.com/subject/36085987/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('红毯先生', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907038150.jpg', 'https://movie.douban.com/subject/35494829/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('九龙城寨之围城', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907038150.jpg', 'https://movie.douban.com/subject/24284175/', '7.3', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('你想活出怎样的人生', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907038150.jpg', 'https://movie.douban.com/subject/26925611/', '7.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('神秘窥视', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907038150.jpg', 'https://movie.douban.com/subject/36246315/', '5.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('我们一起摇太阳', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907038150.jpg', 'https://movie.douban.com/subject/36149032/', '8.0', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('三叉戟', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907038150.jpg', 'https://movie.douban.com/subject/26903951/', '4.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('她死了', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907038150.jpg', 'https://movie.douban.com/subject/35640020/', '6.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('职业杀手', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907038150.jpg', 'https://movie.douban.com/subject/35898983/', '7.0', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('梦境', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907283458.jpg', 'https://movie.douban.com/subject/34453198/', '6.4', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('犯罪都市4', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907283458.jpg', 'https://movie.douban.com/subject/36085987/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('红毯先生', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907283458.jpg', 'https://movie.douban.com/subject/35494829/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('九龙城寨之围城', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907283458.jpg', 'https://movie.douban.com/subject/24284175/', '7.3', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('你想活出怎样的人生', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907283458.jpg', 'https://movie.douban.com/subject/26925611/', '7.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('神秘窥视', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907283458.jpg', 'https://movie.douban.com/subject/36246315/', '5.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('我们一起摇太阳', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907283458.jpg', 'https://movie.douban.com/subject/36149032/', '8.0', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('三叉戟', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907283458.jpg', 'https://movie.douban.com/subject/26903951/', '4.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('她死了', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907283458.jpg', 'https://movie.douban.com/subject/35640020/', '6.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('职业杀手', 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907283458.jpg', 'https://movie.douban.com/subject/35898983/', '7.0', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('梦境', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2908994553.jpg', 'https://movie.douban.com/subject/34453198/', '6.4', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('犯罪都市4', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2908994553.jpg', 'https://movie.douban.com/subject/36085987/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('红毯先生', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2908994553.jpg', 'https://movie.douban.com/subject/35494829/', '6.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('九龙城寨之围城', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2908994553.jpg', 'https://movie.douban.com/subject/24284175/', '7.3', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('你想活出怎样的人生', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2908994553.jpg', 'https://movie.douban.com/subject/26925611/', '7.6', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('神秘窥视', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2908994553.jpg', 'https://movie.douban.com/subject/36246315/', '5.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('我们一起摇太阳', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2908994553.jpg', 'https://movie.douban.com/subject/36149032/', '8.0', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('三叉戟', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2908994553.jpg', 'https://movie.douban.com/subject/26903951/', '4.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('她死了', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2908994553.jpg', 'https://movie.douban.com/subject/35640020/', '6.8', '', 0, '', 0, 0, 0);
+【2024-07-22 14:07:02】
+INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) VALUES('职业杀手', 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2908994553.jpg', 'https://movie.douban.com/subject/35898983/', '7.0', '', 0, '', 0, 0, 0);
