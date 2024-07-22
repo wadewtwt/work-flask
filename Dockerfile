@@ -11,6 +11,5 @@ RUN pip install -r requirements.txt
 # 对外暴露的端口号
 EXPOSE 13003
 
-# 当容器启动时运行python app
-.py
+# 当容器启动时运行python app.py
 #CMD ["python", "app.py"]
