@@ -30,7 +30,8 @@ def newestMovieWork():
             # 判断是否存在，有就返回
             listByTitle = selectBytitle(titleText)
             if len(listByTitle) > 0:
-                return
+                print("已经存在：{}".format(titleText))
+                continue
 
             print(f'Title: {titleText}, Rating: {ratingText}, hrefText:{hrefText}, imgText:{imgText}')
             addFilmSql(titleText, imgText, hrefText, ratingText, "",0, "", 0, 0, 0);
