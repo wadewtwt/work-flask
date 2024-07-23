@@ -161,6 +161,9 @@ def addText(content, fileName):
 
 
 if __name__ == '__main__':
+    # 如果以这个文件为启动文件就释放下面这行
+    # app.run(host="0.0.0.0", port=8989, debug=True)
+
     # while True:
     # allPages = [4201, 2861]
     # for i in allPages:

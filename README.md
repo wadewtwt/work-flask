@@ -26,6 +26,10 @@ pip install flask
 nohup python3 /root/flaskDemo/app.py >/root/flaskDemo/flaskDemo.log 2>&1 &
 ```
 
+```
+也可以执行flask run --debug
+```
+
 ## 数据库设计
 
 数据库建表语句如下：
