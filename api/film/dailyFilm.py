@@ -3,8 +3,20 @@ from bs4 import BeautifulSoup
 import re
 from film import addFilmSql
 from common.mysql_operate import db
+from flask import Flask
+
+import datetime
+import time
+from apscheduler.schedulers.background import BackgroundScheduler
+from utils.file_util import FileUtil
+
+app = Flask(__name__)
 
 def newestMovieWork():
+    # fileUtil = FileUtil()
+    # fileUtil.append_text("log/dailyFilmLog.txt", "newestMovieWork is doing!")
+    # print("hello!")
+
     url = 'https://movie.douban.com/chart'
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
@@ -43,4 +55,19 @@ def selectBytitle(title):
 
 if __name__ == '__main__':
     db.change_db(1)
-    newestMovieWork()
+    app.run(host="0.0.0.0", port=8989, debug=True)
+
+    # 创建后台执行的 schedulers
+    scheduler = BackgroundScheduler()
+    # 添加调度任务
+    # 调度方法为 timedTask，触发器选择 interval(间隔性)，间隔时长为 2 秒（seconds，hours）
+    scheduler.add_job(newestMovieWork, 'interval', seconds=10)
+    # 启动调度任务
+    scheduler.start()
+
+    while True:
+        print(time.time())
+        time.sleep(5)
+
+
+    # newestMovieWork()

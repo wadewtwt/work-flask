@@ -8,14 +8,19 @@ from utils.time_util import TimeUtil
 
 class FileUtil:
     # 追加文字记录
-    def append_text(self, filename, text):
+    def append_text(self, file_path, text):
         timeUtil = TimeUtil()
         """
         将文本内容追加到文件末尾。
         :param text: 要追加的字符串。
         """
-        with open(filename, 'a', encoding='utf-8') as file:
-            file.write(timeUtil.getNowFormatTimeString() + ":" + text)
+        if not os.path.exists(file_path):
+            with open(file_path, 'w', encoding='utf-8') as file:
+                file.write(timeUtil.getNowFormatTimeString() + ":" + text + "\n")
+        else:
+            with open(file_path, 'a', encoding='utf-8') as file:
+                file.write(timeUtil.getNowFormatTimeString() + ":" + text + "\n")
+
 
     # 下载图片
     def download_image(self, remoteUrl, pathFilename):
