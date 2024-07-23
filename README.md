@@ -27,7 +27,10 @@ nohup python3 /root/flaskDemo/app.py >/root/flaskDemo/flaskDemo.log 2>&1 &
 ```
 
 ```
+我的新增！！！！！！！！！！！！
 也可以执行flask run --debug
+定时脚本如下：
+python D:\work\py\work-flask\script\dailyFilm.py
 ```
 
 ## 数据库设计

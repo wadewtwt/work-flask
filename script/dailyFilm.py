@@ -1,21 +1,26 @@
 import requests
 from bs4 import BeautifulSoup
 import re
-from film import addFilmSql
+import sys
+import os
+
+common_dir = os.path.abspath(os.path.join(os.path.dirname(__file__),  '..'))
+sys.path.append(common_dir)
+
 from common.mysql_operate import db
 from flask import Flask
-
 import datetime
 import time
 from apscheduler.schedulers.background import BackgroundScheduler
 from utils.file_util import FileUtil
 
+
 app = Flask(__name__)
 
 def newestMovieWork():
-    # fileUtil = FileUtil()
-    # fileUtil.append_text("log/dailyFilmLog.txt", "newestMovieWork is doing!")
-    # print("hello!")
+    fileUtil = FileUtil()
+    fileUtil.append_text("log/dailyFilmLog.txt", "newestMovieWork is doing!")
+    print("newestMovieWork doing!")
 
     url = 'https://movie.douban.com/chart'
     headers = {
@@ -48,6 +53,13 @@ def newestMovieWork():
             print(f'Title: {titleText}, Rating: {ratingText}, hrefText:{hrefText}, imgText:{imgText}')
             addFilmSql(titleText, imgText, hrefText, ratingText, "",0, "", 0, 0, 0);
 
+def addFilmSql(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id):
+    sql3 = "INSERT INTO a_film(title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id) " \
+           "VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+
+    print("title is:" + title)
+    db.execute_db_params(sql3, (title, cover, url, rating, casts, star, directors, cover_x, cover_y, other_id))
+
 def selectBytitle(title):
     sql1 = "SELECT id,title FROM a_film WHERE title = '{}'".format(title)
     res1 = db.select_db(sql1)
@@ -55,13 +67,12 @@ def selectBytitle(title):
 
 if __name__ == '__main__':
     db.change_db(1)
-    app.run(host="0.0.0.0", port=8989, debug=True)
 
     # 创建后台执行的 schedulers
     scheduler = BackgroundScheduler()
     # 添加调度任务
     # 调度方法为 timedTask，触发器选择 interval(间隔性)，间隔时长为 2 秒（seconds，hours）
-    scheduler.add_job(newestMovieWork, 'interval', seconds=10)
+    scheduler.add_job(newestMovieWork, 'interval', hours=1)
     # 启动调度任务
     scheduler.start()
 
@@ -69,5 +80,3 @@ if __name__ == '__main__':
         print(time.time())
         time.sleep(5)
 
-
-    # newestMovieWork()
