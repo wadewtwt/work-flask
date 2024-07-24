@@ -78,5 +78,5 @@ if __name__ == '__main__':
 
     while True:
         print(time.time())
-        time.sleep(5)
+        time.sleep(60)
 

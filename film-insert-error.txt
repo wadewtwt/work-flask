@@ -1,7 +1,0 @@
-
-错误：(1062, "Duplicate entry '花木兰' for key 'a_film.udx_title'")
-错误：(1062, "Duplicate entry '傲慢与偏见' for key 'a_film.udx_title'")
-错误：(1062, "Duplicate entry '她' for key 'a_film.udx_title'")
-错误：(1062, "Duplicate entry '一吻定情' for key 'a_film.udx_title'")
-错误：(1062, "Duplicate entry '西游记' for key 'a_film.udx_title'")
-
